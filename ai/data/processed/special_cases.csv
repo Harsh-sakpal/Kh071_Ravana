@@ -1,0 +1,201 @@
+id,complaint_text,domain_code,category_code,department_code,language,difficulty,source
+CF-SPEC-5001,There is some big problem near my house in Kalyani Nagar.,,,,EN,AMBIGUOUS,special_cases_generator
+CF-SPEC-5002,"Civic issue on main road near bus stop in Deccan Gymkhana, please check.",,,,HINGLISH,AMBIGUOUS,special_cases_generator
+CF-SPEC-5003,Something is wrong near the society gate in Yerwada.,,,,EN,AMBIGUOUS,special_cases_generator
+CF-SPEC-5004,There is some big problem near my house in Deccan Gymkhana.,,,,HINGLISH,AMBIGUOUS,special_cases_generator
+CF-SPEC-5005,Rastyavar kahi tari samasya aahe Magarpatta madhe.,,,,EN,AMBIGUOUS,special_cases_generator
+CF-SPEC-5006,Rastyavar kahi tari samasya aahe Kothrud madhe.,,,,HINGLISH,AMBIGUOUS,special_cases_generator
+CF-SPEC-5007,Rastyavar kahi tari samasya aahe Warje madhe.,,,,EN,AMBIGUOUS,special_cases_generator
+CF-SPEC-5008,Rastyavar kahi tari samasya aahe Chinchwad madhe.,,,,HINGLISH,AMBIGUOUS,special_cases_generator
+CF-SPEC-5009,Rastyavar kahi tari samasya aahe Pashan madhe.,,,,EN,AMBIGUOUS,special_cases_generator
+CF-SPEC-5010,Municipal team needed to inspect issue in Swargate.,,,,HINGLISH,AMBIGUOUS,special_cases_generator
+CF-SPEC-5011,"Civic issue on main road near bus stop in Baner, please check.",,,,EN,AMBIGUOUS,special_cases_generator
+CF-SPEC-5012,There is some big problem near my house in Hadapsar.,,,,HINGLISH,AMBIGUOUS,special_cases_generator
+CF-SPEC-5013,Municipal team needed to inspect issue in Shivajinagar.,,,,EN,AMBIGUOUS,special_cases_generator
+CF-SPEC-5014,There is some big problem near my house in Camp.,,,,HINGLISH,AMBIGUOUS,special_cases_generator
+CF-SPEC-5015,Rastyavar kahi tari samasya aahe Magarpatta madhe.,,,,EN,AMBIGUOUS,special_cases_generator
+CF-SPEC-5016,"Civic issue on main road near bus stop in Swargate, please check.",,,,HINGLISH,AMBIGUOUS,special_cases_generator
+CF-SPEC-5017,Rastyavar kahi tari samasya aahe Bavdhan madhe.,,,,EN,AMBIGUOUS,special_cases_generator
+CF-SPEC-5018,Something is wrong near the society gate in Kondhwa.,,,,HINGLISH,AMBIGUOUS,special_cases_generator
+CF-SPEC-5019,"Civic issue on main road near bus stop in Swargate, please check.",,,,EN,AMBIGUOUS,special_cases_generator
+CF-SPEC-5020,There is some big problem near my house in Baner.,,,,HINGLISH,AMBIGUOUS,special_cases_generator
+CF-SPEC-5021,Rastyavar kahi tari samasya aahe Baner madhe.,,,,EN,AMBIGUOUS,special_cases_generator
+CF-SPEC-5022,"Civic issue on main road near bus stop in Baner, please check.",,,,HINGLISH,AMBIGUOUS,special_cases_generator
+CF-SPEC-5023,"Civic issue on main road near bus stop in Kalyani Nagar, please check.",,,,EN,AMBIGUOUS,special_cases_generator
+CF-SPEC-5024,Something is wrong near the society gate in Viman Nagar.,,,,HINGLISH,AMBIGUOUS,special_cases_generator
+CF-SPEC-5025,Rastyavar kahi tari samasya aahe Koregaon Park madhe.,,,,EN,AMBIGUOUS,special_cases_generator
+CF-SPEC-5026,There is some big problem near my house in Kondhwa.,,,,HINGLISH,AMBIGUOUS,special_cases_generator
+CF-SPEC-5027,There is some big problem near my house in Hadapsar.,,,,EN,AMBIGUOUS,special_cases_generator
+CF-SPEC-5028,Rastyavar kahi tari samasya aahe Deccan Gymkhana madhe.,,,,HINGLISH,AMBIGUOUS,special_cases_generator
+CF-SPEC-5029,Something is wrong near the society gate in Pimpri.,,,,EN,AMBIGUOUS,special_cases_generator
+CF-SPEC-5030,Rastyavar kahi tari samasya aahe Yerwada madhe.,,,,HINGLISH,AMBIGUOUS,special_cases_generator
+CF-SPEC-5031,Municipal team needed to inspect issue in Camp.,,,,EN,AMBIGUOUS,special_cases_generator
+CF-SPEC-5032,"Civic issue on main road near bus stop in Viman Nagar, please check.",,,,HINGLISH,AMBIGUOUS,special_cases_generator
+CF-SPEC-5033,Something is wrong near the society gate in Baner.,,,,EN,AMBIGUOUS,special_cases_generator
+CF-SPEC-5034,Rastyavar kahi tari samasya aahe Aundh madhe.,,,,HINGLISH,AMBIGUOUS,special_cases_generator
+CF-SPEC-5035,Something is wrong near the society gate in Camp.,,,,EN,AMBIGUOUS,special_cases_generator
+CF-SPEC-5036,Rastyavar kahi tari samasya aahe Viman Nagar madhe.,,,,HINGLISH,AMBIGUOUS,special_cases_generator
+CF-SPEC-5037,Rastyavar kahi tari samasya aahe Yerwada madhe.,,,,EN,AMBIGUOUS,special_cases_generator
+CF-SPEC-5038,There is some big problem near my house in Kalyani Nagar.,,,,HINGLISH,AMBIGUOUS,special_cases_generator
+CF-SPEC-5039,Municipal team needed to inspect issue in Chinchwad.,,,,EN,AMBIGUOUS,special_cases_generator
+CF-SPEC-5040,Municipal team needed to inspect issue in Baner.,,,,HINGLISH,AMBIGUOUS,special_cases_generator
+CF-SPEC-5041,Municipal team needed to inspect issue in Warje.,,,,EN,AMBIGUOUS,special_cases_generator
+CF-SPEC-5042,Rastyavar kahi tari samasya aahe Viman Nagar madhe.,,,,HINGLISH,AMBIGUOUS,special_cases_generator
+CF-SPEC-5043,Something is wrong near the society gate in Shivajinagar.,,,,EN,AMBIGUOUS,special_cases_generator
+CF-SPEC-5044,There is some big problem near my house in Yerwada.,,,,HINGLISH,AMBIGUOUS,special_cases_generator
+CF-SPEC-5045,"Civic issue on main road near bus stop in Kondhwa, please check.",,,,EN,AMBIGUOUS,special_cases_generator
+CF-SPEC-5046,Something is wrong near the society gate in Hadapsar.,,,,HINGLISH,AMBIGUOUS,special_cases_generator
+CF-SPEC-5047,Rastyavar kahi tari samasya aahe Warje madhe.,,,,EN,AMBIGUOUS,special_cases_generator
+CF-SPEC-5048,Municipal team needed to inspect issue in Kondhwa.,,,,HINGLISH,AMBIGUOUS,special_cases_generator
+CF-SPEC-5049,There is some big problem near my house in Shivajinagar.,,,,EN,AMBIGUOUS,special_cases_generator
+CF-SPEC-5050,There is some big problem near my house in Hadapsar.,,,,HINGLISH,AMBIGUOUS,special_cases_generator
+CF-SPEC-5051,Strange humming sound coming from sky near Shivajinagar.,,,,EN,UNKNOWN,special_cases_generator
+CF-SPEC-5052,Strange humming sound coming from sky near Pimpri.,,,,HINGLISH,UNKNOWN,special_cases_generator
+CF-SPEC-5053,Strange humming sound coming from sky near Sinhagad Road.,,,,EN,UNKNOWN,special_cases_generator
+CF-SPEC-5054,Unexplained phenomenon observed near park in Aundh.,,,,HINGLISH,UNKNOWN,special_cases_generator
+CF-SPEC-5055,Unexplained phenomenon observed near park in Pimpri.,,,,EN,UNKNOWN,special_cases_generator
+CF-SPEC-5056,Unexplained phenomenon observed near park in Viman Nagar.,,,,HINGLISH,UNKNOWN,special_cases_generator
+CF-SPEC-5057,Strange humming sound coming from sky near Viman Nagar.,,,,EN,UNKNOWN,special_cases_generator
+CF-SPEC-5058,Unexpected unidentified object lying near open plot in Yerwada.,,,,HINGLISH,UNKNOWN,special_cases_generator
+CF-SPEC-5059,Unexplained phenomenon observed near park in Katraj.,,,,EN,UNKNOWN,special_cases_generator
+CF-SPEC-5060,Unexplained phenomenon observed near park in Aundh.,,,,HINGLISH,UNKNOWN,special_cases_generator
+CF-SPEC-5061,Unexplained phenomenon observed near park in Pimpri.,,,,EN,UNKNOWN,special_cases_generator
+CF-SPEC-5062,Unexplained phenomenon observed near park in Chinchwad.,,,,HINGLISH,UNKNOWN,special_cases_generator
+CF-SPEC-5063,Strange humming sound coming from sky near Camp.,,,,EN,UNKNOWN,special_cases_generator
+CF-SPEC-5064,Unexpected unidentified object lying near open plot in Katraj.,,,,HINGLISH,UNKNOWN,special_cases_generator
+CF-SPEC-5065,Strange humming sound coming from sky near Yerwada.,,,,EN,UNKNOWN,special_cases_generator
+CF-SPEC-5066,Unexpected unidentified object lying near open plot in Kalyani Nagar.,,,,HINGLISH,UNKNOWN,special_cases_generator
+CF-SPEC-5067,Unexpected unidentified object lying near open plot in Chinchwad.,,,,EN,UNKNOWN,special_cases_generator
+CF-SPEC-5068,Unexpected unidentified object lying near open plot in Katraj.,,,,HINGLISH,UNKNOWN,special_cases_generator
+CF-SPEC-5069,Unexplained phenomenon observed near park in Swargate.,,,,EN,UNKNOWN,special_cases_generator
+CF-SPEC-5070,Unexpected unidentified object lying near open plot in Baner.,,,,HINGLISH,UNKNOWN,special_cases_generator
+CF-SPEC-5071,Unexplained phenomenon observed near park in Bavdhan.,,,,EN,UNKNOWN,special_cases_generator
+CF-SPEC-5072,Strange humming sound coming from sky near Hadapsar.,,,,HINGLISH,UNKNOWN,special_cases_generator
+CF-SPEC-5073,Strange humming sound coming from sky near Kothrud.,,,,EN,UNKNOWN,special_cases_generator
+CF-SPEC-5074,Strange humming sound coming from sky near Kondhwa.,,,,HINGLISH,UNKNOWN,special_cases_generator
+CF-SPEC-5075,Mysterious purple liquid appearing on street at night in Aundh.,,,,EN,UNKNOWN,special_cases_generator
+CF-SPEC-5076,Unexpected unidentified object lying near open plot in Shivajinagar.,,,,HINGLISH,UNKNOWN,special_cases_generator
+CF-SPEC-5077,Unexplained phenomenon observed near park in Swargate.,,,,EN,UNKNOWN,special_cases_generator
+CF-SPEC-5078,Unexpected unidentified object lying near open plot in Wakad.,,,,HINGLISH,UNKNOWN,special_cases_generator
+CF-SPEC-5079,Strange humming sound coming from sky near Hadapsar.,,,,EN,UNKNOWN,special_cases_generator
+CF-SPEC-5080,Unexpected unidentified object lying near open plot in Hadapsar.,,,,HINGLISH,UNKNOWN,special_cases_generator
+CF-SPEC-5081,Unexplained phenomenon observed near park in Katraj.,,,,EN,UNKNOWN,special_cases_generator
+CF-SPEC-5082,Unexplained phenomenon observed near park in Warje.,,,,HINGLISH,UNKNOWN,special_cases_generator
+CF-SPEC-5083,Strange humming sound coming from sky near Kothrud.,,,,EN,UNKNOWN,special_cases_generator
+CF-SPEC-5084,Unexpected unidentified object lying near open plot in Swargate.,,,,HINGLISH,UNKNOWN,special_cases_generator
+CF-SPEC-5085,Strange humming sound coming from sky near Pimpri.,,,,EN,UNKNOWN,special_cases_generator
+CF-SPEC-5086,Mysterious purple liquid appearing on street at night in Aundh.,,,,HINGLISH,UNKNOWN,special_cases_generator
+CF-SPEC-5087,Unexpected unidentified object lying near open plot in Pashan.,,,,EN,UNKNOWN,special_cases_generator
+CF-SPEC-5088,Unexpected unidentified object lying near open plot in Sinhagad Road.,,,,HINGLISH,UNKNOWN,special_cases_generator
+CF-SPEC-5089,Unexpected unidentified object lying near open plot in Katraj.,,,,EN,UNKNOWN,special_cases_generator
+CF-SPEC-5090,Unexpected unidentified object lying near open plot in Baner.,,,,HINGLISH,UNKNOWN,special_cases_generator
+CF-SPEC-5091,Strange humming sound coming from sky near Aundh.,,,,EN,UNKNOWN,special_cases_generator
+CF-SPEC-5092,Unexplained phenomenon observed near park in Sinhagad Road.,,,,HINGLISH,UNKNOWN,special_cases_generator
+CF-SPEC-5093,Mysterious purple liquid appearing on street at night in Bibwewadi.,,,,EN,UNKNOWN,special_cases_generator
+CF-SPEC-5094,Strange humming sound coming from sky near Magarpatta.,,,,HINGLISH,UNKNOWN,special_cases_generator
+CF-SPEC-5095,Mysterious purple liquid appearing on street at night in Shivajinagar.,,,,EN,UNKNOWN,special_cases_generator
+CF-SPEC-5096,Mysterious purple liquid appearing on street at night in Wakad.,,,,HINGLISH,UNKNOWN,special_cases_generator
+CF-SPEC-5097,Strange humming sound coming from sky near Katraj.,,,,EN,UNKNOWN,special_cases_generator
+CF-SPEC-5098,Unexplained phenomenon observed near park in Bibwewadi.,,,,HINGLISH,UNKNOWN,special_cases_generator
+CF-SPEC-5099,Unexpected unidentified object lying near open plot in Kalyani Nagar.,,,,EN,UNKNOWN,special_cases_generator
+CF-SPEC-5100,Unexplained phenomenon observed near park in Kalyani Nagar.,,,,HINGLISH,UNKNOWN,special_cases_generator
+CF-SPEC-5101,Solve my complaint.,,,,EN,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5102,Problem near house.,,,,HINGLISH,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5103,Help needed.,,,,EN,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5104,Problem near house.,,,,HINGLISH,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5105,Krupaya bagha.,,,,EN,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5106,Solve my complaint.,,,,HINGLISH,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5107,Krupaya bagha.,,,,EN,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5108,Please solve this issue.,,,,HINGLISH,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5109,Krupaya bagha.,,,,EN,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5110,Solve my complaint.,,,,HINGLISH,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5111,Krupaya bagha.,,,,EN,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5112,Solve my complaint.,,,,HINGLISH,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5113,Help needed.,,,,EN,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5114,Solve my complaint.,,,,HINGLISH,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5115,Help needed.,,,,EN,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5116,Bad service.,,,,HINGLISH,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5117,Bad service.,,,,EN,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5118,Help needed.,,,,HINGLISH,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5119,Please solve this issue.,,,,EN,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5120,Bad service.,,,,HINGLISH,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5121,Problem near house.,,,,EN,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5122,Fix immediately.,,,,HINGLISH,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5123,Fix immediately.,,,,EN,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5124,Problem near house.,,,,HINGLISH,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5125,Fix immediately.,,,,EN,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5126,Bad service.,,,,HINGLISH,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5127,Help needed.,,,,EN,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5128,Fix immediately.,,,,HINGLISH,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5129,Fix immediately.,,,,EN,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5130,Help needed.,,,,HINGLISH,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5131,Solve my complaint.,,,,EN,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5132,Fix immediately.,,,,HINGLISH,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5133,Help needed.,,,,EN,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5134,Bad service.,,,,HINGLISH,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5135,Bad service.,,,,EN,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5136,Fix immediately.,,,,HINGLISH,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5137,Bad service.,,,,EN,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5138,Fix immediately.,,,,HINGLISH,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5139,Solve my complaint.,,,,EN,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5140,Bad service.,,,,HINGLISH,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5141,Bad service.,,,,EN,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5142,Bad service.,,,,HINGLISH,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5143,Bad service.,,,,EN,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5144,Solve my complaint.,,,,HINGLISH,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5145,Krupaya bagha.,,,,EN,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5146,Solve my complaint.,,,,HINGLISH,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5147,Fix immediately.,,,,EN,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5148,Problem near house.,,,,HINGLISH,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5149,Bad service.,,,,EN,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5150,Help needed.,,,,HINGLISH,INSUFFICIENT_INFORMATION,special_cases_generator
+CF-SPEC-5151,PyTorch neural network tensor data pipeline crashed due to GPU memory error.,,,,EN,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5152,Bus ticket price was increased by private operator.,,,,HINGLISH,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5153,Cricket match umpire gave incorrect decision yesterday.,,,,EN,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5154,My home Wi-Fi internet connection is not working.,,,,HINGLISH,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5155,My home Wi-Fi internet connection is not working.,,,,EN,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5156,Private company electricity bill inside my apartment is high.,,,,HINGLISH,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5157,PyTorch neural network tensor data pipeline crashed due to GPU memory error.,,,,EN,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5158,"Crude oil pipeline burst near industrial zone in Baner, oil spilling on road.",,,,HINGLISH,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5159,"Crude oil pipeline burst near industrial zone in Kondhwa, oil spilling on road.",,,,EN,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5160,LPG natural gas pipeline leaking near petrol pump on highway near Bibwewadi.,,,,HINGLISH,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5161,LPG natural gas pipeline leaking near petrol pump on highway near Pashan.,,,,EN,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5162,LPG natural gas pipeline leaking near petrol pump on highway near Pashan.,,,,HINGLISH,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5163,Jenkins CI/CD software data deployment pipeline failed during code build.,,,,EN,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5164,My mobile phone battery is draining very fast.,,,,HINGLISH,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5165,PyTorch neural network tensor data pipeline crashed due to GPU memory error.,,,,EN,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5166,LPG natural gas pipeline leaking near petrol pump on highway near Viman Nagar.,,,,HINGLISH,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5167,My home Wi-Fi internet connection is not working.,,,,EN,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5168,Jenkins CI/CD software data deployment pipeline failed during code build.,,,,HINGLISH,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5169,LPG natural gas pipeline leaking near petrol pump on highway near Sinhagad Road.,,,,EN,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5170,Cricket match umpire gave incorrect decision yesterday.,,,,HINGLISH,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5171,Jenkins CI/CD software data deployment pipeline failed during code build.,,,,EN,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5172,"Crude oil pipeline burst near industrial zone in Magarpatta, oil spilling on road.",,,,HINGLISH,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5173,Private company electricity bill inside my apartment is high.,,,,EN,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5174,Bus ticket price was increased by private operator.,,,,HINGLISH,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5175,Cricket match umpire gave incorrect decision yesterday.,,,,EN,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5176,Bus ticket price was increased by private operator.,,,,HINGLISH,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5177,Cricket match umpire gave incorrect decision yesterday.,,,,EN,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5178,Bus ticket price was increased by private operator.,,,,HINGLISH,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5179,My mobile phone battery is draining very fast.,,,,EN,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5180,Bus ticket price was increased by private operator.,,,,HINGLISH,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5181,Bus ticket price was increased by private operator.,,,,EN,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5182,"Crude oil pipeline burst near industrial zone in Deccan Gymkhana, oil spilling on road.",,,,HINGLISH,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5183,My mobile phone battery is draining very fast.,,,,EN,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5184,Jenkins CI/CD software data deployment pipeline failed during code build.,,,,HINGLISH,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5185,Cricket match umpire gave incorrect decision yesterday.,,,,EN,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5186,Cricket match umpire gave incorrect decision yesterday.,,,,HINGLISH,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5187,Underground chemical factory pipeline burst spilling toxic liquid near Katraj.,,,,EN,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5188,Ordered laptop online but delivery is delayed.,,,,HINGLISH,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5189,"Crude oil pipeline burst near industrial zone in Baner, oil spilling on road.",,,,EN,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5190,Cricket match umpire gave incorrect decision yesterday.,,,,HINGLISH,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5191,My home Wi-Fi internet connection is not working.,,,,EN,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5192,Cricket match umpire gave incorrect decision yesterday.,,,,HINGLISH,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5193,AAj aamchya samorcha pipe phutla ani tyatun tel nighayla lagle mag samajla ki to oil pipe hota in Yerwada.,,,,EN,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5194,Jenkins CI/CD software data deployment pipeline failed during code build.,,,,HINGLISH,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5195,Ordered laptop online but delivery is delayed.,,,,EN,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5196,My home Wi-Fi internet connection is not working.,,,,HINGLISH,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5197,Underground chemical factory pipeline burst spilling toxic liquid near Camp.,,,,EN,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5198,Private company electricity bill inside my apartment is high.,,,,HINGLISH,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5199,PyTorch neural network tensor data pipeline crashed due to GPU memory error.,,,,EN,OUT_OF_SCOPE,special_cases_generator
+CF-SPEC-5200,LPG natural gas pipeline leaking near petrol pump on highway near Kondhwa.,,,,HINGLISH,OUT_OF_SCOPE,special_cases_generator

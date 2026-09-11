@@ -1,0 +1,648 @@
+{
+  "version": "1.0.0",
+  "description": "CivicFlow AI 15-Domain Fixed Semantic Taxonomy with Administrative Department Mappings",
+  "departments": {
+    "SAN": {
+      "code": "SAN",
+      "name": "Sanitation & Waste Management",
+      "description": "Administrative department handling solid waste, street sweeping, and public sanitation"
+    },
+    "RDW": {
+      "code": "RDW",
+      "name": "Roads & Public Works",
+      "description": "Administrative department handling road repairs, footpaths, bridges, and civil infrastructure"
+    },
+    "ELE": {
+      "code": "ELE",
+      "name": "Electricity & Street Lighting",
+      "description": "Administrative department handling streetlights, electrical infrastructure, and high voltage safety"
+    },
+    "WTR": {
+      "code": "WTR",
+      "name": "Water Supply & Sewage",
+      "description": "Administrative department handling potable water supply, sewerage lines, and stormwater drainage"
+    },
+    "PRK": {
+      "code": "PRK",
+      "name": "Parks & Environment",
+      "description": "Administrative department handling urban green space, trees, parks, and environmental complaints"
+    }
+  },
+  "domains": {
+    "SOLID_WASTE": {
+      "domain_code": "SOLID_WASTE",
+      "domain_name": "Solid Waste Management",
+      "description": "Complaints concerning garbage collection, waste dumping, public bins, and street sweeping",
+      "categories": {
+        "SAN-GARB": {
+          "category_code": "SAN-GARB",
+          "category_name": "Uncollected Garbage / Garbage Collection",
+          "description": "Scheduled garbage collection missed or trash accumulating outside households and residential areas",
+          "department_mapping": {
+            "type": "DIRECT",
+            "department_code": "SAN",
+            "notes": "Directly routed to Sanitation & Waste Management department"
+          },
+          "example_intents": [
+            "Garbage vehicle has not arrived for three days",
+            "Kachra vehicle badha nahi aala",
+            "Dustbin outside society is overflowing with household trash"
+          ]
+        },
+        "SAN-DUMP": {
+          "category_code": "SAN-DUMP",
+          "category_name": "Illegal Dumping",
+          "description": "Unauthorized dumping of commercial, industrial, or bulk waste on open plots, vacant land, or roadside",
+          "department_mapping": {
+            "type": "DIRECT",
+            "department_code": "SAN",
+            "notes": "Directly routed to Sanitation & Waste Management department"
+          },
+          "example_intents": [
+            "Somebody dumped tons of waste in the open plot near market",
+            "Khulya jaga me illegal dumping ho raha hai",
+            "Truck dumping garbage illegally at midnight"
+          ]
+        },
+        "SAN-BIN": {
+          "category_code": "SAN-BIN",
+          "category_name": "Overflowing / Damaged Public Bins",
+          "description": "Public community dustbins damaged, broken, missing, or overflowing creating unhygienic conditions",
+          "department_mapping": {
+            "type": "DIRECT",
+            "department_code": "SAN",
+            "notes": "Directly routed to Sanitation & Waste Management department"
+          },
+          "example_intents": [
+            "Public bin is broken and trash spilled all over street",
+            "Kachra kundi tutli aahe",
+            "Community bin needs urgent replacement"
+          ]
+        },
+        "SAN-SWEEP": {
+          "category_code": "SAN-SWEEP",
+          "category_name": "Street Sweeping & Road Cleaning",
+          "description": "Roads, alleys, or public plazas not swept, leaves and debris accumulating on streets",
+          "department_mapping": {
+            "type": "DIRECT",
+            "department_code": "SAN",
+            "notes": "Directly routed to Sanitation & Waste Management department"
+          },
+          "example_intents": [
+            "Street sweeper has not cleaned main road for a week",
+            "Rasta safai zali nahi",
+            "Heavy dust and dead leaves on roadside"
+          ]
+        }
+      }
+    },
+    "WATER_SUPPLY": {
+      "domain_code": "WATER_SUPPLY",
+      "domain_name": "Water Supply",
+      "description": "Complaints concerning drinking water supply, pipeline leaks, low pressure, and water contamination",
+      "categories": {
+        "WTR-LEAK": {
+          "category_code": "WTR-LEAK",
+          "category_name": "Water Main Leak",
+          "description": "Municipal supply pipeline bursts, high-volume drinking water leaks on public roads or main lines",
+          "department_mapping": {
+            "type": "DIRECT",
+            "department_code": "WTR",
+            "notes": "Directly routed to Water Supply & Sewage department"
+          },
+          "example_intents": [
+            "Main water pipeline burst near bus stop, thousands of liters wasted",
+            "Paanyachi line leak aahe",
+            "Drinking water pipeline leaking heavily under main road"
+          ]
+        },
+        "WTR-QUAL": {
+          "category_code": "WTR-QUAL",
+          "category_name": "Water Contamination & Quality",
+          "description": "Dirty, muddy, foul-smelling, or contaminated tap water supplied to residential or commercial areas",
+          "department_mapping": {
+            "type": "DIRECT",
+            "department_code": "WTR",
+            "notes": "Directly routed to Water Supply & Sewage department"
+          },
+          "example_intents": [
+            "Tap water is coming black and smells bad",
+            "Pinyache pani ghanerdya vasache yetahe",
+            "Contaminated water coming from municipal supply"
+          ]
+        },
+        "WTR-PRES": {
+          "category_code": "WTR-PRES",
+          "category_name": "Low Water Pressure / No Supply",
+          "description": "Inadequate water pressure or total absence of water supply during scheduled supply hours",
+          "department_mapping": {
+            "type": "DIRECT",
+            "department_code": "WTR",
+            "notes": "Directly routed to Water Supply & Sewage department"
+          },
+          "example_intents": [
+            "No water supply for the past two days in block C",
+            "Pani khup kamya dabane yetahe",
+            "Water pressure is too low to fill tank"
+          ]
+        }
+      }
+    },
+    "SEWERAGE_DRAINAGE": {
+      "domain_code": "SEWERAGE_DRAINAGE",
+      "domain_name": "Sewerage & Drainage",
+      "description": "Complaints regarding sewage pipeline blockages, sewer overflow, open manholes, and drainage leaks",
+      "categories": {
+        "SEW-BLOCK": {
+          "category_code": "SEW-BLOCK",
+          "category_name": "Blocked Sewer Line / Sewage Overflow",
+          "description": "Underground sewer pipe blockage causing filthy sewage water to overflow onto streets or property",
+          "department_mapping": {
+            "type": "DIRECT",
+            "department_code": "WTR",
+            "notes": "Directly routed to Water Supply & Sewage department"
+          },
+          "example_intents": [
+            "Gutter water overflowing onto main street",
+            "Gatar saaf kara, pani rastyavar aale aahe",
+            "Sewage backup leaking into residential compound"
+          ]
+        },
+        "SEW-MAN": {
+          "category_code": "SEW-MAN",
+          "category_name": "Open / Missing / Broken Manhole Cover",
+          "description": "Manhole chamber cover missing, damaged, or broken creating severe risk of fall or accident",
+          "department_mapping": {
+            "type": "DIRECT",
+            "department_code": "WTR",
+            "notes": "Directly routed to Water Supply & Sewage department"
+          },
+          "example_intents": [
+            "Manhole cover is open near dangerous curve",
+            "Gatarache dhakan ughade aahe, accident honyachi bhiti",
+            "Broken chamber cover on walk path"
+          ]
+        }
+      }
+    },
+    "STORM_WATER": {
+      "domain_code": "STORM_WATER",
+      "domain_name": "Storm Water / Waterlogging",
+      "description": "Complaints regarding rainwater flooding, waterlogging on streets, and blocked storm drains/nallahs",
+      "categories": {
+        "STM-LOG": {
+          "category_code": "STM-LOG",
+          "category_name": "Waterlogging & Rainwater Stagnation",
+          "description": "Monsoon waterlogging or standing rainwater accumulation blocking traffic or pedestrians",
+          "department_mapping": {
+            "type": "DIRECT",
+            "department_code": "WTR",
+            "notes": "Directly routed to Water Supply & Sewage department"
+          },
+          "example_intents": [
+            "Knee deep waterlogging under railway subway",
+            "Rastyavar pani sathle aahe",
+            "Severe rainwater stagnation outside apartment gate"
+          ]
+        },
+        "STM-DRN": {
+          "category_code": "STM-DRN",
+          "category_name": "Blocked Stormwater Drain / Nallah",
+          "description": "Stormwater drain, roadside gutter, or major nallah blocked with silt, plastic, or debris",
+          "department_mapping": {
+            "type": "DIRECT",
+            "department_code": "WTR",
+            "notes": "Directly routed to Water Supply & Sewage department"
+          },
+          "example_intents": [
+            "Storm drain blocked with plastic bags before monsoon",
+            "Nalla saaf kela nahi",
+            "Drainage channel choked with trash causing backflow"
+          ]
+        }
+      }
+    },
+    "ROADS_FOOTPATHS": {
+      "domain_code": "ROADS_FOOTPATHS",
+      "domain_name": "Roads & Footpaths",
+      "description": "Complaints regarding potholes, damaged asphalt, broken sidewalks, pavers, and road surface hazards",
+      "categories": {
+        "RDW-POT": {
+          "category_code": "RDW-POT",
+          "category_name": "Pothole Repair",
+          "description": "Potholes, craters, or surface erosion on vehicle lanes and highways requiring asphalt patching",
+          "department_mapping": {
+            "type": "DIRECT",
+            "department_code": "RDW",
+            "notes": "Directly routed to Roads & Public Works department"
+          },
+          "example_intents": [
+            "Huge pothole near signal damaging bikes",
+            "Rastyavar motha khadda padla aahe",
+            "Multiple dangerous potholes on flyover approach"
+          ]
+        },
+        "RDW-WALK": {
+          "category_code": "RDW-WALK",
+          "category_name": "Broken Sidewalk",
+          "description": "Damaged footpath pavers, uneven pedestrian walkway, broken curb stones, or exposed trenches",
+          "department_mapping": {
+            "type": "DIRECT",
+            "department_code": "RDW",
+            "notes": "Directly routed to Roads & Public Works department"
+          },
+          "example_intents": [
+            "Footpath tiles broken and missing, senior citizens falling",
+            "Footpath tutla aahe",
+            "Pedestrian walkway pavement completely destroyed"
+          ]
+        },
+        "RDW-RD": {
+          "category_code": "RDW-RD",
+          "category_name": "Resurfacing / Damaged Road Surface",
+          "description": "Long stretches of road dug up and abandoned, uneven road surfacing, or broken road dividers",
+          "department_mapping": {
+            "type": "DIRECT",
+            "department_code": "RDW",
+            "notes": "Directly routed to Roads & Public Works department"
+          },
+          "example_intents": [
+            "Road dug up for pipeline was left unpaved for months",
+            "Rasta khadun thevla aahe plaster nahi kela",
+            "Crumbling asphalt and uneven surface on main avenue"
+          ]
+        }
+      }
+    },
+    "STREET_LIGHTING": {
+      "domain_code": "STREET_LIGHTING",
+      "domain_name": "Street Lighting / Electrical",
+      "description": "Complaints regarding non-functioning streetlights, dark stretches, damaged light poles, and exposed wires",
+      "categories": {
+        "ELE-LGT": {
+          "category_code": "ELE-LGT",
+          "category_name": "Streetlight Outage",
+          "description": "Single or multiple street lights not illuminating during night hours causing dark streets",
+          "department_mapping": {
+            "type": "DIRECT",
+            "department_code": "ELE",
+            "notes": "Directly routed to Electricity & Street Lighting department"
+          },
+          "example_intents": [
+            "All streetlights on colony road are off for past week",
+            "Street light chalat nahi aahe",
+            "Dark stretch on main road due to non-functional LED lamps"
+          ]
+        },
+        "ELE-POLE": {
+          "category_code": "ELE-POLE",
+          "category_name": "Damaged Light Pole / Exposed Wiring",
+          "description": "Electrical junction box open, wires hanging dangerously, or tilted street light pole",
+          "department_mapping": {
+            "type": "DIRECT",
+            "department_code": "ELE",
+            "notes": "Directly routed to Electricity & Street Lighting department"
+          },
+          "example_intents": [
+            "Live electrical wires hanging low near children park",
+            "Vidyut khamba kalala aahe, live wire ughadi aahe",
+            "Open junction box at light pole base"
+          ]
+        }
+      }
+    },
+    "GARDENS_TREES": {
+      "domain_code": "GARDENS_TREES",
+      "domain_name": "Gardens, Trees & Urban Greenery",
+      "description": "Complaints regarding fallen tree branches, dangerous overgrown trees, park maintenance, and lawn care",
+      "categories": {
+        "PRK-TREE": {
+          "category_code": "PRK-TREE",
+          "category_name": "Dangerous Tree Branch / Fallen Tree",
+          "description": "Overhanging dangerous branches, fallen tree blocking road/powerlines, or dead tree removal request",
+          "department_mapping": {
+            "type": "DIRECT",
+            "department_code": "PRK",
+            "notes": "Directly routed to Parks & Environment department"
+          },
+          "example_intents": [
+            "Big tree branch fell across main road after storm",
+            "Zadachi phaandi tutun rastyavar padli aahe",
+            "Overgrown branch touching overhead electrical wires"
+          ]
+        },
+        "PRK-MAINT": {
+          "category_code": "PRK-MAINT",
+          "category_name": "Park & Garden Maintenance",
+          "description": "Public park equipment broken, unmaintained lawns, broken garden lights or boundary fences",
+          "department_mapping": {
+            "type": "DIRECT",
+            "department_code": "PRK",
+            "notes": "Directly routed to Parks & Environment department"
+          },
+          "example_intents": [
+            "Children swings broken in municipal garden",
+            "Baghichi dekhbhal hot nahi",
+            "Park play equipment damaged and hazardous"
+          ]
+        }
+      }
+    },
+    "PUBLIC_HEALTH": {
+      "domain_code": "PUBLIC_HEALTH",
+      "domain_name": "Public Health & Sanitation",
+      "description": "Complaints regarding mosquito breeding, pest control, stray animals, carcasses, and public toilets",
+      "categories": {
+        "SAN-PEST": {
+          "category_code": "SAN-PEST",
+          "category_name": "Vector Control & Fogging",
+          "description": "Mosquito breeding in stagnant water, request for chemical fogging or vector disease prevention",
+          "department_mapping": {
+            "type": "DIRECT",
+            "department_code": "SAN",
+            "notes": "Directly routed to Sanitation & Waste Management department"
+          },
+          "example_intents": [
+            "High mosquito density in colony, request anti-mosquito fogging",
+            "Machhar khup zale aahet fogging kara",
+            "Stagnant pool breeding mosquitoes near school"
+          ]
+        },
+        "SAN-ANML": {
+          "category_code": "SAN-ANML",
+          "category_name": "Stray Animal Nuisance & Carcass Disposal",
+          "description": "Stray dog aggression, dead animal lying on public road needing sanitary removal",
+          "department_mapping": {
+            "type": "DIRECT",
+            "department_code": "SAN",
+            "notes": "Directly routed to Sanitation & Waste Management department"
+          },
+          "example_intents": [
+            "Dead dog on highway needs immediate removal",
+            "Mulela prani rastyavar padla aahe",
+            "Pack of aggressive stray dogs near market"
+          ]
+        },
+        "SAN-HYG": {
+          "category_code": "SAN-HYG",
+          "category_name": "Public Toilet Unhygienic Condition",
+          "description": "Municipal public toilet filthy, clogged, dirty water accumulation, or no water supply",
+          "department_mapping": {
+            "type": "DIRECT",
+            "department_code": "SAN",
+            "notes": "Directly routed to Sanitation & Waste Management department"
+          },
+          "example_intents": [
+            "Public toilet near station is completely filthy and uncleaned",
+            "Sarvajanik shauchalay ghanerde aahe",
+            "No water and dirty conditions in community restroom"
+          ]
+        }
+      }
+    },
+    "BUILDING_CONSTRUCTION": {
+      "domain_code": "BUILDING_CONSTRUCTION",
+      "domain_name": "Building & Construction",
+      "description": "Complaints regarding unauthorized construction, unsafe structural work, and construction debris",
+      "categories": {
+        "RDW-BLDG": {
+          "category_code": "RDW-BLDG",
+          "category_name": "Unauthorized Construction / Structural Risk",
+          "description": "Illegal building extension, structural modifications without permit, unsafe scaffolding",
+          "department_mapping": {
+            "type": "DIRECT",
+            "department_code": "RDW",
+            "notes": "Mapped to Roads & Public Works (Building Permission cell)"
+          },
+          "example_intents": [
+            "Neighbor constructing extra floor illegally without civic permission",
+            "Anadhikrut baandhkaam suru aahe",
+            "Unsafe scaffolding over public footpath without safety nets"
+          ]
+        },
+        "RDW-DEBR": {
+          "category_code": "RDW-DEBR",
+          "category_name": "Construction Debris Dumping",
+          "description": "Building debris, concrete waste, sand, or stones dumped illegally on public streets",
+          "department_mapping": {
+            "type": "DIRECT",
+            "department_code": "RDW",
+            "notes": "Directly routed to Roads & Public Works department"
+          },
+          "example_intents": [
+            "Builder dumped construction debris on public lane blocking access",
+            "Baandhkaam malba rastyavar takla aahe",
+            "Debris and concrete waste left on footpath"
+          ]
+        }
+      }
+    },
+    "ENCROACHMENT": {
+      "domain_code": "ENCROACHMENT",
+      "domain_name": "Encroachment",
+      "description": "Complaints regarding unauthorized hawker stalls, illegal structures, or commercial obstruction of footpaths/roads",
+      "categories": {
+        "RDW-ENC": {
+          "category_code": "RDW-ENC",
+          "category_name": "Footpath / Road Encroachment",
+          "description": "Illegal hawkers, permanent shops expanding onto footpaths, or sheds blocking public pathways",
+          "department_mapping": {
+            "type": "DIRECT",
+            "department_code": "RDW",
+            "notes": "Routed to Roads & Public Works (Encroachment Removal cell)"
+          },
+          "example_intents": [
+            "Shopkeeper erected permanent counter covering whole footpath",
+            "Footpath var anadhikrut dukane aali aahet",
+            "Hawkers completely blocking street entrance"
+          ]
+        }
+      }
+    },
+    "TRAFFIC_PARKING": {
+      "domain_code": "TRAFFIC_PARKING",
+      "domain_name": "Traffic & Parking",
+      "description": "Complaints regarding illegal parking, double parking blocking lanes, broken traffic signs and bollards",
+      "categories": {
+        "RDW-TRF": {
+          "category_code": "RDW-TRF",
+          "category_name": "Illegal Parking / Road Obstruction",
+          "description": "Abandoned vehicles, illegal double parking blocking residential gates or traffic flow",
+          "department_mapping": {
+            "type": "DIRECT",
+            "department_code": "RDW",
+            "notes": "Routed to Roads & Public Works (Traffic Engineering cell)"
+          },
+          "example_intents": [
+            "Abandoned scrap car blocking lane entrance for weeks",
+            "Gadi rastyavar anadhikrut pane park keli aahe",
+            "Commercial trucks illegally parked in residential zone"
+          ]
+        },
+        "RDW-SIGN": {
+          "category_code": "RDW-SIGN",
+          "category_name": "Missing / Damaged Traffic Signage",
+          "description": "Damaged speed bump signage, missing stop signs, broken traffic direction boards",
+          "department_mapping": {
+            "type": "DIRECT",
+            "department_code": "RDW",
+            "notes": "Routed to Roads & Public Works (Traffic Engineering cell)"
+          },
+          "example_intents": [
+            "Stop sign post broken down at intersection",
+            "Traffic board phutla aahe",
+            "Missing speed limit indicator near school zone"
+          ]
+        }
+      }
+    },
+    "PROPERTY_TAX": {
+      "domain_code": "PROPERTY_TAX",
+      "domain_name": "Property Tax",
+      "description": "Complaints regarding property tax assessment errors, bill generation issues, and payment receipts",
+      "categories": {
+        "TAX-ERR": {
+          "category_code": "TAX-ERR",
+          "category_name": "Property Tax Assessment Error",
+          "description": "Property tax bill computed incorrectly, wrong area calculation, or duplicate assessment notice",
+          "department_mapping": {
+            "type": "UNMAPPED",
+            "department_code": null,
+            "notes": "Property tax is managed by Revenue & Assessment Department outside the 5 core operational departments"
+          },
+          "example_intents": [
+            "Property tax bill calculated twice the actual square footage",
+            "Ghar patti bill madhe chuk aali aahe",
+            "Incorrect penalty levied on property tax invoice"
+          ]
+        },
+        "TAX-REC": {
+          "category_code": "TAX-REC",
+          "category_name": "Property Tax Receipt / Record Issue",
+          "description": "Payment completed online but tax receipt not generated or record not updated",
+          "department_mapping": {
+            "type": "UNMAPPED",
+            "department_code": null,
+            "notes": "Property tax is managed by Revenue & Assessment Department outside the 5 core operational departments"
+          },
+          "example_intents": [
+            "Paid tax online but receipt shows payment pending",
+            "Tax pavti milali nahi online payment nantar",
+            "Tax payment status not updating in portal"
+          ]
+        }
+      }
+    },
+    "LICENSES_PERMISSIONS": {
+      "domain_code": "LICENSES_PERMISSIONS",
+      "domain_name": "Licenses & Municipal Permissions",
+      "description": "Complaints regarding trade licenses, shop permissions, advertisement hoardings, and event permits",
+      "categories": {
+        "LIC-TRD": {
+          "category_code": "LIC-TRD",
+          "category_name": "Trade / Shop License Violation",
+          "description": "Commercial shop operating without valid municipal trade license or violating permit norms",
+          "department_mapping": {
+            "type": "UNMAPPED",
+            "department_code": null,
+            "notes": "Managed by Municipal Licensing & Health License Department outside core 5 departments"
+          },
+          "example_intents": [
+            "Commercial workshop operating illegally without trade license",
+            "Bin parvangi dukan suru aahe",
+            "Unlicensed commercial business in residential basement"
+          ]
+        },
+        "LIC-NOISE": {
+          "category_code": "LIC-NOISE",
+          "category_name": "Event / Sound Permission Violation",
+          "description": "Loudspeaker or commercial event operating beyond permitted hours or without civic authorization",
+          "department_mapping": {
+            "type": "UNMAPPED",
+            "department_code": null,
+            "notes": "Managed by Municipal Licensing Department outside core 5 departments"
+          },
+          "example_intents": [
+            "Loudspeaker playing past midnight without permission",
+            "Ratri phar mothya aavajat mic suru aahe",
+            "Event hall violating noise permission deadline"
+          ]
+        }
+      }
+    },
+    "ENVIRONMENT_POLLUTION": {
+      "domain_code": "ENVIRONMENT_POLLUTION",
+      "domain_name": "Environment & Pollution",
+      "description": "Complaints regarding open garbage burning, industrial smoke, air pollution, and noise pollution",
+      "categories": {
+        "PRK-AIR": {
+          "category_code": "PRK-AIR",
+          "category_name": "Air Pollution / Garbage Burning",
+          "description": "Open burning of trash, plastic, leaves, or heavy industrial smoke causing respiratory hazard",
+          "department_mapping": {
+            "type": "DIRECT",
+            "department_code": "PRK",
+            "notes": "Routed to Parks & Environment department (Environmental Cell)"
+          },
+          "example_intents": [
+            "Sweeper burning plastic garbage in open plot creating toxic smoke",
+            "Kachra jalala jaat aahe, dhur hoto",
+            "Open burning of dry leaves creating heavy smog"
+          ]
+        },
+        "PRK-NOIS": {
+          "category_code": "PRK-NOIS",
+          "category_name": "Noise Pollution",
+          "description": "Heavy machinery or commercial generator operating in quiet residential zone causing noise pollution",
+          "department_mapping": {
+            "type": "DIRECT",
+            "department_code": "PRK",
+            "notes": "Routed to Parks & Environment department (Environmental Cell)"
+          },
+          "example_intents": [
+            "Heavy industrial generator making unbearable noise near hospital",
+            "Aawajache pradushan khup vadhle aahe",
+            "Commercial machine noise in residential area at night"
+          ]
+        }
+      }
+    },
+    "FIRE_DISASTER_SAFETY": {
+      "domain_code": "FIRE_DISASTER_SAFETY",
+      "domain_name": "Fire / Disaster / Civic Safety",
+      "description": "Complaints regarding fire hazards, blocked emergency exits, unsafe dilapidated structures, and emergency threats",
+      "categories": {
+        "SAF-FIRE": {
+          "category_code": "SAF-FIRE",
+          "category_name": "Fire Safety Hazard",
+          "description": "Fire exit blocked, defective fire extinguishers in commercial complex, open flammable storage",
+          "department_mapping": {
+            "type": "CROSS_AGENCY",
+            "department_code": null,
+            "notes": "Requires cross-agency fire brigade and disaster management response outside 5 routine departments"
+          },
+          "example_intents": [
+            "Commercial building emergency staircase blocked with wooden boxes",
+            "Fire exit band kele aahe",
+            "Chemical containers stored unsafely near residential area"
+          ]
+        },
+        "SAF-DIS": {
+          "category_code": "SAF-DIS",
+          "category_name": "Dilapidated Structure / Collapse Risk",
+          "description": "Old building wall crumbling, dangerous leaning balcony, or imminent structural collapse risk",
+          "department_mapping": {
+            "type": "CROSS_AGENCY",
+            "department_code": null,
+            "notes": "Requires cross-agency fire brigade and disaster management response outside 5 routine departments"
+          },
+          "example_intents": [
+            "Dilapidated building balcony wall cracked and about to fall on street",
+            "Juny imaratichi bhinta padnyacha dhoka aahe",
+            "Crumbling wall hanging dangerously over main thoroughfare"
+          ]
+        }
+      }
+    }
+  }
+}

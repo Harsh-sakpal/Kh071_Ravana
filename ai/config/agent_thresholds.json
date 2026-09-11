@@ -1,0 +1,12 @@
+{
+  "tuning_dataset": "validation.csv",
+  "optimal_parameters": {
+    "tfidf_threshold": 0.75,
+    "tfidf_margin": 0.15,
+    "embedding_threshold": 0.6
+  },
+  "validation_performance": {
+    "validation_accuracy": 0.9663,
+    "validation_macro_f1": 0.9664
+  }
+}

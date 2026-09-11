@@ -1,0 +1,2002 @@
+[
+  {
+    "id": "CF-SPEC-5001",
+    "complaint_text": "There is some big problem near my house in Kalyani Nagar.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5002",
+    "complaint_text": "Civic issue on main road near bus stop in Deccan Gymkhana, please check.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5003",
+    "complaint_text": "Something is wrong near the society gate in Yerwada.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5004",
+    "complaint_text": "There is some big problem near my house in Deccan Gymkhana.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5005",
+    "complaint_text": "Rastyavar kahi tari samasya aahe Magarpatta madhe.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5006",
+    "complaint_text": "Rastyavar kahi tari samasya aahe Kothrud madhe.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5007",
+    "complaint_text": "Rastyavar kahi tari samasya aahe Warje madhe.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5008",
+    "complaint_text": "Rastyavar kahi tari samasya aahe Chinchwad madhe.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5009",
+    "complaint_text": "Rastyavar kahi tari samasya aahe Pashan madhe.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5010",
+    "complaint_text": "Municipal team needed to inspect issue in Swargate.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5011",
+    "complaint_text": "Civic issue on main road near bus stop in Baner, please check.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5012",
+    "complaint_text": "There is some big problem near my house in Hadapsar.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5013",
+    "complaint_text": "Municipal team needed to inspect issue in Shivajinagar.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5014",
+    "complaint_text": "There is some big problem near my house in Camp.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5015",
+    "complaint_text": "Rastyavar kahi tari samasya aahe Magarpatta madhe.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5016",
+    "complaint_text": "Civic issue on main road near bus stop in Swargate, please check.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5017",
+    "complaint_text": "Rastyavar kahi tari samasya aahe Bavdhan madhe.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5018",
+    "complaint_text": "Something is wrong near the society gate in Kondhwa.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5019",
+    "complaint_text": "Civic issue on main road near bus stop in Swargate, please check.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5020",
+    "complaint_text": "There is some big problem near my house in Baner.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5021",
+    "complaint_text": "Rastyavar kahi tari samasya aahe Baner madhe.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5022",
+    "complaint_text": "Civic issue on main road near bus stop in Baner, please check.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5023",
+    "complaint_text": "Civic issue on main road near bus stop in Kalyani Nagar, please check.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5024",
+    "complaint_text": "Something is wrong near the society gate in Viman Nagar.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5025",
+    "complaint_text": "Rastyavar kahi tari samasya aahe Koregaon Park madhe.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5026",
+    "complaint_text": "There is some big problem near my house in Kondhwa.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5027",
+    "complaint_text": "There is some big problem near my house in Hadapsar.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5028",
+    "complaint_text": "Rastyavar kahi tari samasya aahe Deccan Gymkhana madhe.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5029",
+    "complaint_text": "Something is wrong near the society gate in Pimpri.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5030",
+    "complaint_text": "Rastyavar kahi tari samasya aahe Yerwada madhe.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5031",
+    "complaint_text": "Municipal team needed to inspect issue in Camp.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5032",
+    "complaint_text": "Civic issue on main road near bus stop in Viman Nagar, please check.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5033",
+    "complaint_text": "Something is wrong near the society gate in Baner.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5034",
+    "complaint_text": "Rastyavar kahi tari samasya aahe Aundh madhe.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5035",
+    "complaint_text": "Something is wrong near the society gate in Camp.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5036",
+    "complaint_text": "Rastyavar kahi tari samasya aahe Viman Nagar madhe.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5037",
+    "complaint_text": "Rastyavar kahi tari samasya aahe Yerwada madhe.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5038",
+    "complaint_text": "There is some big problem near my house in Kalyani Nagar.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5039",
+    "complaint_text": "Municipal team needed to inspect issue in Chinchwad.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5040",
+    "complaint_text": "Municipal team needed to inspect issue in Baner.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5041",
+    "complaint_text": "Municipal team needed to inspect issue in Warje.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5042",
+    "complaint_text": "Rastyavar kahi tari samasya aahe Viman Nagar madhe.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5043",
+    "complaint_text": "Something is wrong near the society gate in Shivajinagar.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5044",
+    "complaint_text": "There is some big problem near my house in Yerwada.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5045",
+    "complaint_text": "Civic issue on main road near bus stop in Kondhwa, please check.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5046",
+    "complaint_text": "Something is wrong near the society gate in Hadapsar.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5047",
+    "complaint_text": "Rastyavar kahi tari samasya aahe Warje madhe.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5048",
+    "complaint_text": "Municipal team needed to inspect issue in Kondhwa.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5049",
+    "complaint_text": "There is some big problem near my house in Shivajinagar.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5050",
+    "complaint_text": "There is some big problem near my house in Hadapsar.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "AMBIGUOUS",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5051",
+    "complaint_text": "Strange humming sound coming from sky near Shivajinagar.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5052",
+    "complaint_text": "Strange humming sound coming from sky near Pimpri.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5053",
+    "complaint_text": "Strange humming sound coming from sky near Sinhagad Road.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5054",
+    "complaint_text": "Unexplained phenomenon observed near park in Aundh.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5055",
+    "complaint_text": "Unexplained phenomenon observed near park in Pimpri.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5056",
+    "complaint_text": "Unexplained phenomenon observed near park in Viman Nagar.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5057",
+    "complaint_text": "Strange humming sound coming from sky near Viman Nagar.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5058",
+    "complaint_text": "Unexpected unidentified object lying near open plot in Yerwada.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5059",
+    "complaint_text": "Unexplained phenomenon observed near park in Katraj.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5060",
+    "complaint_text": "Unexplained phenomenon observed near park in Aundh.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5061",
+    "complaint_text": "Unexplained phenomenon observed near park in Pimpri.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5062",
+    "complaint_text": "Unexplained phenomenon observed near park in Chinchwad.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5063",
+    "complaint_text": "Strange humming sound coming from sky near Camp.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5064",
+    "complaint_text": "Unexpected unidentified object lying near open plot in Katraj.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5065",
+    "complaint_text": "Strange humming sound coming from sky near Yerwada.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5066",
+    "complaint_text": "Unexpected unidentified object lying near open plot in Kalyani Nagar.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5067",
+    "complaint_text": "Unexpected unidentified object lying near open plot in Chinchwad.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5068",
+    "complaint_text": "Unexpected unidentified object lying near open plot in Katraj.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5069",
+    "complaint_text": "Unexplained phenomenon observed near park in Swargate.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5070",
+    "complaint_text": "Unexpected unidentified object lying near open plot in Baner.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5071",
+    "complaint_text": "Unexplained phenomenon observed near park in Bavdhan.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5072",
+    "complaint_text": "Strange humming sound coming from sky near Hadapsar.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5073",
+    "complaint_text": "Strange humming sound coming from sky near Kothrud.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5074",
+    "complaint_text": "Strange humming sound coming from sky near Kondhwa.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5075",
+    "complaint_text": "Mysterious purple liquid appearing on street at night in Aundh.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5076",
+    "complaint_text": "Unexpected unidentified object lying near open plot in Shivajinagar.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5077",
+    "complaint_text": "Unexplained phenomenon observed near park in Swargate.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5078",
+    "complaint_text": "Unexpected unidentified object lying near open plot in Wakad.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5079",
+    "complaint_text": "Strange humming sound coming from sky near Hadapsar.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5080",
+    "complaint_text": "Unexpected unidentified object lying near open plot in Hadapsar.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5081",
+    "complaint_text": "Unexplained phenomenon observed near park in Katraj.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5082",
+    "complaint_text": "Unexplained phenomenon observed near park in Warje.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5083",
+    "complaint_text": "Strange humming sound coming from sky near Kothrud.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5084",
+    "complaint_text": "Unexpected unidentified object lying near open plot in Swargate.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5085",
+    "complaint_text": "Strange humming sound coming from sky near Pimpri.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5086",
+    "complaint_text": "Mysterious purple liquid appearing on street at night in Aundh.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5087",
+    "complaint_text": "Unexpected unidentified object lying near open plot in Pashan.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5088",
+    "complaint_text": "Unexpected unidentified object lying near open plot in Sinhagad Road.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5089",
+    "complaint_text": "Unexpected unidentified object lying near open plot in Katraj.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5090",
+    "complaint_text": "Unexpected unidentified object lying near open plot in Baner.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5091",
+    "complaint_text": "Strange humming sound coming from sky near Aundh.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5092",
+    "complaint_text": "Unexplained phenomenon observed near park in Sinhagad Road.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5093",
+    "complaint_text": "Mysterious purple liquid appearing on street at night in Bibwewadi.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5094",
+    "complaint_text": "Strange humming sound coming from sky near Magarpatta.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5095",
+    "complaint_text": "Mysterious purple liquid appearing on street at night in Shivajinagar.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5096",
+    "complaint_text": "Mysterious purple liquid appearing on street at night in Wakad.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5097",
+    "complaint_text": "Strange humming sound coming from sky near Katraj.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5098",
+    "complaint_text": "Unexplained phenomenon observed near park in Bibwewadi.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5099",
+    "complaint_text": "Unexpected unidentified object lying near open plot in Kalyani Nagar.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5100",
+    "complaint_text": "Unexplained phenomenon observed near park in Kalyani Nagar.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "UNKNOWN",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5101",
+    "complaint_text": "Solve my complaint.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5102",
+    "complaint_text": "Problem near house.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5103",
+    "complaint_text": "Help needed.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5104",
+    "complaint_text": "Problem near house.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5105",
+    "complaint_text": "Krupaya bagha.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5106",
+    "complaint_text": "Solve my complaint.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5107",
+    "complaint_text": "Krupaya bagha.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5108",
+    "complaint_text": "Please solve this issue.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5109",
+    "complaint_text": "Krupaya bagha.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5110",
+    "complaint_text": "Solve my complaint.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5111",
+    "complaint_text": "Krupaya bagha.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5112",
+    "complaint_text": "Solve my complaint.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5113",
+    "complaint_text": "Help needed.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5114",
+    "complaint_text": "Solve my complaint.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5115",
+    "complaint_text": "Help needed.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5116",
+    "complaint_text": "Bad service.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5117",
+    "complaint_text": "Bad service.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5118",
+    "complaint_text": "Help needed.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5119",
+    "complaint_text": "Please solve this issue.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5120",
+    "complaint_text": "Bad service.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5121",
+    "complaint_text": "Problem near house.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5122",
+    "complaint_text": "Fix immediately.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5123",
+    "complaint_text": "Fix immediately.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5124",
+    "complaint_text": "Problem near house.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5125",
+    "complaint_text": "Fix immediately.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5126",
+    "complaint_text": "Bad service.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5127",
+    "complaint_text": "Help needed.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5128",
+    "complaint_text": "Fix immediately.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5129",
+    "complaint_text": "Fix immediately.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5130",
+    "complaint_text": "Help needed.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5131",
+    "complaint_text": "Solve my complaint.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5132",
+    "complaint_text": "Fix immediately.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5133",
+    "complaint_text": "Help needed.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5134",
+    "complaint_text": "Bad service.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5135",
+    "complaint_text": "Bad service.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5136",
+    "complaint_text": "Fix immediately.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5137",
+    "complaint_text": "Bad service.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5138",
+    "complaint_text": "Fix immediately.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5139",
+    "complaint_text": "Solve my complaint.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5140",
+    "complaint_text": "Bad service.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5141",
+    "complaint_text": "Bad service.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5142",
+    "complaint_text": "Bad service.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5143",
+    "complaint_text": "Bad service.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5144",
+    "complaint_text": "Solve my complaint.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5145",
+    "complaint_text": "Krupaya bagha.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5146",
+    "complaint_text": "Solve my complaint.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5147",
+    "complaint_text": "Fix immediately.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5148",
+    "complaint_text": "Problem near house.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5149",
+    "complaint_text": "Bad service.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5150",
+    "complaint_text": "Help needed.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "INSUFFICIENT_INFORMATION",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5151",
+    "complaint_text": "PyTorch neural network tensor data pipeline crashed due to GPU memory error.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5152",
+    "complaint_text": "Bus ticket price was increased by private operator.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5153",
+    "complaint_text": "Cricket match umpire gave incorrect decision yesterday.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5154",
+    "complaint_text": "My home Wi-Fi internet connection is not working.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5155",
+    "complaint_text": "My home Wi-Fi internet connection is not working.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5156",
+    "complaint_text": "Private company electricity bill inside my apartment is high.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5157",
+    "complaint_text": "PyTorch neural network tensor data pipeline crashed due to GPU memory error.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5158",
+    "complaint_text": "Crude oil pipeline burst near industrial zone in Baner, oil spilling on road.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5159",
+    "complaint_text": "Crude oil pipeline burst near industrial zone in Kondhwa, oil spilling on road.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5160",
+    "complaint_text": "LPG natural gas pipeline leaking near petrol pump on highway near Bibwewadi.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5161",
+    "complaint_text": "LPG natural gas pipeline leaking near petrol pump on highway near Pashan.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5162",
+    "complaint_text": "LPG natural gas pipeline leaking near petrol pump on highway near Pashan.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5163",
+    "complaint_text": "Jenkins CI/CD software data deployment pipeline failed during code build.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5164",
+    "complaint_text": "My mobile phone battery is draining very fast.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5165",
+    "complaint_text": "PyTorch neural network tensor data pipeline crashed due to GPU memory error.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5166",
+    "complaint_text": "LPG natural gas pipeline leaking near petrol pump on highway near Viman Nagar.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5167",
+    "complaint_text": "My home Wi-Fi internet connection is not working.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5168",
+    "complaint_text": "Jenkins CI/CD software data deployment pipeline failed during code build.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5169",
+    "complaint_text": "LPG natural gas pipeline leaking near petrol pump on highway near Sinhagad Road.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5170",
+    "complaint_text": "Cricket match umpire gave incorrect decision yesterday.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5171",
+    "complaint_text": "Jenkins CI/CD software data deployment pipeline failed during code build.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5172",
+    "complaint_text": "Crude oil pipeline burst near industrial zone in Magarpatta, oil spilling on road.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5173",
+    "complaint_text": "Private company electricity bill inside my apartment is high.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5174",
+    "complaint_text": "Bus ticket price was increased by private operator.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5175",
+    "complaint_text": "Cricket match umpire gave incorrect decision yesterday.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5176",
+    "complaint_text": "Bus ticket price was increased by private operator.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5177",
+    "complaint_text": "Cricket match umpire gave incorrect decision yesterday.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5178",
+    "complaint_text": "Bus ticket price was increased by private operator.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5179",
+    "complaint_text": "My mobile phone battery is draining very fast.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5180",
+    "complaint_text": "Bus ticket price was increased by private operator.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5181",
+    "complaint_text": "Bus ticket price was increased by private operator.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5182",
+    "complaint_text": "Crude oil pipeline burst near industrial zone in Deccan Gymkhana, oil spilling on road.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5183",
+    "complaint_text": "My mobile phone battery is draining very fast.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5184",
+    "complaint_text": "Jenkins CI/CD software data deployment pipeline failed during code build.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5185",
+    "complaint_text": "Cricket match umpire gave incorrect decision yesterday.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5186",
+    "complaint_text": "Cricket match umpire gave incorrect decision yesterday.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5187",
+    "complaint_text": "Underground chemical factory pipeline burst spilling toxic liquid near Katraj.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5188",
+    "complaint_text": "Ordered laptop online but delivery is delayed.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5189",
+    "complaint_text": "Crude oil pipeline burst near industrial zone in Baner, oil spilling on road.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5190",
+    "complaint_text": "Cricket match umpire gave incorrect decision yesterday.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5191",
+    "complaint_text": "My home Wi-Fi internet connection is not working.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5192",
+    "complaint_text": "Cricket match umpire gave incorrect decision yesterday.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5193",
+    "complaint_text": "AAj aamchya samorcha pipe phutla ani tyatun tel nighayla lagle mag samajla ki to oil pipe hota in Yerwada.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5194",
+    "complaint_text": "Jenkins CI/CD software data deployment pipeline failed during code build.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5195",
+    "complaint_text": "Ordered laptop online but delivery is delayed.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5196",
+    "complaint_text": "My home Wi-Fi internet connection is not working.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5197",
+    "complaint_text": "Underground chemical factory pipeline burst spilling toxic liquid near Camp.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5198",
+    "complaint_text": "Private company electricity bill inside my apartment is high.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5199",
+    "complaint_text": "PyTorch neural network tensor data pipeline crashed due to GPU memory error.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  },
+  {
+    "id": "CF-SPEC-5200",
+    "complaint_text": "LPG natural gas pipeline leaking near petrol pump on highway near Kondhwa.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "HINGLISH",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "special_cases_generator"
+  }
+]

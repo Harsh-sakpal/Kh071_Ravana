@@ -1,0 +1,176 @@
+{
+  "phase3": {
+    "total_uncertainty_samples": 400,
+    "false_confident_classifications": 353,
+    "false_confident_classification_rate": 0.8825,
+    "examples": [
+      {
+        "id": "UNCERT-7001",
+        "complaint_text": "There is a major problem near my house in Kothrud, please check.",
+        "difficulty": "AMBIGUOUS",
+        "falsely_assigned_category": "SAF-DIS",
+        "confidence": 0.75,
+        "method": "LLM_FALLBACK"
+      },
+      {
+        "id": "UNCERT-7002",
+        "complaint_text": "Civic issue on main road near bus stop, please send team.",
+        "difficulty": "AMBIGUOUS",
+        "falsely_assigned_category": "RDW-SIGN",
+        "confidence": 0.75,
+        "method": "LLM_FALLBACK"
+      },
+      {
+        "id": "UNCERT-7003",
+        "complaint_text": "Something is wrong near the society gate in Baner.",
+        "difficulty": "AMBIGUOUS",
+        "falsely_assigned_category": "PRK-MAINT",
+        "confidence": 0.75,
+        "method": "LLM_FALLBACK"
+      },
+      {
+        "id": "UNCERT-7004",
+        "complaint_text": "Municipal team needed to inspect issue in Viman Nagar.",
+        "difficulty": "AMBIGUOUS",
+        "falsely_assigned_category": "SAN-HYG",
+        "confidence": 0.75,
+        "method": "LLM_FALLBACK"
+      },
+      {
+        "id": "UNCERT-7005",
+        "complaint_text": "Rastyavar kahi tari samasya aahe Hadapsar madhe.",
+        "difficulty": "AMBIGUOUS",
+        "falsely_assigned_category": "RDW-ENC",
+        "confidence": 0.75,
+        "method": "LLM_FALLBACK"
+      },
+      {
+        "id": "UNCERT-7006",
+        "complaint_text": "Please fix the situation near Shivajinagar station.",
+        "difficulty": "AMBIGUOUS",
+        "falsely_assigned_category": "LIC-NOISE",
+        "confidence": 0.75,
+        "method": "LLM_FALLBACK"
+      },
+      {
+        "id": "UNCERT-7007",
+        "complaint_text": "There is an issue on the street outside block B.",
+        "difficulty": "AMBIGUOUS",
+        "falsely_assigned_category": "RDW-TRF",
+        "confidence": 0.75,
+        "method": "LLM_FALLBACK"
+      },
+      {
+        "id": "UNCERT-7008",
+        "complaint_text": "Kachra kundi side par samasya hai Aundh me.",
+        "difficulty": "AMBIGUOUS",
+        "falsely_assigned_category": "SAN-BIN",
+        "confidence": 0.8339,
+        "method": "TFIDF"
+      },
+      {
+        "id": "UNCERT-7009",
+        "complaint_text": "Water issue in our lane near market, handle it.",
+        "difficulty": "AMBIGUOUS",
+        "falsely_assigned_category": "STM-LOG",
+        "confidence": 0.75,
+        "method": "LLM_FALLBACK"
+      },
+      {
+        "id": "UNCERT-7010",
+        "complaint_text": "Road side problem in Katraj colony.",
+        "difficulty": "AMBIGUOUS",
+        "falsely_assigned_category": "RDW-RD",
+        "confidence": 0.75,
+        "method": "LLM_FALLBACK"
+      }
+    ]
+  },
+  "phase4": {
+    "total_uncertainty_samples": 400,
+    "false_confident_classifications": 193,
+    "false_confident_classification_rate": 0.4825,
+    "examples": [
+      {
+        "id": "UNCERT-7001",
+        "complaint_text": "There is a major problem near my house in Kothrud, please check.",
+        "difficulty": "AMBIGUOUS",
+        "falsely_assigned_category": "SAF-DIS",
+        "confidence": 0.75,
+        "method": "LLM_FALLBACK"
+      },
+      {
+        "id": "UNCERT-7002",
+        "complaint_text": "Civic issue on main road near bus stop, please send team.",
+        "difficulty": "AMBIGUOUS",
+        "falsely_assigned_category": "RDW-SIGN",
+        "confidence": 0.75,
+        "method": "LLM_FALLBACK"
+      },
+      {
+        "id": "UNCERT-7003",
+        "complaint_text": "Something is wrong near the society gate in Baner.",
+        "difficulty": "AMBIGUOUS",
+        "falsely_assigned_category": "PRK-MAINT",
+        "confidence": 0.75,
+        "method": "LLM_FALLBACK"
+      },
+      {
+        "id": "UNCERT-7004",
+        "complaint_text": "Municipal team needed to inspect issue in Viman Nagar.",
+        "difficulty": "AMBIGUOUS",
+        "falsely_assigned_category": "SAN-HYG",
+        "confidence": 0.75,
+        "method": "LLM_FALLBACK"
+      },
+      {
+        "id": "UNCERT-7005",
+        "complaint_text": "Rastyavar kahi tari samasya aahe Hadapsar madhe.",
+        "difficulty": "AMBIGUOUS",
+        "falsely_assigned_category": "RDW-ENC",
+        "confidence": 0.75,
+        "method": "LLM_FALLBACK"
+      },
+      {
+        "id": "UNCERT-7006",
+        "complaint_text": "Please fix the situation near Shivajinagar station.",
+        "difficulty": "AMBIGUOUS",
+        "falsely_assigned_category": "LIC-NOISE",
+        "confidence": 0.75,
+        "method": "LLM_FALLBACK"
+      },
+      {
+        "id": "UNCERT-7007",
+        "complaint_text": "There is an issue on the street outside block B.",
+        "difficulty": "AMBIGUOUS",
+        "falsely_assigned_category": "RDW-TRF",
+        "confidence": 0.75,
+        "method": "LLM_FALLBACK"
+      },
+      {
+        "id": "UNCERT-7008",
+        "complaint_text": "Kachra kundi side par samasya hai Aundh me.",
+        "difficulty": "AMBIGUOUS",
+        "falsely_assigned_category": "SAN-BIN",
+        "confidence": 0.8339,
+        "method": "TFIDF"
+      },
+      {
+        "id": "UNCERT-7009",
+        "complaint_text": "Water issue in our lane near market, handle it.",
+        "difficulty": "AMBIGUOUS",
+        "falsely_assigned_category": "STM-LOG",
+        "confidence": 0.75,
+        "method": "LLM_FALLBACK"
+      },
+      {
+        "id": "UNCERT-7010",
+        "complaint_text": "Road side problem in Katraj colony.",
+        "difficulty": "AMBIGUOUS",
+        "falsely_assigned_category": "RDW-RD",
+        "confidence": 0.75,
+        "method": "LLM_FALLBACK"
+      }
+    ]
+  }
+}

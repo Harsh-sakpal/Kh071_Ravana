@@ -1,0 +1,49 @@
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+.coverage.*
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Environment Variables & Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# IDEs & OS Specific
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Temporary / Scratch Scripts & Logs
+scratch_*.py
+*.log
+tmp/
+temp/
+
+# Build & Distribution Artifacts
+build/
+dist/
+*.egg-info/
+*.egg
+MANIFEST
+
+# Test Outputs
+test-results.xml

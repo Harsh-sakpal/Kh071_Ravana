@@ -1,0 +1,8 @@
+{
+  "mode": "EMBEDDING_STANDALONE",
+  "accuracy": 0.7328,
+  "macro_f1": 0.742,
+  "weighted_f1": 0.742,
+  "avg_latency_ms": 52.98,
+  "avg_tools_per_complaint": 1.0
+}

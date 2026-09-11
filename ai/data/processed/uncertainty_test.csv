@@ -1,0 +1,401 @@
+id,complaint_text,domain_code,category_code,department_code,language,difficulty,source
+UNCERT-7001,"There is a major problem near my house in Kothrud, please check.",,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7002,"Civic issue on main road near bus stop, please send team.",,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7003,Something is wrong near the society gate in Baner.,,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7004,Municipal team needed to inspect issue in Viman Nagar.,,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7005,Rastyavar kahi tari samasya aahe Hadapsar madhe.,,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7006,Please fix the situation near Shivajinagar station.,,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7007,There is an issue on the street outside block B.,,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7008,Kachra kundi side par samasya hai Aundh me.,,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7009,"Water issue in our lane near market, handle it.",,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7010,Road side problem in Katraj colony.,,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7011,"There is a major problem near my house in Kothrud, please check. (Ref: #111)",,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7012,"Civic issue on main road near bus stop, please send team. (Ref: #112)",,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7013,Something is wrong near the society gate in Baner. (Ref: #113),,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7014,Municipal team needed to inspect issue in Viman Nagar. (Ref: #114),,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7015,Rastyavar kahi tari samasya aahe Hadapsar madhe. (Ref: #115),,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7016,Please fix the situation near Shivajinagar station. (Ref: #116),,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7017,There is an issue on the street outside block B. (Ref: #117),,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7018,Kachra kundi side par samasya hai Aundh me. (Ref: #118),,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7019,"Water issue in our lane near market, handle it. (Ref: #119)",,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7020,Road side problem in Katraj colony. (Ref: #120),,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7021,"There is a major problem near my house in Kothrud, please check. (Ref: #121)",,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7022,"Civic issue on main road near bus stop, please send team. (Ref: #122)",,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7023,Something is wrong near the society gate in Baner. (Ref: #123),,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7024,Municipal team needed to inspect issue in Viman Nagar. (Ref: #124),,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7025,Rastyavar kahi tari samasya aahe Hadapsar madhe. (Ref: #125),,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7026,Please fix the situation near Shivajinagar station. (Ref: #126),,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7027,There is an issue on the street outside block B. (Ref: #127),,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7028,Kachra kundi side par samasya hai Aundh me. (Ref: #128),,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7029,"Water issue in our lane near market, handle it. (Ref: #129)",,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7030,Road side problem in Katraj colony. (Ref: #130),,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7031,"There is a major problem near my house in Kothrud, please check. (Ref: #131)",,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7032,"Civic issue on main road near bus stop, please send team. (Ref: #132)",,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7033,Something is wrong near the society gate in Baner. (Ref: #133),,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7034,Municipal team needed to inspect issue in Viman Nagar. (Ref: #134),,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7035,Rastyavar kahi tari samasya aahe Hadapsar madhe. (Ref: #135),,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7036,Please fix the situation near Shivajinagar station. (Ref: #136),,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7037,There is an issue on the street outside block B. (Ref: #137),,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7038,Kachra kundi side par samasya hai Aundh me. (Ref: #138),,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7039,"Water issue in our lane near market, handle it. (Ref: #139)",,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7040,Road side problem in Katraj colony. (Ref: #140),,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7041,"There is a major problem near my house in Kothrud, please check. (Ref: #141)",,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7042,"Civic issue on main road near bus stop, please send team. (Ref: #142)",,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7043,Something is wrong near the society gate in Baner. (Ref: #143),,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7044,Municipal team needed to inspect issue in Viman Nagar. (Ref: #144),,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7045,Rastyavar kahi tari samasya aahe Hadapsar madhe. (Ref: #145),,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7046,Please fix the situation near Shivajinagar station. (Ref: #146),,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7047,There is an issue on the street outside block B. (Ref: #147),,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7048,Kachra kundi side par samasya hai Aundh me. (Ref: #148),,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7049,"Water issue in our lane near market, handle it. (Ref: #149)",,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7050,Road side problem in Katraj colony. (Ref: #150),,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7051,"There is a major problem near my house in Kothrud, please check. (Ref: #151)",,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7052,"Civic issue on main road near bus stop, please send team. (Ref: #152)",,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7053,Something is wrong near the society gate in Baner. (Ref: #153),,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7054,Municipal team needed to inspect issue in Viman Nagar. (Ref: #154),,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7055,Rastyavar kahi tari samasya aahe Hadapsar madhe. (Ref: #155),,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7056,Please fix the situation near Shivajinagar station. (Ref: #156),,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7057,There is an issue on the street outside block B. (Ref: #157),,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7058,Kachra kundi side par samasya hai Aundh me. (Ref: #158),,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7059,"Water issue in our lane near market, handle it. (Ref: #159)",,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7060,Road side problem in Katraj colony. (Ref: #160),,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7061,"There is a major problem near my house in Kothrud, please check. (Ref: #161)",,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7062,"Civic issue on main road near bus stop, please send team. (Ref: #162)",,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7063,Something is wrong near the society gate in Baner. (Ref: #163),,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7064,Municipal team needed to inspect issue in Viman Nagar. (Ref: #164),,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7065,Rastyavar kahi tari samasya aahe Hadapsar madhe. (Ref: #165),,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7066,Please fix the situation near Shivajinagar station. (Ref: #166),,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7067,There is an issue on the street outside block B. (Ref: #167),,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7068,Kachra kundi side par samasya hai Aundh me. (Ref: #168),,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7069,"Water issue in our lane near market, handle it. (Ref: #169)",,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7070,Road side problem in Katraj colony. (Ref: #170),,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7071,"There is a major problem near my house in Kothrud, please check. (Ref: #171)",,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7072,"Civic issue on main road near bus stop, please send team. (Ref: #172)",,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7073,Something is wrong near the society gate in Baner. (Ref: #173),,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7074,Municipal team needed to inspect issue in Viman Nagar. (Ref: #174),,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7075,Rastyavar kahi tari samasya aahe Hadapsar madhe. (Ref: #175),,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7076,Please fix the situation near Shivajinagar station. (Ref: #176),,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7077,There is an issue on the street outside block B. (Ref: #177),,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7078,Kachra kundi side par samasya hai Aundh me. (Ref: #178),,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7079,"Water issue in our lane near market, handle it. (Ref: #179)",,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7080,Road side problem in Katraj colony. (Ref: #180),,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7081,"There is a major problem near my house in Kothrud, please check. (Ref: #181)",,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7082,"Civic issue on main road near bus stop, please send team. (Ref: #182)",,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7083,Something is wrong near the society gate in Baner. (Ref: #183),,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7084,Municipal team needed to inspect issue in Viman Nagar. (Ref: #184),,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7085,Rastyavar kahi tari samasya aahe Hadapsar madhe. (Ref: #185),,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7086,Please fix the situation near Shivajinagar station. (Ref: #186),,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7087,There is an issue on the street outside block B. (Ref: #187),,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7088,Kachra kundi side par samasya hai Aundh me. (Ref: #188),,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7089,"Water issue in our lane near market, handle it. (Ref: #189)",,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7090,Road side problem in Katraj colony. (Ref: #190),,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7091,"There is a major problem near my house in Kothrud, please check. (Ref: #191)",,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7092,"Civic issue on main road near bus stop, please send team. (Ref: #192)",,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7093,Something is wrong near the society gate in Baner. (Ref: #193),,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7094,Municipal team needed to inspect issue in Viman Nagar. (Ref: #194),,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7095,Rastyavar kahi tari samasya aahe Hadapsar madhe. (Ref: #195),,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7096,Please fix the situation near Shivajinagar station. (Ref: #196),,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7097,There is an issue on the street outside block B. (Ref: #197),,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7098,Kachra kundi side par samasya hai Aundh me. (Ref: #198),,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7099,"Water issue in our lane near market, handle it. (Ref: #199)",,,,EN,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7100,Road side problem in Katraj colony. (Ref: #200),,,,HINGLISH,AMBIGUOUS,uncertainty_adversarial_generator
+UNCERT-7101,Please solve this issue.,,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7102,Bad service.,,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7103,Fix immediately.,,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7104,Problem near house.,,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7105,Krupaya bagha.,,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7106,Solve my complaint.,,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7107,Help needed.,,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7108,Check this.,,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7109,Very bad.,,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7110,Action required.,,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7111,Please solve this issue. (Ref: #111),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7112,Bad service. (Ref: #112),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7113,Fix immediately. (Ref: #113),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7114,Problem near house. (Ref: #114),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7115,Krupaya bagha. (Ref: #115),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7116,Solve my complaint. (Ref: #116),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7117,Help needed. (Ref: #117),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7118,Check this. (Ref: #118),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7119,Very bad. (Ref: #119),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7120,Action required. (Ref: #120),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7121,Please solve this issue. (Ref: #121),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7122,Bad service. (Ref: #122),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7123,Fix immediately. (Ref: #123),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7124,Problem near house. (Ref: #124),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7125,Krupaya bagha. (Ref: #125),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7126,Solve my complaint. (Ref: #126),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7127,Help needed. (Ref: #127),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7128,Check this. (Ref: #128),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7129,Very bad. (Ref: #129),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7130,Action required. (Ref: #130),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7131,Please solve this issue. (Ref: #131),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7132,Bad service. (Ref: #132),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7133,Fix immediately. (Ref: #133),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7134,Problem near house. (Ref: #134),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7135,Krupaya bagha. (Ref: #135),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7136,Solve my complaint. (Ref: #136),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7137,Help needed. (Ref: #137),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7138,Check this. (Ref: #138),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7139,Very bad. (Ref: #139),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7140,Action required. (Ref: #140),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7141,Please solve this issue. (Ref: #141),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7142,Bad service. (Ref: #142),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7143,Fix immediately. (Ref: #143),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7144,Problem near house. (Ref: #144),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7145,Krupaya bagha. (Ref: #145),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7146,Solve my complaint. (Ref: #146),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7147,Help needed. (Ref: #147),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7148,Check this. (Ref: #148),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7149,Very bad. (Ref: #149),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7150,Action required. (Ref: #150),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7151,Please solve this issue. (Ref: #151),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7152,Bad service. (Ref: #152),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7153,Fix immediately. (Ref: #153),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7154,Problem near house. (Ref: #154),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7155,Krupaya bagha. (Ref: #155),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7156,Solve my complaint. (Ref: #156),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7157,Help needed. (Ref: #157),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7158,Check this. (Ref: #158),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7159,Very bad. (Ref: #159),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7160,Action required. (Ref: #160),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7161,Please solve this issue. (Ref: #161),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7162,Bad service. (Ref: #162),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7163,Fix immediately. (Ref: #163),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7164,Problem near house. (Ref: #164),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7165,Krupaya bagha. (Ref: #165),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7166,Solve my complaint. (Ref: #166),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7167,Help needed. (Ref: #167),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7168,Check this. (Ref: #168),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7169,Very bad. (Ref: #169),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7170,Action required. (Ref: #170),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7171,Please solve this issue. (Ref: #171),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7172,Bad service. (Ref: #172),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7173,Fix immediately. (Ref: #173),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7174,Problem near house. (Ref: #174),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7175,Krupaya bagha. (Ref: #175),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7176,Solve my complaint. (Ref: #176),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7177,Help needed. (Ref: #177),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7178,Check this. (Ref: #178),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7179,Very bad. (Ref: #179),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7180,Action required. (Ref: #180),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7181,Please solve this issue. (Ref: #181),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7182,Bad service. (Ref: #182),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7183,Fix immediately. (Ref: #183),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7184,Problem near house. (Ref: #184),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7185,Krupaya bagha. (Ref: #185),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7186,Solve my complaint. (Ref: #186),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7187,Help needed. (Ref: #187),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7188,Check this. (Ref: #188),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7189,Very bad. (Ref: #189),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7190,Action required. (Ref: #190),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7191,Please solve this issue. (Ref: #191),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7192,Bad service. (Ref: #192),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7193,Fix immediately. (Ref: #193),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7194,Problem near house. (Ref: #194),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7195,Krupaya bagha. (Ref: #195),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7196,Solve my complaint. (Ref: #196),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7197,Help needed. (Ref: #197),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7198,Check this. (Ref: #198),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7199,Very bad. (Ref: #199),,,,EN,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7200,Action required. (Ref: #200),,,,HINGLISH,INSUFFICIENT_INFORMATION,uncertainty_adversarial_generator
+UNCERT-7201,My mobile phone battery drains very fast after update.,,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7202,Cricket match umpire gave incorrect decision in yesterday match.,,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7203,Private electricity bill inside my apartment is too high.,,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7204,Ordered laptop online but delivery courier is delayed.,,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7205,My home Wi-Fi internet connection is not working.,,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7206,Bus ticket price was increased by private operator.,,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7207,Crude oil pipeline burst near industrial refinery spilling oil on highway.,,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7208,AAj aamchya samorcha pipe phutla ani tyatun tel nighayla lagle mag samajla ki to oil pipe hota.,,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7209,Natural gas pipeline leak detected near residential housing society.,,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7210,Industrial chemical effluent pipe burst leaking acid into open field.,,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7211,My mobile phone battery drains very fast after update. (Ref: #111),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7212,Cricket match umpire gave incorrect decision in yesterday match. (Ref: #112),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7213,Private electricity bill inside my apartment is too high. (Ref: #113),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7214,Ordered laptop online but delivery courier is delayed. (Ref: #114),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7215,My home Wi-Fi internet connection is not working. (Ref: #115),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7216,Bus ticket price was increased by private operator. (Ref: #116),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7217,Crude oil pipeline burst near industrial refinery spilling oil on highway. (Ref: #117),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7218,AAj aamchya samorcha pipe phutla ani tyatun tel nighayla lagle mag samajla ki to oil pipe hota. (Ref: #118),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7219,Natural gas pipeline leak detected near residential housing society. (Ref: #119),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7220,Industrial chemical effluent pipe burst leaking acid into open field. (Ref: #120),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7221,My mobile phone battery drains very fast after update. (Ref: #121),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7222,Cricket match umpire gave incorrect decision in yesterday match. (Ref: #122),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7223,Private electricity bill inside my apartment is too high. (Ref: #123),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7224,Ordered laptop online but delivery courier is delayed. (Ref: #124),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7225,My home Wi-Fi internet connection is not working. (Ref: #125),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7226,Bus ticket price was increased by private operator. (Ref: #126),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7227,Crude oil pipeline burst near industrial refinery spilling oil on highway. (Ref: #127),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7228,AAj aamchya samorcha pipe phutla ani tyatun tel nighayla lagle mag samajla ki to oil pipe hota. (Ref: #128),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7229,Natural gas pipeline leak detected near residential housing society. (Ref: #129),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7230,Industrial chemical effluent pipe burst leaking acid into open field. (Ref: #130),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7231,My mobile phone battery drains very fast after update. (Ref: #131),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7232,Cricket match umpire gave incorrect decision in yesterday match. (Ref: #132),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7233,Private electricity bill inside my apartment is too high. (Ref: #133),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7234,Ordered laptop online but delivery courier is delayed. (Ref: #134),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7235,My home Wi-Fi internet connection is not working. (Ref: #135),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7236,Bus ticket price was increased by private operator. (Ref: #136),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7237,Crude oil pipeline burst near industrial refinery spilling oil on highway. (Ref: #137),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7238,AAj aamchya samorcha pipe phutla ani tyatun tel nighayla lagle mag samajla ki to oil pipe hota. (Ref: #138),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7239,Natural gas pipeline leak detected near residential housing society. (Ref: #139),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7240,Industrial chemical effluent pipe burst leaking acid into open field. (Ref: #140),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7241,My mobile phone battery drains very fast after update. (Ref: #141),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7242,Cricket match umpire gave incorrect decision in yesterday match. (Ref: #142),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7243,Private electricity bill inside my apartment is too high. (Ref: #143),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7244,Ordered laptop online but delivery courier is delayed. (Ref: #144),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7245,My home Wi-Fi internet connection is not working. (Ref: #145),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7246,Bus ticket price was increased by private operator. (Ref: #146),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7247,Crude oil pipeline burst near industrial refinery spilling oil on highway. (Ref: #147),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7248,AAj aamchya samorcha pipe phutla ani tyatun tel nighayla lagle mag samajla ki to oil pipe hota. (Ref: #148),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7249,Natural gas pipeline leak detected near residential housing society. (Ref: #149),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7250,Industrial chemical effluent pipe burst leaking acid into open field. (Ref: #150),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7251,My mobile phone battery drains very fast after update. (Ref: #151),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7252,Cricket match umpire gave incorrect decision in yesterday match. (Ref: #152),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7253,Private electricity bill inside my apartment is too high. (Ref: #153),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7254,Ordered laptop online but delivery courier is delayed. (Ref: #154),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7255,My home Wi-Fi internet connection is not working. (Ref: #155),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7256,Bus ticket price was increased by private operator. (Ref: #156),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7257,Crude oil pipeline burst near industrial refinery spilling oil on highway. (Ref: #157),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7258,AAj aamchya samorcha pipe phutla ani tyatun tel nighayla lagle mag samajla ki to oil pipe hota. (Ref: #158),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7259,Natural gas pipeline leak detected near residential housing society. (Ref: #159),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7260,Industrial chemical effluent pipe burst leaking acid into open field. (Ref: #160),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7261,My mobile phone battery drains very fast after update. (Ref: #161),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7262,Cricket match umpire gave incorrect decision in yesterday match. (Ref: #162),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7263,Private electricity bill inside my apartment is too high. (Ref: #163),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7264,Ordered laptop online but delivery courier is delayed. (Ref: #164),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7265,My home Wi-Fi internet connection is not working. (Ref: #165),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7266,Bus ticket price was increased by private operator. (Ref: #166),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7267,Crude oil pipeline burst near industrial refinery spilling oil on highway. (Ref: #167),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7268,AAj aamchya samorcha pipe phutla ani tyatun tel nighayla lagle mag samajla ki to oil pipe hota. (Ref: #168),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7269,Natural gas pipeline leak detected near residential housing society. (Ref: #169),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7270,Industrial chemical effluent pipe burst leaking acid into open field. (Ref: #170),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7271,My mobile phone battery drains very fast after update. (Ref: #171),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7272,Cricket match umpire gave incorrect decision in yesterday match. (Ref: #172),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7273,Private electricity bill inside my apartment is too high. (Ref: #173),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7274,Ordered laptop online but delivery courier is delayed. (Ref: #174),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7275,My home Wi-Fi internet connection is not working. (Ref: #175),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7276,Bus ticket price was increased by private operator. (Ref: #176),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7277,Crude oil pipeline burst near industrial refinery spilling oil on highway. (Ref: #177),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7278,AAj aamchya samorcha pipe phutla ani tyatun tel nighayla lagle mag samajla ki to oil pipe hota. (Ref: #178),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7279,Natural gas pipeline leak detected near residential housing society. (Ref: #179),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7280,Industrial chemical effluent pipe burst leaking acid into open field. (Ref: #180),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7281,My mobile phone battery drains very fast after update. (Ref: #181),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7282,Cricket match umpire gave incorrect decision in yesterday match. (Ref: #182),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7283,Private electricity bill inside my apartment is too high. (Ref: #183),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7284,Ordered laptop online but delivery courier is delayed. (Ref: #184),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7285,My home Wi-Fi internet connection is not working. (Ref: #185),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7286,Bus ticket price was increased by private operator. (Ref: #186),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7287,Crude oil pipeline burst near industrial refinery spilling oil on highway. (Ref: #187),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7288,AAj aamchya samorcha pipe phutla ani tyatun tel nighayla lagle mag samajla ki to oil pipe hota. (Ref: #188),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7289,Natural gas pipeline leak detected near residential housing society. (Ref: #189),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7290,Industrial chemical effluent pipe burst leaking acid into open field. (Ref: #190),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7291,My mobile phone battery drains very fast after update. (Ref: #191),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7292,Cricket match umpire gave incorrect decision in yesterday match. (Ref: #192),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7293,Private electricity bill inside my apartment is too high. (Ref: #193),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7294,Ordered laptop online but delivery courier is delayed. (Ref: #194),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7295,My home Wi-Fi internet connection is not working. (Ref: #195),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7296,Bus ticket price was increased by private operator. (Ref: #196),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7297,Crude oil pipeline burst near industrial refinery spilling oil on highway. (Ref: #197),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7298,AAj aamchya samorcha pipe phutla ani tyatun tel nighayla lagle mag samajla ki to oil pipe hota. (Ref: #198),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7299,Natural gas pipeline leak detected near residential housing society. (Ref: #199),,,,EN,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7300,Industrial chemical effluent pipe burst leaking acid into open field. (Ref: #200),,,,HINGLISH,OUT_OF_SCOPE,uncertainty_adversarial_generator
+UNCERT-7301,My smartphone garbage collection RAM cleaner app is crashing.,,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7302,Road runner cartoon show is playing on TV channel 5.,,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7303,Drinking water heater in my private bathroom is leaking.,,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7304,Pothole in my virtual video game terrain needs fixing.,,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7305,Streetlight image downloaded on my computer is corrupted.,,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7306,Java garbage collection thread is taking high CPU memory.,,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7307,Jenkins CI/CD deployment pipeline water release script crashed on server.,,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7308,PyTorch neural network data processing pipeline threw memory allocation error.,,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7309,Oil leak simulation level in a computer game is lagging.,,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7310,Pipe burst after oil transport in commercial petroleum refinery pipeline.,,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7311,My smartphone garbage collection RAM cleaner app is crashing. (Ref: #111),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7312,Road runner cartoon show is playing on TV channel 5. (Ref: #112),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7313,Drinking water heater in my private bathroom is leaking. (Ref: #113),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7314,Pothole in my virtual video game terrain needs fixing. (Ref: #114),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7315,Streetlight image downloaded on my computer is corrupted. (Ref: #115),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7316,Java garbage collection thread is taking high CPU memory. (Ref: #116),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7317,Jenkins CI/CD deployment pipeline water release script crashed on server. (Ref: #117),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7318,PyTorch neural network data processing pipeline threw memory allocation error. (Ref: #118),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7319,Oil leak simulation level in a computer game is lagging. (Ref: #119),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7320,Pipe burst after oil transport in commercial petroleum refinery pipeline. (Ref: #120),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7321,My smartphone garbage collection RAM cleaner app is crashing. (Ref: #121),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7322,Road runner cartoon show is playing on TV channel 5. (Ref: #122),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7323,Drinking water heater in my private bathroom is leaking. (Ref: #123),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7324,Pothole in my virtual video game terrain needs fixing. (Ref: #124),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7325,Streetlight image downloaded on my computer is corrupted. (Ref: #125),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7326,Java garbage collection thread is taking high CPU memory. (Ref: #126),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7327,Jenkins CI/CD deployment pipeline water release script crashed on server. (Ref: #127),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7328,PyTorch neural network data processing pipeline threw memory allocation error. (Ref: #128),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7329,Oil leak simulation level in a computer game is lagging. (Ref: #129),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7330,Pipe burst after oil transport in commercial petroleum refinery pipeline. (Ref: #130),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7331,My smartphone garbage collection RAM cleaner app is crashing. (Ref: #131),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7332,Road runner cartoon show is playing on TV channel 5. (Ref: #132),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7333,Drinking water heater in my private bathroom is leaking. (Ref: #133),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7334,Pothole in my virtual video game terrain needs fixing. (Ref: #134),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7335,Streetlight image downloaded on my computer is corrupted. (Ref: #135),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7336,Java garbage collection thread is taking high CPU memory. (Ref: #136),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7337,Jenkins CI/CD deployment pipeline water release script crashed on server. (Ref: #137),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7338,PyTorch neural network data processing pipeline threw memory allocation error. (Ref: #138),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7339,Oil leak simulation level in a computer game is lagging. (Ref: #139),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7340,Pipe burst after oil transport in commercial petroleum refinery pipeline. (Ref: #140),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7341,My smartphone garbage collection RAM cleaner app is crashing. (Ref: #141),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7342,Road runner cartoon show is playing on TV channel 5. (Ref: #142),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7343,Drinking water heater in my private bathroom is leaking. (Ref: #143),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7344,Pothole in my virtual video game terrain needs fixing. (Ref: #144),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7345,Streetlight image downloaded on my computer is corrupted. (Ref: #145),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7346,Java garbage collection thread is taking high CPU memory. (Ref: #146),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7347,Jenkins CI/CD deployment pipeline water release script crashed on server. (Ref: #147),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7348,PyTorch neural network data processing pipeline threw memory allocation error. (Ref: #148),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7349,Oil leak simulation level in a computer game is lagging. (Ref: #149),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7350,Pipe burst after oil transport in commercial petroleum refinery pipeline. (Ref: #150),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7351,My smartphone garbage collection RAM cleaner app is crashing. (Ref: #151),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7352,Road runner cartoon show is playing on TV channel 5. (Ref: #152),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7353,Drinking water heater in my private bathroom is leaking. (Ref: #153),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7354,Pothole in my virtual video game terrain needs fixing. (Ref: #154),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7355,Streetlight image downloaded on my computer is corrupted. (Ref: #155),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7356,Java garbage collection thread is taking high CPU memory. (Ref: #156),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7357,Jenkins CI/CD deployment pipeline water release script crashed on server. (Ref: #157),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7358,PyTorch neural network data processing pipeline threw memory allocation error. (Ref: #158),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7359,Oil leak simulation level in a computer game is lagging. (Ref: #159),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7360,Pipe burst after oil transport in commercial petroleum refinery pipeline. (Ref: #160),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7361,My smartphone garbage collection RAM cleaner app is crashing. (Ref: #161),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7362,Road runner cartoon show is playing on TV channel 5. (Ref: #162),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7363,Drinking water heater in my private bathroom is leaking. (Ref: #163),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7364,Pothole in my virtual video game terrain needs fixing. (Ref: #164),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7365,Streetlight image downloaded on my computer is corrupted. (Ref: #165),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7366,Java garbage collection thread is taking high CPU memory. (Ref: #166),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7367,Jenkins CI/CD deployment pipeline water release script crashed on server. (Ref: #167),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7368,PyTorch neural network data processing pipeline threw memory allocation error. (Ref: #168),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7369,Oil leak simulation level in a computer game is lagging. (Ref: #169),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7370,Pipe burst after oil transport in commercial petroleum refinery pipeline. (Ref: #170),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7371,My smartphone garbage collection RAM cleaner app is crashing. (Ref: #171),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7372,Road runner cartoon show is playing on TV channel 5. (Ref: #172),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7373,Drinking water heater in my private bathroom is leaking. (Ref: #173),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7374,Pothole in my virtual video game terrain needs fixing. (Ref: #174),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7375,Streetlight image downloaded on my computer is corrupted. (Ref: #175),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7376,Java garbage collection thread is taking high CPU memory. (Ref: #176),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7377,Jenkins CI/CD deployment pipeline water release script crashed on server. (Ref: #177),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7378,PyTorch neural network data processing pipeline threw memory allocation error. (Ref: #178),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7379,Oil leak simulation level in a computer game is lagging. (Ref: #179),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7380,Pipe burst after oil transport in commercial petroleum refinery pipeline. (Ref: #180),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7381,My smartphone garbage collection RAM cleaner app is crashing. (Ref: #181),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7382,Road runner cartoon show is playing on TV channel 5. (Ref: #182),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7383,Drinking water heater in my private bathroom is leaking. (Ref: #183),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7384,Pothole in my virtual video game terrain needs fixing. (Ref: #184),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7385,Streetlight image downloaded on my computer is corrupted. (Ref: #185),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7386,Java garbage collection thread is taking high CPU memory. (Ref: #186),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7387,Jenkins CI/CD deployment pipeline water release script crashed on server. (Ref: #187),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7388,PyTorch neural network data processing pipeline threw memory allocation error. (Ref: #188),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7389,Oil leak simulation level in a computer game is lagging. (Ref: #189),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7390,Pipe burst after oil transport in commercial petroleum refinery pipeline. (Ref: #190),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7391,My smartphone garbage collection RAM cleaner app is crashing. (Ref: #191),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7392,Road runner cartoon show is playing on TV channel 5. (Ref: #192),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7393,Drinking water heater in my private bathroom is leaking. (Ref: #193),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7394,Pothole in my virtual video game terrain needs fixing. (Ref: #194),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7395,Streetlight image downloaded on my computer is corrupted. (Ref: #195),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7396,Java garbage collection thread is taking high CPU memory. (Ref: #196),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7397,Jenkins CI/CD deployment pipeline water release script crashed on server. (Ref: #197),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7398,PyTorch neural network data processing pipeline threw memory allocation error. (Ref: #198),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7399,Oil leak simulation level in a computer game is lagging. (Ref: #199),,,,EN,ADVERSARIAL_OOS,uncertainty_adversarial_generator
+UNCERT-7400,Pipe burst after oil transport in commercial petroleum refinery pipeline. (Ref: #200),,,,HINGLISH,ADVERSARIAL_OOS,uncertainty_adversarial_generator

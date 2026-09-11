@@ -1,0 +1,122 @@
+{
+  "model_name": "paraphrase-multilingual-MiniLM-L12-v2",
+  "domain_categories": {
+    "PUBLIC_HEALTH": [
+      "SAN-ANML",
+      "SAN-PEST",
+      "SAN-HYG"
+    ],
+    "BUILDING_CONSTRUCTION": [
+      "RDW-DEBR",
+      "RDW-BLDG"
+    ],
+    "PROPERTY_TAX": [
+      "TAX-ERR",
+      "TAX-REC"
+    ],
+    "TRAFFIC_PARKING": [
+      "RDW-TRF",
+      "RDW-SIGN"
+    ],
+    "WATER_SUPPLY": [
+      "WTR-QUAL",
+      "WTR-PRES",
+      "WTR-LEAK"
+    ],
+    "GARDENS_TREES": [
+      "PRK-TREE",
+      "PRK-MAINT"
+    ],
+    "FIRE_DISASTER_SAFETY": [
+      "SAF-DIS",
+      "SAF-FIRE"
+    ],
+    "SOLID_WASTE": [
+      "SAN-DUMP",
+      "SAN-SWEEP",
+      "SAN-BIN",
+      "SAN-GARB"
+    ],
+    "ENVIRONMENT_POLLUTION": [
+      "PRK-NOIS",
+      "PRK-AIR"
+    ],
+    "STREET_LIGHTING": [
+      "ELE-POLE",
+      "ELE-LGT"
+    ],
+    "ENCROACHMENT": [
+      "RDW-ENC"
+    ],
+    "ROADS_FOOTPATHS": [
+      "RDW-WALK",
+      "RDW-RD",
+      "RDW-POT"
+    ],
+    "LICENSES_PERMISSIONS": [
+      "LIC-NOISE",
+      "LIC-TRD"
+    ],
+    "STORM_WATER": [
+      "STM-DRN",
+      "STM-LOG"
+    ],
+    "SEWERAGE_DRAINAGE": [
+      "SEW-BLOCK",
+      "SEW-MAN"
+    ]
+  },
+  "categories": [
+    "SAN-ANML",
+    "RDW-DEBR",
+    "TAX-ERR",
+    "RDW-TRF",
+    "WTR-QUAL",
+    "PRK-TREE",
+    "TAX-REC",
+    "SAF-DIS",
+    "SAF-FIRE",
+    "SAN-DUMP",
+    "SAN-SWEEP",
+    "PRK-NOIS",
+    "ELE-POLE",
+    "RDW-ENC",
+    "RDW-WALK",
+    "WTR-PRES",
+    "RDW-RD",
+    "RDW-POT",
+    "PRK-AIR",
+    "LIC-NOISE",
+    "SAN-PEST",
+    "STM-DRN",
+    "SEW-BLOCK",
+    "SAN-BIN",
+    "SEW-MAN",
+    "SAN-HYG",
+    "LIC-TRD",
+    "RDW-SIGN",
+    "SAN-GARB",
+    "ELE-LGT",
+    "RDW-BLDG",
+    "WTR-LEAK",
+    "STM-LOG",
+    "PRK-MAINT"
+  ],
+  "domains": [
+    "PUBLIC_HEALTH",
+    "BUILDING_CONSTRUCTION",
+    "PROPERTY_TAX",
+    "TRAFFIC_PARKING",
+    "WATER_SUPPLY",
+    "GARDENS_TREES",
+    "FIRE_DISASTER_SAFETY",
+    "SOLID_WASTE",
+    "ENVIRONMENT_POLLUTION",
+    "STREET_LIGHTING",
+    "ENCROACHMENT",
+    "ROADS_FOOTPATHS",
+    "LICENSES_PERMISSIONS",
+    "STORM_WATER",
+    "SEWERAGE_DRAINAGE"
+  ]
+}

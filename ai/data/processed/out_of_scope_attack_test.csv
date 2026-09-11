@@ -1,0 +1,23 @@
+complaint_id,complaint_text,expected_category,test_type
+OOS_001,"How do I reverse a binary tree in Python?",OUT_OF_SCOPE,programming
+OOS_002,"My garbage collection app keeps crashing on Android.",OUT_OF_SCOPE,adversarial_keyword
+OOS_003,"The stock market crashed today.",OUT_OF_SCOPE,finance
+OOS_004,"What is the weather going to be like tomorrow?",OUT_OF_SCOPE,weather
+OOS_005,"Water heater temperature is too high.",OUT_OF_SCOPE,adversarial_keyword
+OOS_006,"Road Runner is my favourite cartoon.",OUT_OF_SCOPE,adversarial_keyword
+OOS_007,"Streetlight in my game is not working.",OUT_OF_SCOPE,adversarial_keyword
+OOS_008,"How do I pay my municipal property tax using Java?",OUT_OF_SCOPE,adversarial_keyword
+OOS_009,"I have a severe headache and fever, what medicine should I take?",OUT_OF_SCOPE,medical
+OOS_010,"https://example.com/check-this-out",OUT_OF_SCOPE,spam_url
+OOS_011,"Buy cheap sunglasses at this link!",OUT_OF_SCOPE,spam
+OOS_012,"fsdjfksdjfksdfjsdjfks",OUT_OF_SCOPE,nonsense
+OOS_013,"Python garbage collection is slow.",OUT_OF_SCOPE,adversarial_keyword
+OOS_014,"Can I get the recipe for butter chicken?",OUT_OF_SCOPE,food
+MULTI_001,"Road has potholes and streetlight is also not working.",AMBIGUOUS,multiple_issue
+MULTI_002,"Garbage is not collected and water is leaking near the bin.",AMBIGUOUS,multiple_issue
+MULTI_003,"Drainage is blocked and rainwater is overflowing on the road.",AMBIGUOUS,multiple_issue
+ADV_001,"garbge is not collcted outside my houes",SAN-GARB,adversarial_spelling
+ADV_002,"Please immediately quickly and urgently resolve the fact that water is leaking from the main pipe near the temple.",WAT-LEAK,adversarial_verbose
+ADV_003,"kachra gadi aali nahi aahe",SAN-GARB,adversarial_marathi_roman
+ADV_004,"Potholes. Big ones. Fix them.",RDW-POT,adversarial_short
+ADV_005,"The completely unrelated issue of my neighbor aside, the streetlight is broken.",ELE-LGT,adversarial_distraction

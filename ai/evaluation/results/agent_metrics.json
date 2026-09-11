@@ -1,0 +1,13 @@
+{
+  "mode": "AGENTIC_PIPELINE",
+  "accuracy": 0.9191,
+  "macro_f1": 0.9185,
+  "weighted_f1": 0.9185,
+  "avg_latency_ms": 55.64,
+  "avg_tools_per_complaint": 1.3,
+  "escalation_rates": {
+    "tfidf_accepted_pct": 0.8064,
+    "embedding_accepted_pct": 0.0882,
+    "llm_fallback_accepted_pct": 0.1054
+  }
+}

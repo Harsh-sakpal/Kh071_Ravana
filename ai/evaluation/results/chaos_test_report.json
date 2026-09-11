@@ -1,0 +1,7 @@
+{
+  "total_inputs": 233,
+  "safe_completions": 233,
+  "crashes": 0,
+  "taxonomy_violations": 0,
+  "avg_latency": 0.2401
+}

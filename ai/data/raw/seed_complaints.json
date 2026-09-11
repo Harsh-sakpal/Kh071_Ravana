@@ -1,0 +1,182 @@
+[
+  {
+    "id": "SEED-001",
+    "complaint_text": "Garbage vehicle has not arrived in our society for the last three days. Trash is overflowing near the main gate.",
+    "domain_code": "SOLID_WASTE",
+    "category_code": "SAN-GARB",
+    "department_code": "SAN",
+    "language": "EN",
+    "difficulty": "EASY",
+    "source": "citizen_app_seed"
+  },
+  {
+    "id": "SEED-002",
+    "complaint_text": "Amchya gallyat kachra kundi tutli aahe aani sagla kachra rastyavar aala aahe.",
+    "domain_code": "SOLID_WASTE",
+    "category_code": "SAN-BIN",
+    "department_code": "SAN",
+    "language": "MARATHI",
+    "difficulty": "EASY",
+    "source": "citizen_app_seed"
+  },
+  {
+    "id": "SEED-003",
+    "complaint_text": "Illegal dumping of plastic waste and chemical drums by industrial truck at midnight near open ground.",
+    "domain_code": "SOLID_WASTE",
+    "category_code": "SAN-DUMP",
+    "department_code": "SAN",
+    "language": "EN",
+    "difficulty": "MEDIUM",
+    "source": "citizen_portal_seed"
+  },
+  {
+    "id": "SEED-004",
+    "complaint_text": "Main water supply line burst near bus stand. Thousands of liters of clean drinking water spilling continuously.",
+    "domain_code": "WATER_SUPPLY",
+    "category_code": "WTR-LEAK",
+    "department_code": "WTR",
+    "language": "EN",
+    "difficulty": "EASY",
+    "source": "citizen_app_seed"
+  },
+  {
+    "id": "SEED-005",
+    "complaint_text": "Nallhyache aani gatarrache ghanerde pani pinyachya panyat misalle aahe, khup vasa yetahe.",
+    "domain_code": "WATER_SUPPLY",
+    "category_code": "WTR-QUAL",
+    "department_code": "WTR",
+    "language": "MARATHI",
+    "difficulty": "HARD_OVERLAPPING",
+    "source": "call_transcript_seed"
+  },
+  {
+    "id": "SEED-006",
+    "complaint_text": "Huge dangerous pothole near school signal causing two wheelers to slip daily.",
+    "domain_code": "ROADS_FOOTPATHS",
+    "category_code": "RDW-POT",
+    "department_code": "RDW",
+    "language": "EN",
+    "difficulty": "EASY",
+    "source": "citizen_app_seed"
+  },
+  {
+    "id": "SEED-007",
+    "complaint_text": "Footpath paving tiles broken and stolen, senior citizens trip and fall regularly.",
+    "domain_code": "ROADS_FOOTPATHS",
+    "category_code": "RDW-WALK",
+    "department_code": "RDW",
+    "language": "EN",
+    "difficulty": "EASY",
+    "source": "citizen_app_seed"
+  },
+  {
+    "id": "SEED-008",
+    "complaint_text": "Rastyavarchi street light maagchya aathavdya pasun chalat nahiye, full andhar aahe.",
+    "domain_code": "STREET_LIGHTING",
+    "category_code": "ELE-LGT",
+    "department_code": "ELE",
+    "language": "HINGLISH",
+    "difficulty": "EASY",
+    "source": "whatsapp_bot_seed"
+  },
+  {
+    "id": "SEED-009",
+    "complaint_text": "Live electrical wire hanging low from tilted light pole right outside children play park.",
+    "domain_code": "STREET_LIGHTING",
+    "category_code": "ELE-POLE",
+    "department_code": "ELE",
+    "language": "EN",
+    "difficulty": "MEDIUM",
+    "source": "citizen_app_seed"
+  },
+  {
+    "id": "SEED-010",
+    "complaint_text": "Open gatar manhole cover missing near bus stop. Severe risk of accident in dark.",
+    "domain_code": "SEWERAGE_DRAINAGE",
+    "category_code": "SEW-MAN",
+    "department_code": "WTR",
+    "language": "HINGLISH",
+    "difficulty": "HARD_OVERLAPPING",
+    "source": "citizen_app_seed"
+  },
+  {
+    "id": "SEED-011",
+    "complaint_text": "Big banyan tree branch fell across main avenue blocking both lanes after heavy storm.",
+    "domain_code": "GARDENS_TREES",
+    "category_code": "PRK-TREE",
+    "department_code": "PRK",
+    "language": "EN",
+    "difficulty": "EASY",
+    "source": "emergency_desk_seed"
+  },
+  {
+    "id": "SEED-012",
+    "complaint_text": "Property tax online bill double calculation error. Received incorrect penalty notice.",
+    "domain_code": "PROPERTY_TAX",
+    "category_code": "TAX-ERR",
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "EASY",
+    "source": "tax_portal_seed"
+  },
+  {
+    "id": "SEED-013",
+    "complaint_text": "Commercial restaurant operating without trade license and playing loud music past 1 AM.",
+    "domain_code": "LICENSES_PERMISSIONS",
+    "category_code": "LIC-NOISE",
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "HARD_OVERLAPPING",
+    "source": "citizen_portal_seed"
+  },
+  {
+    "id": "SEED-014",
+    "complaint_text": "Old dilapidated balcony wall cracked severely and leaning over busy street, imminent collapse risk.",
+    "domain_code": "FIRE_DISASTER_SAFETY",
+    "category_code": "SAF-DIS",
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "MEDIUM",
+    "source": "emergency_desk_seed"
+  },
+  {
+    "id": "SEED-015",
+    "complaint_text": "Sweeper burning plastic waste and dry leaves in open plot causing heavy toxic smoke.",
+    "domain_code": "ENVIRONMENT_POLLUTION",
+    "category_code": "PRK-AIR",
+    "department_code": "PRK",
+    "language": "EN",
+    "difficulty": "HARD_OVERLAPPING",
+    "source": "citizen_app_seed"
+  },
+  {
+    "id": "SEED-016",
+    "complaint_text": "Rastyavar paani sachalay aani gatar pan tuphani bharlya bahaar aala.",
+    "domain_code": "STORM_WATER",
+    "category_code": "STM-LOG",
+    "department_code": "WTR",
+    "language": "MARATHI",
+    "difficulty": "NOISY",
+    "source": "voice_transcript_seed"
+  },
+  {
+    "id": "SEED-017",
+    "complaint_text": "Fix this bad situation quickly please.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "AMBIGUOUS",
+    "source": "citizen_app_seed"
+  },
+  {
+    "id": "SEED-018",
+    "complaint_text": "My cricket team lost the match yesterday due to bad umpiring.",
+    "domain_code": null,
+    "category_code": null,
+    "department_code": null,
+    "language": "EN",
+    "difficulty": "OUT_OF_SCOPE",
+    "source": "citizen_app_seed"
+  }
+]

@@ -1,0 +1,71 @@
+{
+  "dataset_name": "CivicFlow AI LLM Instruction Dataset",
+  "model_target": "Qwen/Qwen2.5-1.5B-Instruct",
+  "total_samples": 2528,
+  "train_samples": 2149,
+  "validation_samples": 379,
+  "status_distribution": {
+    "CLASSIFIED": 2423,
+    "OUT_OF_SCOPE": 13,
+    "AMBIGUOUS": 43,
+    "UNKNOWN": 38,
+    "INSUFFICIENT_INFORMATION": 11
+  },
+  "language_distribution": {
+    "HINGLISH": 686,
+    "EN": 1199,
+    "MARATHI": 643
+  },
+  "category_distribution": {
+    "SAN-SWEEP": 72,
+    "RDW-SIGN": 70,
+    "STM-LOG": 70,
+    "RDW-WALK": 70,
+    "SEW-BLOCK": 72,
+    "WTR-QUAL": 73,
+    "RDW-TRF": 71,
+    "SAN-PEST": 73,
+    "SAN-DUMP": 71,
+    "PRK-TREE": 70,
+    "WTR-LEAK": 74,
+    "PRK-MAINT": 71,
+    "LIC-NOISE": 72,
+    "SAN-ANML": 69,
+    "SEW-MAN": 71,
+    "OUT_OF_SCOPE": 13,
+    "WTR-PRES": 72,
+    "SAN-BIN": 71,
+    "RDW-DEBR": 72,
+    "ELE-POLE": 73,
+    "RDW-BLDG": 72,
+    "RDW-POT": 69,
+    "STM-DRN": 73,
+    "SAN-GARB": 75,
+    "SAF-DIS": 70,
+    "ELE-LGT": 73,
+    "AMBIGUOUS": 43,
+    "SAN-HYG": 71,
+    "RDW-RD": 70,
+    "RDW-ENC": 70,
+    "TAX-REC": 67,
+    "TAX-ERR": 67,
+    "LIC-TRD": 71,
+    "SAF-FIRE": 73,
+    "PRK-NOIS": 73,
+    "UNKNOWN": 38,
+    "PRK-AIR": 72,
+    "INSUFFICIENT_INFORMATION": 11
+  },
+  "sources_used": [
+    "ai/data/processed/train.csv",
+    "ai/data/processed/special_cases.csv",
+    "ai/data/processed/hard_negatives.json",
+    "ai/taxonomy/taxonomy.json (example intents)"
+  ],
+  "excluded_evaluation_datasets": [
+    "ai/data/processed/challenge_test.csv",
+    "ai/data/processed/uncertainty_test.csv",
+    "ai/data/processed/out_of_scope_attack_test.csv",
+    "ai/data/processed/test.csv"
+  ]
+}

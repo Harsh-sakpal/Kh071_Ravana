@@ -1,0 +1,85 @@
+{
+  "domain_categories": {
+    "PUBLIC_HEALTH": [
+      "SAN-PEST",
+      "SAN-ANML",
+      "SAN-HYG"
+    ],
+    "BUILDING_CONSTRUCTION": [
+      "RDW-BLDG",
+      "RDW-DEBR"
+    ],
+    "PROPERTY_TAX": [
+      "TAX-REC",
+      "TAX-ERR"
+    ],
+    "TRAFFIC_PARKING": [
+      "RDW-TRF",
+      "RDW-SIGN"
+    ],
+    "WATER_SUPPLY": [
+      "WTR-QUAL",
+      "WTR-LEAK",
+      "WTR-PRES"
+    ],
+    "GARDENS_TREES": [
+      "PRK-MAINT",
+      "PRK-TREE"
+    ],
+    "FIRE_DISASTER_SAFETY": [
+      "SAF-FIRE",
+      "SAF-DIS"
+    ],
+    "SOLID_WASTE": [
+      "SAN-SWEEP",
+      "SAN-GARB",
+      "SAN-DUMP",
+      "SAN-BIN"
+    ],
+    "ENVIRONMENT_POLLUTION": [
+      "PRK-NOIS",
+      "PRK-AIR"
+    ],
+    "STREET_LIGHTING": [
+      "ELE-POLE",
+      "ELE-LGT"
+    ],
+    "ENCROACHMENT": [
+      "RDW-ENC"
+    ],
+    "ROADS_FOOTPATHS": [
+      "RDW-WALK",
+      "RDW-RD",
+      "RDW-POT"
+    ],
+    "LICENSES_PERMISSIONS": [
+      "LIC-NOISE",
+      "LIC-TRD"
+    ],
+    "STORM_WATER": [
+      "STM-DRN",
+      "STM-LOG"
+    ],
+    "SEWERAGE_DRAINAGE": [
+      "SEW-BLOCK",
+      "SEW-MAN"
+    ]
+  },
+  "domains": [
+    "BUILDING_CONSTRUCTION",
+    "ENCROACHMENT",
+    "ENVIRONMENT_POLLUTION",
+    "FIRE_DISASTER_SAFETY",
+    "GARDENS_TREES",
+    "LICENSES_PERMISSIONS",
+    "PROPERTY_TAX",
+    "PUBLIC_HEALTH",
+    "ROADS_FOOTPATHS",
+    "SEWERAGE_DRAINAGE",
+    "SOLID_WASTE",
+    "STORM_WATER",
+    "STREET_LIGHTING",
+    "TRAFFIC_PARKING",
+    "WATER_SUPPLY"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "oos_precision": 1.0,
+  "oos_recall": 0.2353,
+  "oos_f1": 0.381,
+  "false_municipal_classification_rate": 0.5909,
+  "false_oos_classification_rate": 0.0,
+  "false_positives_examples": [],
+  "false_negatives_examples": [
+    {
+      "text": "How do I reverse a binary tree in Python?",
+      "expected": "OUT_OF_SCOPE",
+      "predicted_status": "CLASSIFIED",
+      "predicted_category": "PRK-TREE"
+    },
+    {
+      "text": "The stock market crashed today.",
+      "expected": "OUT_OF_SCOPE",
+      "predicted_status": "CLASSIFIED",
+      "predicted_category": "RDW-RD"
+    },
+    {
+      "text": "Streetlight in my game is not working.",
+      "expected": "OUT_OF_SCOPE",
+      "predicted_status": "CLASSIFIED",
+      "predicted_category": "ELE-LGT"
+    },
+    {
+      "text": "How do I pay my municipal property tax using Java?",
+      "expected": "OUT_OF_SCOPE",
+      "predicted_status": "CLASSIFIED",
+      "predicted_category": "TAX-ERR"
+    },
+    {
+      "text": "I have a severe headache and fever, what medicine should I take?",
+      "expected": "OUT_OF_SCOPE",
+      "predicted_status": "CLASSIFIED",
+      "predicted_category": "SAN-PEST"
+    },
+    {
+      "text": "https://example.com/check-this-out",
+      "expected": "OUT_OF_SCOPE",
+      "predicted_status": "INSUFFICIENT_INFORMATION",
+      "predicted_category": null
+    },
+    {
+      "text": "Buy cheap sunglasses at this link!",
+      "expected": "OUT_OF_SCOPE",
+      "predicted_status": "CLASSIFIED",
+      "predicted_category": "ELE-LGT"
+    },
+    {
+      "text": "fsdjfksdjfksdfjsdjfks",
+      "expected": "OUT_OF_SCOPE",
+      "predicted_status": "INSUFFICIENT_INFORMATION",
+      "predicted_category": null
+    },
+    {
+      "text": "Python garbage collection is slow.",
+      "expected": "OUT_OF_SCOPE",
+      "predicted_status": "CLASSIFIED",
+      "predicted_category": "SAN-GARB"
+    },
+    {
+      "text": "Can I get the recipe for butter chicken?",
+      "expected": "OUT_OF_SCOPE",
+      "predicted_status": "CLASSIFIED",
+      "predicted_category": "SAN-PEST"
+    },
+    {
+      "text": "Road has potholes and streetlight is also not working.",
+      "expected": "AMBIGUOUS",
+      "predicted_status": "CLASSIFIED",
+      "predicted_category": "RDW-RD"
+    },
+    {
+      "text": "Garbage is not collected and water is leaking near the bin.",
+      "expected": "AMBIGUOUS",
+      "predicted_status": "CLASSIFIED",
+      "predicted_category": "WTR-QUAL"
+    },
+    {
+      "text": "Drainage is blocked and rainwater is overflowing on the road.",
+      "expected": "AMBIGUOUS",
+      "predicted_status": "CLASSIFIED",
+      "predicted_category": "STM-LOG"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "ClassificationOutputSchema",
+  "description": "JSON Schema for CivicFlow AI Classification Agent output contract distinguishing semantic domain/category from administrative department mapping",
+  "type": "object",
+  "required": [
+    "status",
+    "semantic_classification",
+    "administrative_mapping",
+    "overall_confidence",
+    "method",
+    "evidence",
+    "secondary_signals"
+  ],
+  "properties": {
+    "status": {
+      "type": "string",
+      "enum": [
+        "CLASSIFIED",
+        "AMBIGUOUS",
+        "UNKNOWN",
+        "OUT_OF_SCOPE",
+        "INSUFFICIENT_INFORMATION"
+      ],
+      "description": "Classification resolution status"
+    },
+    "semantic_classification": {
+      "type": "object",
+      "required": ["domain_code", "category_code"],
+      "properties": {
+        "domain_code": {
+          "type": ["string", "null"],
+          "description": "Selected AI semantic domain code (one of 15 fixed domains)"
+        },
+        "domain_name": {
+          "type": ["string", "null"]
+        },
+        "category_code": {
+          "type": ["string", "null"],
+          "description": "Selected AI category code (e.g. SAN-GARB, RDW-POT)"
+        },
+        "category_name": {
+          "type": ["string", "null"]
+        }
+      }
+    },
+    "administrative_mapping": {
+      "type": "object",
+      "required": ["type", "department_code"],
+      "properties": {
+        "type": {
+          "type": "string",
+          "enum": ["DIRECT", "UNMAPPED", "CROSS_AGENCY"],
+          "description": "Mapping type to administrative department routing"
+        },
+        "department_code": {
+          "type": ["string", "null"],
+          "enum": ["SAN", "RDW", "ELE", "WTR", "PRK", null],
+          "description": "One of 5 core department codes if DIRECT, or null if UNMAPPED / CROSS_AGENCY"
+        },
+        "notes": {
+          "type": ["string", "null"],
+          "description": "Administrative routing guidance or rationale"
+        }
+      }
+    },
+    "overall_confidence": {
+      "type": "number",
+      "minimum": 0.0,
+      "maximum": 1.0,
+      "description": "Final classification confidence score"
+    },
+    "method": {
+      "type": "string",
+      "enum": ["TFIDF", "EMBEDDING", "LLM_FALLBACK", "RULE_ENGINE", "HYBRID", "NONE"],
+      "description": "Tool or method used to make classification decision"
+    },
+    "evidence": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Keywords, phrases, or reasons supporting the decision"
+    },
+    "secondary_signals": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "domain_code": { "type": "string" },
+          "category_code": { "type": "string" },
+          "confidence": { "type": "number" }
+        }
+      },
+      "description": "Top alternative candidate domains/categories if complaint was ambiguous"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "UnderstandingOutputSchema",
+  "description": "JSON Schema for CivicFlow AI Understanding Agent structured output contract",
+  "type": "object",
+  "required": [
+    "original_text",
+    "normalized_text",
+    "language",
+    "signals",
+    "entities",
+    "safety_signals",
+    "missing_information",
+    "preprocessing_confidence"
+  ],
+  "properties": {
+    "original_text": {
+      "type": "string",
+      "description": "Unmodified original citizen complaint text"
+    },
+    "normalized_text": {
+      "type": "string",
+      "description": "Safely normalized text (lowercased, clean whitespace, preserved tokens)"
+    },
+    "language": {
+      "type": "object",
+      "required": ["code", "confidence"],
+      "properties": {
+        "code": {
+          "type": "string",
+          "enum": ["EN", "MARATHI", "HINGLISH", "MIXED", "UNKNOWN"],
+          "description": "Detected primary language label"
+        },
+        "confidence": {
+          "type": "number",
+          "minimum": 0.0,
+          "maximum": 1.0,
+          "description": "Language detection confidence score"
+        }
+      }
+    },
+    "signals": {
+      "type": "object",
+      "description": "Extracted key semantic signals (e.g. material attributes, urgency markers, noise level)",
+      "additionalProperties": true
+    },
+    "entities": {
+      "type": "object",
+      "description": "Extracted entities such as location markers, landmarks, ward numbers, time durations",
+      "additionalProperties": true
+    },
+    "safety_signals": {
+      "type": "array",
+      "description": "Critical civic safety hazard indicators (e.g., live wire, open manhole, collapse risk)",
+      "items": {
+        "type": "object",
+        "required": ["type", "description", "severity"],
+        "properties": {
+          "type": { "type": "string" },
+          "description": { "type": "string" },
+          "severity": { "type": "string", "enum": ["LOW", "MEDIUM", "HIGH", "CRITICAL"] }
+        }
+      }
+    },
+    "missing_information": {
+      "type": "array",
+      "description": "List of missing actionable information fields (e.g., location missing, vague description)",
+      "items": {
+        "type": "string"
+      }
+    },
+    "preprocessing_confidence": {
+      "type": "number",
+      "minimum": 0.0,
+      "maximum": 1.0,
+      "description": "Overall text understanding & preprocessing confidence score"
+    }
+  }
+}

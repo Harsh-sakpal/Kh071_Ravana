@@ -1,0 +1,8 @@
+{
+  "mode": "TFIDF_STANDALONE",
+  "accuracy": 0.9828,
+  "macro_f1": 0.9823,
+  "weighted_f1": 0.9823,
+  "avg_latency_ms": 5.75,
+  "avg_tools_per_complaint": 1.0
+}

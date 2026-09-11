@@ -1,0 +1,40 @@
+{
+  "GROUP_1_WASTE": [
+    "SAN-GARB",
+    "SAN-DUMP",
+    "SAN-BIN"
+  ],
+  "GROUP_2_WATER": [
+    "WTR-LEAK",
+    "WTR-QUAL"
+  ],
+  "GROUP_3_WATER_SEWER": [
+    "WTR-LEAK",
+    "SEW-BLOCK"
+  ],
+  "GROUP_4_ROADS": [
+    "RDW-POT",
+    "RDW-WALK",
+    "RDW-RD"
+  ],
+  "GROUP_5_STORM_SEWER": [
+    "STM-LOG",
+    "SEW-BLOCK"
+  ],
+  "GROUP_6_LIGHT_FIRE": [
+    "ELE-POLE",
+    "SAF-FIRE"
+  ],
+  "GROUP_7_HEALTH_ENV": [
+    "SAN-PEST",
+    "PRK-AIR"
+  ],
+  "GROUP_8_BUILDING_ENC": [
+    "RDW-BLDG",
+    "RDW-ENC"
+  ],
+  "GROUP_9_TRAFFIC_ROADS": [
+    "RDW-TRF",
+    "RDW-RD"
+  ]
+}

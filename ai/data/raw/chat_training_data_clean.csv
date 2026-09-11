@@ -1,0 +1,4 @@
+complaint_text,language,domain_code,category_code,status,source
+i hai aur traffic slow hai.,Hinglish,STORM_WATER,STM-LOG,CLASSIFIED,synthetic_chat_augmentation
+Rainwater has accumulated on the road near Warje and vehicles are struggling to pass.,English,STORM_WATER,STM-LOG,CLASSIFIED,synthetic_chat_augmentation
+पावसाचे पाणी Aundh मधील रस्त्यावर साचले असून वाहनांना जाणे कठीण झाले आहे.,Marathi,STORM_WATER,STM-LOG,CLASSIFIED,synthetic_chat_augmentation

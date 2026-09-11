@@ -1,0 +1,33 @@
+{
+  "challenge_set_samples": 408,
+  "uncertainty_set_samples": 400,
+  "phase3_agent": {
+    "challenge_accuracy": 0.9191,
+    "challenge_macro_f1": 0.9185,
+    "avg_tools_per_complaint": 1.28,
+    "escalation_rates": {
+      "tfidf_accepted_pct": 0.8186,
+      "embedding_accepted_pct": 0.0858,
+      "llm_fallback_accepted_pct": 0.0956,
+      "rule_engine_accepted_pct": 0.0
+    },
+    "false_confident_classification_rate": 0.8825
+  },
+  "phase4_agent": {
+    "challenge_accuracy": 0.9191,
+    "challenge_macro_f1": 0.9185,
+    "avg_tools_per_complaint": 1.3,
+    "escalation_rates": {
+      "tfidf_accepted_pct": 0.8064,
+      "embedding_accepted_pct": 0.0882,
+      "llm_fallback_accepted_pct": 0.1054,
+      "rule_engine_accepted_pct": 0.0
+    },
+    "false_confident_classification_rate": 0.4825
+  },
+  "improvement_summary": {
+    "accuracy_change": 0.0,
+    "macro_f1_change": 0.0,
+    "false_confident_reduction_pct": 0.4533
+  }
+}

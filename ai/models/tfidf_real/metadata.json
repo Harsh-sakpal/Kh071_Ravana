@@ -1,0 +1,48 @@
+{
+  "domain_categories": {
+    "SOLID_WASTE": [
+      "SAN-GARB",
+      "SAN-DUMP",
+      "SAN-BIN"
+    ],
+    "STREET_LIGHTING": [
+      "ELE-LGT",
+      "ELE-POLE"
+    ],
+    "GARDENS_TREES": [
+      "PRK-TREE",
+      "PRK-MAINT"
+    ],
+    "ENCROACHMENT": [
+      "RDW-ENC"
+    ],
+    "ROADS_FOOTPATHS": [
+      "RDW-POT",
+      "RDW-BLDG",
+      "RDW-RD"
+    ],
+    "PUBLIC_HEALTH": [
+      "SAN-HYG"
+    ],
+    "SEWERAGE_DRAINAGE": [
+      "SEW-DRAIN"
+    ],
+    "STORM_WATER": [
+      "STM-LOG"
+    ],
+    "FIRE_DISASTER_SAFETY": [
+      "SAF-DIS"
+    ]
+  },
+  "domains": [
+    "ENCROACHMENT",
+    "FIRE_DISASTER_SAFETY",
+    "GARDENS_TREES",
+    "PUBLIC_HEALTH",
+    "ROADS_FOOTPATHS",
+    "SEWERAGE_DRAINAGE",
+    "SOLID_WASTE",
+    "STORM_WATER",
+    "STREET_LIGHTING"
+  ]
+}

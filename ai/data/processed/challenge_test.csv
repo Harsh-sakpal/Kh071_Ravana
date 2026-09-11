@@ -1,0 +1,409 @@
+id,complaint_text,domain_code,category_code,department_code,language,difficulty,source
+CHALLENGE-9001,"Amchya Aundh society madhe kachryachi gadi regular yenar nahi, 4 divsa pasun kachra gharaat sathla aahe.",SOLID_WASTE,SAN-GARB,SAN,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9002,Kachra van walo ne humare lane ko bypass kar diya Baner me 3 din se.,SOLID_WASTE,SAN-GARB,SAN,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9003,For the past several mornings the municipal collection van has completely skipped our alley in Viman Nagar.,SOLID_WASTE,SAN-GARB,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9004,Kachra van walo ne humare lane ko bypass kar diya Aundh me 3 din se.,SOLID_WASTE,SAN-GARB,SAN,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9005,"Amchya Camp society madhe kachryachi gadi regular yenar nahi, 4 divsa pasun kachra gharaat sathla aahe.",SOLID_WASTE,SAN-GARB,SAN,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9006,For the past several mornings the municipal collection van has completely skipped our alley in Kalyani Nagar.,SOLID_WASTE,SAN-GARB,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9007,Residences near Kothrud main gate are forced to store rotting kitchen garbage inside houses as sanitation truck failed to arrive.,SOLID_WASTE,SAN-GARB,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9008,"Amchya Kalyani Nagar society madhe kachryachi gadi regular yenar nahi, 4 divsa pasun kachra gharaat sathla aahe.",SOLID_WASTE,SAN-GARB,SAN,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9009,Residences near Katraj main gate are forced to store rotting kitchen garbage inside houses as sanitation truck failed to arrive.,SOLID_WASTE,SAN-GARB,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9010,For the past several mornings the municipal collection van has completely skipped our alley in Kothrud.,SOLID_WASTE,SAN-GARB,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9011,For the past several mornings the municipal collection van has completely skipped our alley in Wakad.,SOLID_WASTE,SAN-GARB,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9012,Kachra van walo ne humare lane ko bypass kar diya Magarpatta me 3 din se.,SOLID_WASTE,SAN-GARB,SAN,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9013,Heavy commercial dumpers dumping construction rubble and hazardous waste on open plot near Baner school.,SOLID_WASTE,SAN-DUMP,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9014,Khulya jaga madhe mothya pramanat anadhikrut kachra aani waste dump kela jaat aahe Kalyani Nagar madhe.,SOLID_WASTE,SAN-DUMP,SAN,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9015,Heavy commercial dumpers dumping construction rubble and hazardous waste on open plot near Baner school.,SOLID_WASTE,SAN-DUMP,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9016,Unauthorized dumping of chemical barrels and plastic sacks happening near Baner bypass road.,SOLID_WASTE,SAN-DUMP,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9017,Heavy commercial dumpers dumping construction rubble and hazardous waste on open plot near Kothrud school.,SOLID_WASTE,SAN-DUMP,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9018,Khulya jaga madhe mothya pramanat anadhikrut kachra aani waste dump kela jaat aahe Viman Nagar madhe.,SOLID_WASTE,SAN-DUMP,SAN,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9019,Khulya jaga madhe mothya pramanat anadhikrut kachra aani waste dump kela jaat aahe Magarpatta madhe.,SOLID_WASTE,SAN-DUMP,SAN,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9020,Khulya jaga madhe mothya pramanat anadhikrut kachra aani waste dump kela jaat aahe Viman Nagar madhe.,SOLID_WASTE,SAN-DUMP,SAN,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9021,Raat ke waqt commercial trucks Aundh ke open ground par heavy waste dump kar rahe hain.,SOLID_WASTE,SAN-DUMP,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9022,Khulya jaga madhe mothya pramanat anadhikrut kachra aani waste dump kela jaat aahe Kalyani Nagar madhe.,SOLID_WASTE,SAN-DUMP,SAN,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9023,Raat ke waqt commercial trucks Hadapsar ke open ground par heavy waste dump kar rahe hain.,SOLID_WASTE,SAN-DUMP,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9024,Khulya jaga madhe mothya pramanat anadhikrut kachra aani waste dump kela jaat aahe Aundh madhe.,SOLID_WASTE,SAN-DUMP,SAN,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9025,Kachra kundi toot chuki hai Swargate me aur pura kachra raste par phail gaya hai.,SOLID_WASTE,SAN-BIN,SAN,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9026,Kachra kundi toot chuki hai Bavdhan me aur pura kachra raste par phail gaya hai.,SOLID_WASTE,SAN-BIN,SAN,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9027,Kachra kundi toot chuki hai Camp me aur pura kachra raste par phail gaya hai.,SOLID_WASTE,SAN-BIN,SAN,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9028,"Public dustbin metal frame corroded and broken in Kalyani Nagar, all trash spilling on pedestrian walk.",SOLID_WASTE,SAN-BIN,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9029,Community waste bin overflowing beyond capacity at Swargate market junction.,SOLID_WASTE,SAN-BIN,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9030,"Public dustbin metal frame corroded and broken in Katraj, all trash spilling on pedestrian walk.",SOLID_WASTE,SAN-BIN,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9031,Chowkatli kachra kundi phutli aahe aani Shivajinagar madhe kachra bahaar ala aahe.,SOLID_WASTE,SAN-BIN,SAN,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9032,Chowkatli kachra kundi phutli aahe aani Kothrud madhe kachra bahaar ala aahe.,SOLID_WASTE,SAN-BIN,SAN,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9033,Kachra kundi toot chuki hai Kalyani Nagar me aur pura kachra raste par phail gaya hai.,SOLID_WASTE,SAN-BIN,SAN,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9034,Kachra kundi toot chuki hai Baner me aur pura kachra raste par phail gaya hai.,SOLID_WASTE,SAN-BIN,SAN,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9035,Chowkatli kachra kundi phutli aahe aani Wakad madhe kachra bahaar ala aahe.,SOLID_WASTE,SAN-BIN,SAN,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9036,Community waste bin overflowing beyond capacity at Aundh market junction.,SOLID_WASTE,SAN-BIN,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9037,"Main avenue in Magarpatta not swept for over a week, dry leaves and thick dust causing breathing discomfort.",SOLID_WASTE,SAN-SWEEP,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9038,"Rasta safai kamgar Bavdhan madhe aala nahi, rastyavar khup mati aani kachra sachalay.",SOLID_WASTE,SAN-SWEEP,SAN,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9039,"Rasta safai kamgar Aundh madhe aala nahi, rastyavar khup mati aani kachra sachalay.",SOLID_WASTE,SAN-SWEEP,SAN,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9040,Street sweeping nahi ho rahi hai Hadapsar residential sector me.,SOLID_WASTE,SAN-SWEEP,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9041,"Main avenue in Camp not swept for over a week, dry leaves and thick dust causing breathing discomfort.",SOLID_WASTE,SAN-SWEEP,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9042,"Rasta safai kamgar Bavdhan madhe aala nahi, rastyavar khup mati aani kachra sachalay.",SOLID_WASTE,SAN-SWEEP,SAN,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9043,Sanitation sweepers ignoring internal residential lanes of Shivajinagar.,SOLID_WASTE,SAN-SWEEP,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9044,Street sweeping nahi ho rahi hai Camp residential sector me.,SOLID_WASTE,SAN-SWEEP,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9045,Sanitation sweepers ignoring internal residential lanes of Kothrud.,SOLID_WASTE,SAN-SWEEP,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9046,Street sweeping nahi ho rahi hai Camp residential sector me.,SOLID_WASTE,SAN-SWEEP,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9047,Street sweeping nahi ho rahi hai Wakad residential sector me.,SOLID_WASTE,SAN-SWEEP,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9048,"Main avenue in Aundh not swept for over a week, dry leaves and thick dust causing breathing discomfort.",SOLID_WASTE,SAN-SWEEP,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9049,"Purbicha water supply pipeline leak hot aahe Kothrud bus stop jawad, lakhon liter pani phukat vahat aahe.",WATER_SUPPLY,WTR-LEAK,WTR,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9050,High pressure underground supply line burst causing water gushing out onto Hadapsar main avenue.,WATER_SUPPLY,WTR-LEAK,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9051,"Purbicha water supply pipeline leak hot aahe Viman Nagar bus stop jawad, lakhon liter pani phukat vahat aahe.",WATER_SUPPLY,WTR-LEAK,WTR,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9052,"Purbicha water supply pipeline leak hot aahe Bavdhan bus stop jawad, lakhon liter pani phukat vahat aahe.",WATER_SUPPLY,WTR-LEAK,WTR,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9053,Major municipal pipe leakage forming a stream near Wakad signal.,WATER_SUPPLY,WTR-LEAK,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9054,High pressure underground supply line burst causing water gushing out onto Wakad main avenue.,WATER_SUPPLY,WTR-LEAK,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9055,Major municipal pipe leakage forming a stream near Baner signal.,WATER_SUPPLY,WTR-LEAK,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9056,Major municipal pipe leakage forming a stream near Baner signal.,WATER_SUPPLY,WTR-LEAK,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9057,Major municipal pipe leakage forming a stream near Kalyani Nagar signal.,WATER_SUPPLY,WTR-LEAK,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9058,High pressure underground supply line burst causing water gushing out onto Baner main avenue.,WATER_SUPPLY,WTR-LEAK,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9059,High pressure underground supply line burst causing water gushing out onto Wakad main avenue.,WATER_SUPPLY,WTR-LEAK,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9060,Major municipal pipe leakage forming a stream near Swargate signal.,WATER_SUPPLY,WTR-LEAK,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9061,Water coming from domestic tap in Wakad is dark brown and emitting strong foul odor.,WATER_SUPPLY,WTR-QUAL,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9062,Pinyache pani ghanerdya vasache aani mati misallele yetahe Camp madhe.,WATER_SUPPLY,WTR-QUAL,WTR,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9063,Contaminated muddy water being supplied during morning water hours in Bavdhan.,WATER_SUPPLY,WTR-QUAL,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9064,Contaminated muddy water being supplied during morning water hours in Aundh.,WATER_SUPPLY,WTR-QUAL,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9065,Contaminated muddy water being supplied during morning water hours in Viman Nagar.,WATER_SUPPLY,WTR-QUAL,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9066,Pinyache pani ghanerdya vasache aani mati misallele yetahe Aundh madhe.,WATER_SUPPLY,WTR-QUAL,WTR,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9067,Contaminated muddy water being supplied during morning water hours in Kalyani Nagar.,WATER_SUPPLY,WTR-QUAL,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9068,Water coming from domestic tap in Kalyani Nagar is dark brown and emitting strong foul odor.,WATER_SUPPLY,WTR-QUAL,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9069,Pinyache pani ghanerdya vasache aani mati misallele yetahe Bavdhan madhe.,WATER_SUPPLY,WTR-QUAL,WTR,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9070,Contaminated muddy water being supplied during morning water hours in Kothrud.,WATER_SUPPLY,WTR-QUAL,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9071,Pinyache pani ghanerdya vasache aani mati misallele yetahe Baner madhe.,WATER_SUPPLY,WTR-QUAL,WTR,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9072,Water coming from domestic tap in Bavdhan is dark brown and emitting strong foul odor.,WATER_SUPPLY,WTR-QUAL,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9073,"Pani khup kamya dabane yetahe Kalyani Nagar society madhe, tyanule pani chadhat nahi.",WATER_SUPPLY,WTR-PRES,WTR,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9074,"Pani khup kamya dabane yetahe Hadapsar society madhe, tyanule pani chadhat nahi.",WATER_SUPPLY,WTR-PRES,WTR,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9075,"Pani khup kamya dabane yetahe Baner society madhe, tyanule pani chadhat nahi.",WATER_SUPPLY,WTR-PRES,WTR,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9076,"Pani khup kamya dabane yetahe Aundh society madhe, tyanule pani chadhat nahi.",WATER_SUPPLY,WTR-PRES,WTR,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9077,"Pani khup kamya dabane yetahe Wakad society madhe, tyanule pani chadhat nahi.",WATER_SUPPLY,WTR-PRES,WTR,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9078,Water pressure in municipal line in Viman Nagar is so low that overhead tanks cannot be filled.,WATER_SUPPLY,WTR-PRES,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9079,No water supply received in Bavdhan sector for the third consecutive day.,WATER_SUPPLY,WTR-PRES,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9080,No water supply received in Swargate sector for the third consecutive day.,WATER_SUPPLY,WTR-PRES,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9081,Water pressure in municipal line in Kalyani Nagar is so low that overhead tanks cannot be filled.,WATER_SUPPLY,WTR-PRES,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9082,No water supply received in Camp sector for the third consecutive day.,WATER_SUPPLY,WTR-PRES,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9083,Water pressure in municipal line in Camp is so low that overhead tanks cannot be filled.,WATER_SUPPLY,WTR-PRES,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9084,Water pressure in municipal line in Bavdhan is so low that overhead tanks cannot be filled.,WATER_SUPPLY,WTR-PRES,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9085,Sewage line backup flooding pedestrian walkway in Swargate with unbearable stench.,SEWERAGE_DRAINAGE,SEW-BLOCK,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9086,Gatar tumble aahe aani ghanerde pani Wakad main rastyavar ala aahe.,SEWERAGE_DRAINAGE,SEW-BLOCK,WTR,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9087,Sewage line backup flooding pedestrian walkway in Aundh with unbearable stench.,SEWERAGE_DRAINAGE,SEW-BLOCK,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9088,Gatar tumble aahe aani ghanerde pani Kothrud main rastyavar ala aahe.,SEWERAGE_DRAINAGE,SEW-BLOCK,WTR,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9089,Underground sewer pipe choked causing black gutter liquid to overflow into residential compounds in Bavdhan.,SEWERAGE_DRAINAGE,SEW-BLOCK,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9090,Gatar tumble aahe aani ghanerde pani Kalyani Nagar main rastyavar ala aahe.,SEWERAGE_DRAINAGE,SEW-BLOCK,WTR,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9091,Sewage line backup flooding pedestrian walkway in Katraj with unbearable stench.,SEWERAGE_DRAINAGE,SEW-BLOCK,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9092,Sewage line backup flooding pedestrian walkway in Katraj with unbearable stench.,SEWERAGE_DRAINAGE,SEW-BLOCK,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9093,Gatar tumble aahe aani ghanerde pani Bavdhan main rastyavar ala aahe.,SEWERAGE_DRAINAGE,SEW-BLOCK,WTR,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9094,Gatar tumble aahe aani ghanerde pani Viman Nagar main rastyavar ala aahe.,SEWERAGE_DRAINAGE,SEW-BLOCK,WTR,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9095,Underground sewer pipe choked causing black gutter liquid to overflow into residential compounds in Swargate.,SEWERAGE_DRAINAGE,SEW-BLOCK,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9096,Sewage line backup flooding pedestrian walkway in Kothrud with unbearable stench.,SEWERAGE_DRAINAGE,SEW-BLOCK,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9097,"Gatarache dhakan ughade aahe Kalyani Nagar rastyavar, motyabpramanat accident honyachi bhiti.",SEWERAGE_DRAINAGE,SEW-MAN,WTR,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9098,"Gatarache dhakan ughade aahe Camp rastyavar, motyabpramanat accident honyachi bhiti.",SEWERAGE_DRAINAGE,SEW-MAN,WTR,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9099,Broken drain chamber slab creating open pit on footpath in Kothrud.,SEWERAGE_DRAINAGE,SEW-MAN,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9100,"Cast iron manhole cover missing on unlit bend in Camp, huge hazard for two-wheelers.",SEWERAGE_DRAINAGE,SEW-MAN,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9101,"Gatarache dhakan ughade aahe Camp rastyavar, motyabpramanat accident honyachi bhiti.",SEWERAGE_DRAINAGE,SEW-MAN,WTR,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9102,"Cast iron manhole cover missing on unlit bend in Kalyani Nagar, huge hazard for two-wheelers.",SEWERAGE_DRAINAGE,SEW-MAN,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9103,Broken drain chamber slab creating open pit on footpath in Magarpatta.,SEWERAGE_DRAINAGE,SEW-MAN,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9104,Broken drain chamber slab creating open pit on footpath in Baner.,SEWERAGE_DRAINAGE,SEW-MAN,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9105,"Cast iron manhole cover missing on unlit bend in Camp, huge hazard for two-wheelers.",SEWERAGE_DRAINAGE,SEW-MAN,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9106,Broken drain chamber slab creating open pit on footpath in Hadapsar.,SEWERAGE_DRAINAGE,SEW-MAN,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9107,Broken drain chamber slab creating open pit on footpath in Viman Nagar.,SEWERAGE_DRAINAGE,SEW-MAN,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9108,"Gatarache dhakan ughade aahe Aundh rastyavar, motyabpramanat accident honyachi bhiti.",SEWERAGE_DRAINAGE,SEW-MAN,WTR,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9109,"Monsoon rainwater submerged railway subway underpass near Baner, vehicles trapped.",STORM_WATER,STM-LOG,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9110,"Monsoon rainwater submerged railway subway underpass near Camp, vehicles trapped.",STORM_WATER,STM-LOG,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9111,"Monsoon rainwater submerged railway subway underpass near Swargate, vehicles trapped.",STORM_WATER,STM-LOG,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9112,"Rastyavar khup pani sachalay Hadapsar madhe pavsa nantar, gadyan chalat nahiye.",STORM_WATER,STM-LOG,WTR,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9113,"Monsoon rainwater submerged railway subway underpass near Magarpatta, vehicles trapped.",STORM_WATER,STM-LOG,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9114,Standing rainwater accumulation blocking residential gates in Baner.,STORM_WATER,STM-LOG,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9115,"Monsoon rainwater submerged railway subway underpass near Kalyani Nagar, vehicles trapped.",STORM_WATER,STM-LOG,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9116,Standing rainwater accumulation blocking residential gates in Kalyani Nagar.,STORM_WATER,STM-LOG,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9117,"Monsoon rainwater submerged railway subway underpass near Camp, vehicles trapped.",STORM_WATER,STM-LOG,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9118,Standing rainwater accumulation blocking residential gates in Swargate.,STORM_WATER,STM-LOG,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9119,"Rastyavar khup pani sachalay Kothrud madhe pavsa nantar, gadyan chalat nahiye.",STORM_WATER,STM-LOG,WTR,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9120,Standing rainwater accumulation blocking residential gates in Shivajinagar.,STORM_WATER,STM-LOG,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9121,Stormwater drain choked with plastic bags and silt in Wakad causing street flooding.,STORM_WATER,STM-DRN,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9122,Nalla saaf kela nahiye Viman Nagar madhe plastic garbage mule block zala.,STORM_WATER,STM-DRN,WTR,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9123,Major stormwater nallah uncleaned and blocked near Magarpatta bridge before rains.,STORM_WATER,STM-DRN,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9124,Major stormwater nallah uncleaned and blocked near Kalyani Nagar bridge before rains.,STORM_WATER,STM-DRN,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9125,Nalla saaf kela nahiye Hadapsar madhe plastic garbage mule block zala.,STORM_WATER,STM-DRN,WTR,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9126,Nalla saaf kela nahiye Kothrud madhe plastic garbage mule block zala.,STORM_WATER,STM-DRN,WTR,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9127,Stormwater drain choked with plastic bags and silt in Bavdhan causing street flooding.,STORM_WATER,STM-DRN,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9128,Nalla saaf kela nahiye Swargate madhe plastic garbage mule block zala.,STORM_WATER,STM-DRN,WTR,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9129,Major stormwater nallah uncleaned and blocked near Magarpatta bridge before rains.,STORM_WATER,STM-DRN,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9130,Nalla saaf kela nahiye Kalyani Nagar madhe plastic garbage mule block zala.,STORM_WATER,STM-DRN,WTR,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9131,Stormwater drain choked with plastic bags and silt in Magarpatta causing street flooding.,STORM_WATER,STM-DRN,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9132,Stormwater drain choked with plastic bags and silt in Katraj causing street flooding.,STORM_WATER,STM-DRN,WTR,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9133,"Rastyavar motha khadda padla aahe Kalyani Nagar chowkat, bike slip hotat.",ROADS_FOOTPATHS,RDW-POT,RDW,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9134,Dangerous pothole near signal in Kalyani Nagar damaging vehicle suspension.,ROADS_FOOTPATHS,RDW-POT,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9135,"Rastyavar motha khadda padla aahe Wakad chowkat, bike slip hotat.",ROADS_FOOTPATHS,RDW-POT,RDW,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9136,Multiple deep craters and dangerous potholes formed on main bridge approach at Kalyani Nagar.,ROADS_FOOTPATHS,RDW-POT,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9137,"Rastyavar motha khadda padla aahe Swargate chowkat, bike slip hotat.",ROADS_FOOTPATHS,RDW-POT,RDW,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9138,Multiple deep craters and dangerous potholes formed on main bridge approach at Kalyani Nagar.,ROADS_FOOTPATHS,RDW-POT,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9139,"Rastyavar motha khadda padla aahe Kothrud chowkat, bike slip hotat.",ROADS_FOOTPATHS,RDW-POT,RDW,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9140,Multiple deep craters and dangerous potholes formed on main bridge approach at Swargate.,ROADS_FOOTPATHS,RDW-POT,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9141,"Rastyavar motha khadda padla aahe Wakad chowkat, bike slip hotat.",ROADS_FOOTPATHS,RDW-POT,RDW,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9142,"Rastyavar motha khadda padla aahe Camp chowkat, bike slip hotat.",ROADS_FOOTPATHS,RDW-POT,RDW,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9143,Dangerous pothole near signal in Kothrud damaging vehicle suspension.,ROADS_FOOTPATHS,RDW-POT,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9144,"Rastyavar motha khadda padla aahe Wakad chowkat, bike slip hotat.",ROADS_FOOTPATHS,RDW-POT,RDW,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9145,Footpath pavement tiles crushed and destroyed near Baner market area.,ROADS_FOOTPATHS,RDW-WALK,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9146,Footpath pavement tiles crushed and destroyed near Baner market area.,ROADS_FOOTPATHS,RDW-WALK,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9147,"Footpath tutla aahe Camp main road var, chaaltan khup tras hotoe.",ROADS_FOOTPATHS,RDW-WALK,RDW,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9148,"Interlocking footpath pavers broken and missing in Kalyani Nagar, elderly pedestrians falling.",ROADS_FOOTPATHS,RDW-WALK,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9149,"Interlocking footpath pavers broken and missing in Wakad, elderly pedestrians falling.",ROADS_FOOTPATHS,RDW-WALK,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9150,Footpath pavement tiles crushed and destroyed near Magarpatta market area.,ROADS_FOOTPATHS,RDW-WALK,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9151,"Interlocking footpath pavers broken and missing in Viman Nagar, elderly pedestrians falling.",ROADS_FOOTPATHS,RDW-WALK,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9152,"Footpath tutla aahe Shivajinagar main road var, chaaltan khup tras hotoe.",ROADS_FOOTPATHS,RDW-WALK,RDW,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9153,"Footpath tutla aahe Swargate main road var, chaaltan khup tras hotoe.",ROADS_FOOTPATHS,RDW-WALK,RDW,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9154,"Interlocking footpath pavers broken and missing in Kalyani Nagar, elderly pedestrians falling.",ROADS_FOOTPATHS,RDW-WALK,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9155,Footpath pavement tiles crushed and destroyed near Bavdhan market area.,ROADS_FOOTPATHS,RDW-WALK,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9156,Footpath pavement tiles crushed and destroyed near Viman Nagar market area.,ROADS_FOOTPATHS,RDW-WALK,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9157,"Rasta khadun thevla aahe Magarpatta madhe, damarikaran kela nahiye.",ROADS_FOOTPATHS,RDW-RD,RDW,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9158,Road excavated for underground cable laying was left unpaved without asphalt in Kalyani Nagar.,ROADS_FOOTPATHS,RDW-RD,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9159,"Entire tar road surface crumbling and uneven in Katraj, urgent resurfacing needed.",ROADS_FOOTPATHS,RDW-RD,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9160,"Rasta khadun thevla aahe Camp madhe, damarikaran kela nahiye.",ROADS_FOOTPATHS,RDW-RD,RDW,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9161,"Entire tar road surface crumbling and uneven in Viman Nagar, urgent resurfacing needed.",ROADS_FOOTPATHS,RDW-RD,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9162,Road excavated for underground cable laying was left unpaved without asphalt in Aundh.,ROADS_FOOTPATHS,RDW-RD,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9163,Road excavated for underground cable laying was left unpaved without asphalt in Baner.,ROADS_FOOTPATHS,RDW-RD,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9164,"Rasta khadun thevla aahe Wakad madhe, damarikaran kela nahiye.",ROADS_FOOTPATHS,RDW-RD,RDW,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9165,"Rasta khadun thevla aahe Shivajinagar madhe, damarikaran kela nahiye.",ROADS_FOOTPATHS,RDW-RD,RDW,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9166,"Entire tar road surface crumbling and uneven in Kothrud, urgent resurfacing needed.",ROADS_FOOTPATHS,RDW-RD,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9167,Road excavated for underground cable laying was left unpaved without asphalt in Camp.,ROADS_FOOTPATHS,RDW-RD,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9168,"Rasta khadun thevla aahe Shivajinagar madhe, damarikaran kela nahiye.",ROADS_FOOTPATHS,RDW-RD,RDW,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9169,Dark stretch of road in Kothrud due to broken streetlight fittings creating security risk.,STREET_LIGHTING,ELE-LGT,ELE,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9170,All LED streetlights along Kalyani Nagar main avenue non-functional for past 5 days.,STREET_LIGHTING,ELE-LGT,ELE,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9171,All LED streetlights along Magarpatta main avenue non-functional for past 5 days.,STREET_LIGHTING,ELE-LGT,ELE,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9172,"Street lights band aahet Shivajinagar gallyat, full andhar aahe.",STREET_LIGHTING,ELE-LGT,ELE,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9173,Dark stretch of road in Magarpatta due to broken streetlight fittings creating security risk.,STREET_LIGHTING,ELE-LGT,ELE,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9174,"Street lights band aahet Katraj gallyat, full andhar aahe.",STREET_LIGHTING,ELE-LGT,ELE,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9175,Dark stretch of road in Aundh due to broken streetlight fittings creating security risk.,STREET_LIGHTING,ELE-LGT,ELE,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9176,Dark stretch of road in Katraj due to broken streetlight fittings creating security risk.,STREET_LIGHTING,ELE-LGT,ELE,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9177,"Street lights band aahet Hadapsar gallyat, full andhar aahe.",STREET_LIGHTING,ELE-LGT,ELE,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9178,Dark stretch of road in Baner due to broken streetlight fittings creating security risk.,STREET_LIGHTING,ELE-LGT,ELE,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9179,All LED streetlights along Viman Nagar main avenue non-functional for past 5 days.,STREET_LIGHTING,ELE-LGT,ELE,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9180,Dark stretch of road in Wakad due to broken streetlight fittings creating security risk.,STREET_LIGHTING,ELE-LGT,ELE,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9181,Tilted electrical light pole leaning dangerously over road with open junction box in Wakad.,STREET_LIGHTING,ELE-POLE,ELE,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9182,Tilted electrical light pole leaning dangerously over road with open junction box in Magarpatta.,STREET_LIGHTING,ELE-POLE,ELE,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9183,"Vidyut khamba kalala aahe Shivajinagar madhe, live wire ughadi aahe.",STREET_LIGHTING,ELE-POLE,ELE,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9184,Tilted electrical light pole leaning dangerously over road with open junction box in Kothrud.,STREET_LIGHTING,ELE-POLE,ELE,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9185,Live electric wire hanging low near children park entrance in Aundh.,STREET_LIGHTING,ELE-POLE,ELE,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9186,Tilted electrical light pole leaning dangerously over road with open junction box in Camp.,STREET_LIGHTING,ELE-POLE,ELE,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9187,"Vidyut khamba kalala aahe Swargate madhe, live wire ughadi aahe.",STREET_LIGHTING,ELE-POLE,ELE,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9188,Tilted electrical light pole leaning dangerously over road with open junction box in Camp.,STREET_LIGHTING,ELE-POLE,ELE,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9189,Live electric wire hanging low near children park entrance in Viman Nagar.,STREET_LIGHTING,ELE-POLE,ELE,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9190,Tilted electrical light pole leaning dangerously over road with open junction box in Shivajinagar.,STREET_LIGHTING,ELE-POLE,ELE,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9191,"Vidyut khamba kalala aahe Viman Nagar madhe, live wire ughadi aahe.",STREET_LIGHTING,ELE-POLE,ELE,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9192,Tilted electrical light pole leaning dangerously over road with open junction box in Baner.,STREET_LIGHTING,ELE-POLE,ELE,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9193,Zadachi mothi phaandi tutun rastyavar padli aahe Shivajinagar madhe.,GARDENS_TREES,PRK-TREE,PRK,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9194,Zadachi mothi phaandi tutun rastyavar padli aahe Camp madhe.,GARDENS_TREES,PRK-TREE,PRK,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9195,Heavy tree branch snapped during storm blocking both traffic lanes in Viman Nagar.,GARDENS_TREES,PRK-TREE,PRK,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9196,Heavy tree branch snapped during storm blocking both traffic lanes in Camp.,GARDENS_TREES,PRK-TREE,PRK,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9197,Overgrown tree branches entangling with high voltage power lines in Bavdhan.,GARDENS_TREES,PRK-TREE,PRK,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9198,Overgrown tree branches entangling with high voltage power lines in Wakad.,GARDENS_TREES,PRK-TREE,PRK,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9199,Heavy tree branch snapped during storm blocking both traffic lanes in Baner.,GARDENS_TREES,PRK-TREE,PRK,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9200,Overgrown tree branches entangling with high voltage power lines in Magarpatta.,GARDENS_TREES,PRK-TREE,PRK,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9201,Zadachi mothi phaandi tutun rastyavar padli aahe Swargate madhe.,GARDENS_TREES,PRK-TREE,PRK,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9202,Zadachi mothi phaandi tutun rastyavar padli aahe Wakad madhe.,GARDENS_TREES,PRK-TREE,PRK,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9203,Heavy tree branch snapped during storm blocking both traffic lanes in Kalyani Nagar.,GARDENS_TREES,PRK-TREE,PRK,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9204,Heavy tree branch snapped during storm blocking both traffic lanes in Shivajinagar.,GARDENS_TREES,PRK-TREE,PRK,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9205,"Municipal garden swings broken and rusted in Hadapsar, lawn unwatered and full of weeds.",GARDENS_TREES,PRK-MAINT,PRK,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9206,"Municipal garden swings broken and rusted in Hadapsar, lawn unwatered and full of weeds.",GARDENS_TREES,PRK-MAINT,PRK,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9207,"Municipal garden swings broken and rusted in Hadapsar, lawn unwatered and full of weeds.",GARDENS_TREES,PRK-MAINT,PRK,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9208,"Baghichi dekhbhal hot nahiye Baner garden madhe, benches tutle aahet.",GARDENS_TREES,PRK-MAINT,PRK,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9209,"Municipal garden swings broken and rusted in Aundh, lawn unwatered and full of weeds.",GARDENS_TREES,PRK-MAINT,PRK,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9210,"Baghichi dekhbhal hot nahiye Wakad garden madhe, benches tutle aahet.",GARDENS_TREES,PRK-MAINT,PRK,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9211,"Municipal garden swings broken and rusted in Camp, lawn unwatered and full of weeds.",GARDENS_TREES,PRK-MAINT,PRK,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9212,"Municipal garden swings broken and rusted in Aundh, lawn unwatered and full of weeds.",GARDENS_TREES,PRK-MAINT,PRK,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9213,"Baghichi dekhbhal hot nahiye Katraj garden madhe, benches tutle aahet.",GARDENS_TREES,PRK-MAINT,PRK,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9214,"Baghichi dekhbhal hot nahiye Katraj garden madhe, benches tutle aahet.",GARDENS_TREES,PRK-MAINT,PRK,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9215,"Baghichi dekhbhal hot nahiye Kothrud garden madhe, benches tutle aahet.",GARDENS_TREES,PRK-MAINT,PRK,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9216,"Baghichi dekhbhal hot nahiye Baner garden madhe, benches tutle aahet.",GARDENS_TREES,PRK-MAINT,PRK,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9217,"Machhar khup zale aahet Bavdhan madhe, chemical fogging gadi pathva.",PUBLIC_HEALTH,SAN-PEST,SAN,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9218,"Stagnant water pools breeding mosquitoes in Hadapsar, high dengue threat, request fogging.",PUBLIC_HEALTH,SAN-PEST,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9219,"Machhar khup zale aahet Katraj madhe, chemical fogging gadi pathva.",PUBLIC_HEALTH,SAN-PEST,SAN,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9220,"Stagnant water pools breeding mosquitoes in Swargate, high dengue threat, request fogging.",PUBLIC_HEALTH,SAN-PEST,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9221,"Stagnant water pools breeding mosquitoes in Shivajinagar, high dengue threat, request fogging.",PUBLIC_HEALTH,SAN-PEST,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9222,"Stagnant water pools breeding mosquitoes in Wakad, high dengue threat, request fogging.",PUBLIC_HEALTH,SAN-PEST,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9223,"Machhar khup zale aahet Camp madhe, chemical fogging gadi pathva.",PUBLIC_HEALTH,SAN-PEST,SAN,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9224,"Stagnant water pools breeding mosquitoes in Wakad, high dengue threat, request fogging.",PUBLIC_HEALTH,SAN-PEST,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9225,"Stagnant water pools breeding mosquitoes in Wakad, high dengue threat, request fogging.",PUBLIC_HEALTH,SAN-PEST,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9226,"Stagnant water pools breeding mosquitoes in Shivajinagar, high dengue threat, request fogging.",PUBLIC_HEALTH,SAN-PEST,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9227,"Stagnant water pools breeding mosquitoes in Viman Nagar, high dengue threat, request fogging.",PUBLIC_HEALTH,SAN-PEST,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9228,"Stagnant water pools breeding mosquitoes in Shivajinagar, high dengue threat, request fogging.",PUBLIC_HEALTH,SAN-PEST,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9229,"Dead stray dog lying on highway shoulder in Kothrud, urgent sanitary carcass removal required.",PUBLIC_HEALTH,SAN-ANML,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9230,Pack of aggressive stray dogs chasing pedestrians at night in Shivajinagar.,PUBLIC_HEALTH,SAN-ANML,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9231,"Dead stray dog lying on highway shoulder in Camp, urgent sanitary carcass removal required.",PUBLIC_HEALTH,SAN-ANML,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9232,Pack of aggressive stray dogs chasing pedestrians at night in Shivajinagar.,PUBLIC_HEALTH,SAN-ANML,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9233,Pack of aggressive stray dogs chasing pedestrians at night in Viman Nagar.,PUBLIC_HEALTH,SAN-ANML,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9234,Pack of aggressive stray dogs chasing pedestrians at night in Hadapsar.,PUBLIC_HEALTH,SAN-ANML,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9235,"Dead stray dog lying on highway shoulder in Aundh, urgent sanitary carcass removal required.",PUBLIC_HEALTH,SAN-ANML,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9236,"Dead stray dog lying on highway shoulder in Camp, urgent sanitary carcass removal required.",PUBLIC_HEALTH,SAN-ANML,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9237,Pack of aggressive stray dogs chasing pedestrians at night in Magarpatta.,PUBLIC_HEALTH,SAN-ANML,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9238,"Dead stray dog lying on highway shoulder in Katraj, urgent sanitary carcass removal required.",PUBLIC_HEALTH,SAN-ANML,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9239,"Dead stray dog lying on highway shoulder in Swargate, urgent sanitary carcass removal required.",PUBLIC_HEALTH,SAN-ANML,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9240,"Dead stray dog lying on highway shoulder in Wakad, urgent sanitary carcass removal required.",PUBLIC_HEALTH,SAN-ANML,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9241,"Public toilet facility near Wakad station filthy, choked, without water connection.",PUBLIC_HEALTH,SAN-HYG,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9242,"Public toilet facility near Shivajinagar station filthy, choked, without water connection.",PUBLIC_HEALTH,SAN-HYG,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9243,"Public toilet facility near Aundh station filthy, choked, without water connection.",PUBLIC_HEALTH,SAN-HYG,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9244,"Public toilet facility near Swargate station filthy, choked, without water connection.",PUBLIC_HEALTH,SAN-HYG,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9245,"Public toilet facility near Kalyani Nagar station filthy, choked, without water connection.",PUBLIC_HEALTH,SAN-HYG,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9246,"Public toilet facility near Baner station filthy, choked, without water connection.",PUBLIC_HEALTH,SAN-HYG,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9247,"Sarvajanik shauchalay ghanerde aahe Hadapsar madhe, clean kela nahi.",PUBLIC_HEALTH,SAN-HYG,SAN,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9248,"Public toilet facility near Wakad station filthy, choked, without water connection.",PUBLIC_HEALTH,SAN-HYG,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9249,"Sarvajanik shauchalay ghanerde aahe Bavdhan madhe, clean kela nahi.",PUBLIC_HEALTH,SAN-HYG,SAN,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9250,"Public toilet facility near Aundh station filthy, choked, without water connection.",PUBLIC_HEALTH,SAN-HYG,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9251,"Public toilet facility near Kothrud station filthy, choked, without water connection.",PUBLIC_HEALTH,SAN-HYG,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9252,"Public toilet facility near Shivajinagar station filthy, choked, without water connection.",PUBLIC_HEALTH,SAN-HYG,SAN,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9253,Unauthorized extra story construction underway without civic building permit in Kothrud.,BUILDING_CONSTRUCTION,RDW-BLDG,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9254,Anadhikrut baandhkaam suru aahe Kalyani Nagar madhe bina permission.,BUILDING_CONSTRUCTION,RDW-BLDG,RDW,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9255,Unauthorized extra story construction underway without civic building permit in Swargate.,BUILDING_CONSTRUCTION,RDW-BLDG,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9256,Unauthorized extra story construction underway without civic building permit in Hadapsar.,BUILDING_CONSTRUCTION,RDW-BLDG,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9257,Anadhikrut baandhkaam suru aahe Swargate madhe bina permission.,BUILDING_CONSTRUCTION,RDW-BLDG,RDW,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9258,Unauthorized extra story construction underway without civic building permit in Kalyani Nagar.,BUILDING_CONSTRUCTION,RDW-BLDG,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9259,Unauthorized extra story construction underway without civic building permit in Baner.,BUILDING_CONSTRUCTION,RDW-BLDG,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9260,Anadhikrut baandhkaam suru aahe Viman Nagar madhe bina permission.,BUILDING_CONSTRUCTION,RDW-BLDG,RDW,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9261,Anadhikrut baandhkaam suru aahe Bavdhan madhe bina permission.,BUILDING_CONSTRUCTION,RDW-BLDG,RDW,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9262,Unauthorized extra story construction underway without civic building permit in Kalyani Nagar.,BUILDING_CONSTRUCTION,RDW-BLDG,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9263,Unauthorized extra story construction underway without civic building permit in Aundh.,BUILDING_CONSTRUCTION,RDW-BLDG,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9264,Unauthorized extra story construction underway without civic building permit in Camp.,BUILDING_CONSTRUCTION,RDW-BLDG,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9265,Builder dumped heavy concrete debris and bricks on public street in Baner.,BUILDING_CONSTRUCTION,RDW-DEBR,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9266,Builder dumped heavy concrete debris and bricks on public street in Viman Nagar.,BUILDING_CONSTRUCTION,RDW-DEBR,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9267,Builder dumped heavy concrete debris and bricks on public street in Kothrud.,BUILDING_CONSTRUCTION,RDW-DEBR,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9268,Baandhkaam malba rastyavar takla aahe Swargate madhe blocking access.,BUILDING_CONSTRUCTION,RDW-DEBR,RDW,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9269,Baandhkaam malba rastyavar takla aahe Wakad madhe blocking access.,BUILDING_CONSTRUCTION,RDW-DEBR,RDW,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9270,Builder dumped heavy concrete debris and bricks on public street in Kalyani Nagar.,BUILDING_CONSTRUCTION,RDW-DEBR,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9271,Builder dumped heavy concrete debris and bricks on public street in Wakad.,BUILDING_CONSTRUCTION,RDW-DEBR,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9272,Baandhkaam malba rastyavar takla aahe Magarpatta madhe blocking access.,BUILDING_CONSTRUCTION,RDW-DEBR,RDW,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9273,Baandhkaam malba rastyavar takla aahe Kalyani Nagar madhe blocking access.,BUILDING_CONSTRUCTION,RDW-DEBR,RDW,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9274,Builder dumped heavy concrete debris and bricks on public street in Katraj.,BUILDING_CONSTRUCTION,RDW-DEBR,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9275,Baandhkaam malba rastyavar takla aahe Swargate madhe blocking access.,BUILDING_CONSTRUCTION,RDW-DEBR,RDW,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9276,Builder dumped heavy concrete debris and bricks on public street in Camp.,BUILDING_CONSTRUCTION,RDW-DEBR,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9277,Footpath var anadhikrut dukane aali aahet Bavdhan market madhe.,ENCROACHMENT,RDW-ENC,RDW,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9278,Footpath var anadhikrut dukane aali aahet Baner market madhe.,ENCROACHMENT,RDW-ENC,RDW,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9279,Illegal vendors and hawkers completely occupying pedestrian footpath in Katraj.,ENCROACHMENT,RDW-ENC,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9280,Footpath var anadhikrut dukane aali aahet Magarpatta market madhe.,ENCROACHMENT,RDW-ENC,RDW,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9281,Illegal vendors and hawkers completely occupying pedestrian footpath in Shivajinagar.,ENCROACHMENT,RDW-ENC,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9282,Illegal vendors and hawkers completely occupying pedestrian footpath in Katraj.,ENCROACHMENT,RDW-ENC,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9283,Illegal vendors and hawkers completely occupying pedestrian footpath in Wakad.,ENCROACHMENT,RDW-ENC,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9284,Illegal vendors and hawkers completely occupying pedestrian footpath in Hadapsar.,ENCROACHMENT,RDW-ENC,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9285,Footpath var anadhikrut dukane aali aahet Katraj market madhe.,ENCROACHMENT,RDW-ENC,RDW,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9286,Footpath var anadhikrut dukane aali aahet Wakad market madhe.,ENCROACHMENT,RDW-ENC,RDW,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9287,Illegal vendors and hawkers completely occupying pedestrian footpath in Viman Nagar.,ENCROACHMENT,RDW-ENC,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9288,Illegal vendors and hawkers completely occupying pedestrian footpath in Wakad.,ENCROACHMENT,RDW-ENC,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9289,Abandoned scrap vehicle double parked blocking lane entrance in Viman Nagar.,TRAFFIC_PARKING,RDW-TRF,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9290,Abandoned scrap vehicle double parked blocking lane entrance in Swargate.,TRAFFIC_PARKING,RDW-TRF,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9291,Abandoned scrap vehicle double parked blocking lane entrance in Swargate.,TRAFFIC_PARKING,RDW-TRF,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9292,Abandoned scrap vehicle double parked blocking lane entrance in Kalyani Nagar.,TRAFFIC_PARKING,RDW-TRF,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9293,Abandoned scrap vehicle double parked blocking lane entrance in Baner.,TRAFFIC_PARKING,RDW-TRF,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9294,Abandoned scrap vehicle double parked blocking lane entrance in Katraj.,TRAFFIC_PARKING,RDW-TRF,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9295,Abandoned scrap vehicle double parked blocking lane entrance in Viman Nagar.,TRAFFIC_PARKING,RDW-TRF,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9296,Illegal parking of heavy commercial trucks obstructing residential gate in Baner.,TRAFFIC_PARKING,RDW-TRF,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9297,Illegal parking of heavy commercial trucks obstructing residential gate in Aundh.,TRAFFIC_PARKING,RDW-TRF,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9298,Abandoned scrap vehicle double parked blocking lane entrance in Kalyani Nagar.,TRAFFIC_PARKING,RDW-TRF,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9299,Illegal parking of heavy commercial trucks obstructing residential gate in Viman Nagar.,TRAFFIC_PARKING,RDW-TRF,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9300,Illegal parking of heavy commercial trucks obstructing residential gate in Baner.,TRAFFIC_PARKING,RDW-TRF,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9301,Speed limit warning board broken and missing near school zone in Camp.,TRAFFIC_PARKING,RDW-SIGN,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9302,Speed limit warning board broken and missing near school zone in Bavdhan.,TRAFFIC_PARKING,RDW-SIGN,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9303,Traffic direction board damaged at Kalyani Nagar intersection.,TRAFFIC_PARKING,RDW-SIGN,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9304,Traffic direction board damaged at Swargate intersection.,TRAFFIC_PARKING,RDW-SIGN,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9305,Speed limit warning board broken and missing near school zone in Shivajinagar.,TRAFFIC_PARKING,RDW-SIGN,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9306,Speed limit warning board broken and missing near school zone in Aundh.,TRAFFIC_PARKING,RDW-SIGN,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9307,Speed limit warning board broken and missing near school zone in Baner.,TRAFFIC_PARKING,RDW-SIGN,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9308,Traffic direction board damaged at Swargate intersection.,TRAFFIC_PARKING,RDW-SIGN,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9309,Traffic direction board damaged at Wakad intersection.,TRAFFIC_PARKING,RDW-SIGN,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9310,Speed limit warning board broken and missing near school zone in Bavdhan.,TRAFFIC_PARKING,RDW-SIGN,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9311,Traffic direction board damaged at Kothrud intersection.,TRAFFIC_PARKING,RDW-SIGN,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9312,Traffic direction board damaged at Aundh intersection.,TRAFFIC_PARKING,RDW-SIGN,RDW,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9313,Property tax assessment notice calculated for double the square footage of property in Hadapsar.,PROPERTY_TAX,TAX-ERR,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9314,Ghar patti bill madhe chuk aali aahe Aundh assessment account madhe.,PROPERTY_TAX,TAX-ERR,,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9315,Property tax assessment notice calculated for double the square footage of property in Kothrud.,PROPERTY_TAX,TAX-ERR,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9316,Ghar patti bill madhe chuk aali aahe Kothrud assessment account madhe.,PROPERTY_TAX,TAX-ERR,,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9317,Property tax assessment notice calculated for double the square footage of property in Wakad.,PROPERTY_TAX,TAX-ERR,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9318,Ghar patti bill madhe chuk aali aahe Swargate assessment account madhe.,PROPERTY_TAX,TAX-ERR,,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9319,Property tax assessment notice calculated for double the square footage of property in Viman Nagar.,PROPERTY_TAX,TAX-ERR,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9320,Property tax assessment notice calculated for double the square footage of property in Aundh.,PROPERTY_TAX,TAX-ERR,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9321,Ghar patti bill madhe chuk aali aahe Swargate assessment account madhe.,PROPERTY_TAX,TAX-ERR,,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9322,Property tax assessment notice calculated for double the square footage of property in Viman Nagar.,PROPERTY_TAX,TAX-ERR,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9323,Property tax assessment notice calculated for double the square footage of property in Bavdhan.,PROPERTY_TAX,TAX-ERR,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9324,Ghar patti bill madhe chuk aali aahe Viman Nagar assessment account madhe.,PROPERTY_TAX,TAX-ERR,,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9325,Tax payment status showing pending despite bank debit for Magarpatta account.,PROPERTY_TAX,TAX-REC,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9326,Paid property tax online but payment receipt failed to generate for Aundh property.,PROPERTY_TAX,TAX-REC,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9327,Tax payment status showing pending despite bank debit for Viman Nagar account.,PROPERTY_TAX,TAX-REC,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9328,Tax payment status showing pending despite bank debit for Hadapsar account.,PROPERTY_TAX,TAX-REC,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9329,Tax payment status showing pending despite bank debit for Hadapsar account.,PROPERTY_TAX,TAX-REC,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9330,Tax payment status showing pending despite bank debit for Aundh account.,PROPERTY_TAX,TAX-REC,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9331,Paid property tax online but payment receipt failed to generate for Baner property.,PROPERTY_TAX,TAX-REC,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9332,Paid property tax online but payment receipt failed to generate for Kothrud property.,PROPERTY_TAX,TAX-REC,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9333,Paid property tax online but payment receipt failed to generate for Camp property.,PROPERTY_TAX,TAX-REC,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9334,Tax payment status showing pending despite bank debit for Baner account.,PROPERTY_TAX,TAX-REC,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9335,Paid property tax online but payment receipt failed to generate for Magarpatta property.,PROPERTY_TAX,TAX-REC,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9336,Tax payment status showing pending despite bank debit for Wakad account.,PROPERTY_TAX,TAX-REC,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9337,Bin parvangi commercial dukan suru aahe Katraj residential sector madhe.,LICENSES_PERMISSIONS,LIC-TRD,,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9338,Unlicensed commercial garage operating in residential basement in Baner.,LICENSES_PERMISSIONS,LIC-TRD,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9339,Bin parvangi commercial dukan suru aahe Baner residential sector madhe.,LICENSES_PERMISSIONS,LIC-TRD,,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9340,Bin parvangi commercial dukan suru aahe Aundh residential sector madhe.,LICENSES_PERMISSIONS,LIC-TRD,,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9341,Unlicensed commercial garage operating in residential basement in Katraj.,LICENSES_PERMISSIONS,LIC-TRD,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9342,Unlicensed commercial garage operating in residential basement in Hadapsar.,LICENSES_PERMISSIONS,LIC-TRD,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9343,Unlicensed commercial garage operating in residential basement in Kothrud.,LICENSES_PERMISSIONS,LIC-TRD,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9344,Unlicensed commercial garage operating in residential basement in Katraj.,LICENSES_PERMISSIONS,LIC-TRD,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9345,Bin parvangi commercial dukan suru aahe Wakad residential sector madhe.,LICENSES_PERMISSIONS,LIC-TRD,,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9346,Bin parvangi commercial dukan suru aahe Magarpatta residential sector madhe.,LICENSES_PERMISSIONS,LIC-TRD,,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9347,Unlicensed commercial garage operating in residential basement in Kalyani Nagar.,LICENSES_PERMISSIONS,LIC-TRD,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9348,Bin parvangi commercial dukan suru aahe Bavdhan residential sector madhe.,LICENSES_PERMISSIONS,LIC-TRD,,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9349,Event lawn playing high decibel music past 1 AM without noise permit in Wakad.,LICENSES_PERMISSIONS,LIC-NOISE,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9350,Event lawn playing high decibel music past 1 AM without noise permit in Baner.,LICENSES_PERMISSIONS,LIC-NOISE,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9351,Event lawn playing high decibel music past 1 AM without noise permit in Hadapsar.,LICENSES_PERMISSIONS,LIC-NOISE,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9352,Event lawn playing high decibel music past 1 AM without noise permit in Bavdhan.,LICENSES_PERMISSIONS,LIC-NOISE,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9353,Loudspeaker playing loudly beyond permitted hours near hospital in Swargate.,LICENSES_PERMISSIONS,LIC-NOISE,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9354,Loudspeaker playing loudly beyond permitted hours near hospital in Kalyani Nagar.,LICENSES_PERMISSIONS,LIC-NOISE,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9355,Loudspeaker playing loudly beyond permitted hours near hospital in Katraj.,LICENSES_PERMISSIONS,LIC-NOISE,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9356,Loudspeaker playing loudly beyond permitted hours near hospital in Viman Nagar.,LICENSES_PERMISSIONS,LIC-NOISE,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9357,Event lawn playing high decibel music past 1 AM without noise permit in Kothrud.,LICENSES_PERMISSIONS,LIC-NOISE,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9358,Event lawn playing high decibel music past 1 AM without noise permit in Aundh.,LICENSES_PERMISSIONS,LIC-NOISE,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9359,Event lawn playing high decibel music past 1 AM without noise permit in Camp.,LICENSES_PERMISSIONS,LIC-NOISE,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9360,Event lawn playing high decibel music past 1 AM without noise permit in Shivajinagar.,LICENSES_PERMISSIONS,LIC-NOISE,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9361,Kachra aani dry leaves jalale jaat aahet Bavdhan madhe causing heavy smoke.,ENVIRONMENT_POLLUTION,PRK-AIR,PRK,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9362,Kachra aani dry leaves jalale jaat aahet Aundh madhe causing heavy smoke.,ENVIRONMENT_POLLUTION,PRK-AIR,PRK,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9363,Kachra aani dry leaves jalale jaat aahet Viman Nagar madhe causing heavy smoke.,ENVIRONMENT_POLLUTION,PRK-AIR,PRK,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9364,Kachra aani dry leaves jalale jaat aahet Kalyani Nagar madhe causing heavy smoke.,ENVIRONMENT_POLLUTION,PRK-AIR,PRK,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9365,Kachra aani dry leaves jalale jaat aahet Camp madhe causing heavy smoke.,ENVIRONMENT_POLLUTION,PRK-AIR,PRK,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9366,Open burning of plastic garbage in vacant plot at Hadapsar causing toxic smog.,ENVIRONMENT_POLLUTION,PRK-AIR,PRK,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9367,Kachra aani dry leaves jalale jaat aahet Aundh madhe causing heavy smoke.,ENVIRONMENT_POLLUTION,PRK-AIR,PRK,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9368,Open burning of plastic garbage in vacant plot at Aundh causing toxic smog.,ENVIRONMENT_POLLUTION,PRK-AIR,PRK,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9369,Kachra aani dry leaves jalale jaat aahet Shivajinagar madhe causing heavy smoke.,ENVIRONMENT_POLLUTION,PRK-AIR,PRK,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9370,Kachra aani dry leaves jalale jaat aahet Swargate madhe causing heavy smoke.,ENVIRONMENT_POLLUTION,PRK-AIR,PRK,HINGLISH,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9371,Open burning of plastic garbage in vacant plot at Bavdhan causing toxic smog.,ENVIRONMENT_POLLUTION,PRK-AIR,PRK,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9372,Open burning of plastic garbage in vacant plot at Baner causing toxic smog.,ENVIRONMENT_POLLUTION,PRK-AIR,PRK,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9373,Unbearable machine noise pollution in Hadapsar quiet residential zone.,ENVIRONMENT_POLLUTION,PRK-NOIS,PRK,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9374,Heavy industrial generator running continuous night shifts causing severe noise in Kothrud.,ENVIRONMENT_POLLUTION,PRK-NOIS,PRK,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9375,Unbearable machine noise pollution in Swargate quiet residential zone.,ENVIRONMENT_POLLUTION,PRK-NOIS,PRK,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9376,Heavy industrial generator running continuous night shifts causing severe noise in Camp.,ENVIRONMENT_POLLUTION,PRK-NOIS,PRK,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9377,Unbearable machine noise pollution in Bavdhan quiet residential zone.,ENVIRONMENT_POLLUTION,PRK-NOIS,PRK,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9378,Unbearable machine noise pollution in Kalyani Nagar quiet residential zone.,ENVIRONMENT_POLLUTION,PRK-NOIS,PRK,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9379,Unbearable machine noise pollution in Magarpatta quiet residential zone.,ENVIRONMENT_POLLUTION,PRK-NOIS,PRK,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9380,Unbearable machine noise pollution in Swargate quiet residential zone.,ENVIRONMENT_POLLUTION,PRK-NOIS,PRK,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9381,Unbearable machine noise pollution in Kalyani Nagar quiet residential zone.,ENVIRONMENT_POLLUTION,PRK-NOIS,PRK,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9382,Heavy industrial generator running continuous night shifts causing severe noise in Kothrud.,ENVIRONMENT_POLLUTION,PRK-NOIS,PRK,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9383,Heavy industrial generator running continuous night shifts causing severe noise in Baner.,ENVIRONMENT_POLLUTION,PRK-NOIS,PRK,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9384,Heavy industrial generator running continuous night shifts causing severe noise in Katraj.,ENVIRONMENT_POLLUTION,PRK-NOIS,PRK,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9385,Fire exit and emergency staircase blocked with wooden crates in Kalyani Nagar building.,FIRE_DISASTER_SAFETY,SAF-FIRE,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9386,Fire exit and emergency staircase blocked with wooden crates in Kothrud building.,FIRE_DISASTER_SAFETY,SAF-FIRE,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9387,Fire exit and emergency staircase blocked with wooden crates in Swargate building.,FIRE_DISASTER_SAFETY,SAF-FIRE,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9388,Defective fire safety extinguishers in Bavdhan commercial complex.,FIRE_DISASTER_SAFETY,SAF-FIRE,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9389,Fire exit and emergency staircase blocked with wooden crates in Katraj building.,FIRE_DISASTER_SAFETY,SAF-FIRE,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9390,Fire exit and emergency staircase blocked with wooden crates in Swargate building.,FIRE_DISASTER_SAFETY,SAF-FIRE,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9391,Fire exit and emergency staircase blocked with wooden crates in Camp building.,FIRE_DISASTER_SAFETY,SAF-FIRE,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9392,Defective fire safety extinguishers in Swargate commercial complex.,FIRE_DISASTER_SAFETY,SAF-FIRE,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9393,Fire exit and emergency staircase blocked with wooden crates in Camp building.,FIRE_DISASTER_SAFETY,SAF-FIRE,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9394,Fire exit and emergency staircase blocked with wooden crates in Shivajinagar building.,FIRE_DISASTER_SAFETY,SAF-FIRE,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9395,Defective fire safety extinguishers in Viman Nagar commercial complex.,FIRE_DISASTER_SAFETY,SAF-FIRE,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9396,Defective fire safety extinguishers in Bavdhan commercial complex.,FIRE_DISASTER_SAFETY,SAF-FIRE,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9397,Old building wall cracked severely and leaning precariously over street in Hadapsar.,FIRE_DISASTER_SAFETY,SAF-DIS,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9398,Imminent structural collapse hazard of dilapidated wall in Wakad.,FIRE_DISASTER_SAFETY,SAF-DIS,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9399,Imminent structural collapse hazard of dilapidated wall in Wakad.,FIRE_DISASTER_SAFETY,SAF-DIS,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9400,Imminent structural collapse hazard of dilapidated wall in Aundh.,FIRE_DISASTER_SAFETY,SAF-DIS,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9401,Old building wall cracked severely and leaning precariously over street in Wakad.,FIRE_DISASTER_SAFETY,SAF-DIS,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9402,Imminent structural collapse hazard of dilapidated wall in Kalyani Nagar.,FIRE_DISASTER_SAFETY,SAF-DIS,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9403,Old building wall cracked severely and leaning precariously over street in Shivajinagar.,FIRE_DISASTER_SAFETY,SAF-DIS,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9404,Old building wall cracked severely and leaning precariously over street in Baner.,FIRE_DISASTER_SAFETY,SAF-DIS,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9405,Imminent structural collapse hazard of dilapidated wall in Katraj.,FIRE_DISASTER_SAFETY,SAF-DIS,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9406,Imminent structural collapse hazard of dilapidated wall in Kalyani Nagar.,FIRE_DISASTER_SAFETY,SAF-DIS,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9407,Old building wall cracked severely and leaning precariously over street in Swargate.,FIRE_DISASTER_SAFETY,SAF-DIS,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset
+CHALLENGE-9408,Imminent structural collapse hazard of dilapidated wall in Katraj.,FIRE_DISASTER_SAFETY,SAF-DIS,,EN,CHALLENGE_UNSEEN,unseen_challenge_dataset

@@ -1,0 +1,196 @@
+{
+  "classification_report_summary": {
+    "accuracy": 0.5114320096269555,
+    "macro_f1": 0.26591813465552333,
+    "weighted_f1": 0.5301107914262138
+  },
+  "worst_performing_categories": [
+    {
+      "category": "PRK-AIR",
+      "f1_score": 0.0,
+      "support": 0.0
+    },
+    {
+      "category": "RDW-BLDG",
+      "f1_score": 0.0,
+      "support": 32.0
+    },
+    {
+      "category": "RDW-DEBR",
+      "f1_score": 0.0,
+      "support": 0.0
+    },
+    {
+      "category": "RDW-SIGN",
+      "f1_score": 0.0,
+      "support": 0.0
+    },
+    {
+      "category": "RDW-TRF",
+      "f1_score": 0.0,
+      "support": 0.0
+    },
+    {
+      "category": "RDW-WALK",
+      "f1_score": 0.0,
+      "support": 0.0
+    },
+    {
+      "category": "SAF-FIRE",
+      "f1_score": 0.0,
+      "support": 0.0
+    },
+    {
+      "category": "SAN-ANML",
+      "f1_score": 0.0,
+      "support": 0.0
+    },
+    {
+      "category": "SAN-BIN",
+      "f1_score": 0.0,
+      "support": 29.0
+    },
+    {
+      "category": "SAN-SWEEP",
+      "f1_score": 0.0,
+      "support": 0.0
+    },
+    {
+      "category": "SEW-BLOCK",
+      "f1_score": 0.0,
+      "support": 0.0
+    },
+    {
+      "category": "SEW-DRAIN",
+      "f1_score": 0.0,
+      "support": 60.0
+    },
+    {
+      "category": "SEW-MAN",
+      "f1_score": 0.0,
+      "support": 0.0
+    },
+    {
+      "category": "STM-DRN",
+      "f1_score": 0.0,
+      "support": 0.0
+    },
+    {
+      "category": "WTR-PRES",
+      "f1_score": 0.0,
+      "support": 0.0
+    },
+    {
+      "category": "WTR-QUAL",
+      "f1_score": 0.0,
+      "support": 0.0
+    },
+    {
+      "category": "RDW-ENC",
+      "f1_score": 0.16216216216216217,
+      "support": 68.0
+    },
+    {
+      "category": "SAN-GARB",
+      "f1_score": 0.2914572864321608,
+      "support": 170.0
+    },
+    {
+      "category": "SAF-DIS",
+      "f1_score": 0.36363636363636365,
+      "support": 17.0
+    },
+    {
+      "category": "PRK-MAINT",
+      "f1_score": 0.375,
+      "support": 9.0
+    },
+    {
+      "category": "SAN-HYG",
+      "f1_score": 0.42105263157894735,
+      "support": 14.0
+    },
+    {
+      "category": "STM-LOG",
+      "f1_score": 0.6666666666666666,
+      "support": 27.0
+    },
+    {
+      "category": "SAN-DUMP",
+      "f1_score": 0.6914893617021277,
+      "support": 65.0
+    },
+    {
+      "category": "ELE-POLE",
+      "f1_score": 0.7642276422764228,
+      "support": 76.0
+    },
+    {
+      "category": "PRK-TREE",
+      "f1_score": 0.7682926829268293,
+      "support": 80.0
+    }
+  ],
+  "class_imbalance_analysis": {
+    "SAN-GARB": {
+      "count": 170,
+      "percentage": 0.2046
+    },
+    "SAF-DIS": {
+      "count": 17,
+      "percentage": 0.0205
+    },
+    "RDW-BLDG": {
+      "count": 32,
+      "percentage": 0.0385
+    },
+    "PRK-TREE": {
+      "count": 80,
+      "percentage": 0.0963
+    },
+    "ELE-POLE": {
+      "count": 76,
+      "percentage": 0.0915
+    },
+    "SEW-DRAIN": {
+      "count": 60,
+      "percentage": 0.0722
+    },
+    "ELE-LGT": {
+      "count": 115,
+      "percentage": 0.1384
+    },
+    "RDW-ENC": {
+      "count": 68,
+      "percentage": 0.0818
+    },
+    "RDW-POT": {
+      "count": 38,
+      "percentage": 0.0457
+    },
+    "STM-LOG": {
+      "count": 27,
+      "percentage": 0.0325
+    },
+    "SAN-DUMP": {
+      "count": 65,
+      "percentage": 0.0782
+    },
+    "SAN-BIN": {
+      "count": 29,
+      "percentage": 0.0349
+    },
+    "PRK-MAINT": {
+      "count": 9,
+      "percentage": 0.0108
+    },
+    "SAN-HYG": {
+      "count": 14,
+      "percentage": 0.0168
+    },
+    "RDW-RD": {
+      "count": 31,
+      "percentage": 0.0373
+    }
+  }
+}

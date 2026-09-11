@@ -1,0 +1,803 @@
+source_file,source_category,source_subcategory,civicflow_domain,civicflow_category,mapping_confidence,mapping_status,reason
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Road Maintenance(Engg),Road cutting,ROADS_FOOTPATHS,RDW-RD,0.9,MAPPED,Road cutting / asphalt damage
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Electrical,Street Light Not Working,STREET_LIGHTING,ELE-LGT,0.98,MAPPED,Direct match for streetlight outage
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Forest,Removal of dead/fallen trees,GARDENS_TREES,PRK-TREE,0.95,MAPPED,Fallen/dead tree removal
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Road Maintenance(Engg),Potholes,ROADS_FOOTPATHS,RDW-POT,0.98,MAPPED,Direct match for pothole repair
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Solid Waste (Garbage) Related,Garbage vehicle not arrived,SOLID_WASTE,SAN-GARB,0.95,MAPPED,Direct match for uncollected door-to-door garbage
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Solid Waste (Garbage) Related,Dead animal(s),,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Road Maintenance(Engg),footpath encroachment,ENCROACHMENT,RDW-ENC,0.95,MAPPED,Encroachment on public footpath/walkway
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Solid Waste (Garbage) Related,Garbage dumping in vacant sites,SOLID_WASTE,SAN-DUMP,0.95,MAPPED,Direct match for open dumping
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,veterinary,Stray dog related complaints,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Road Maintenance(Engg),Road side drains,SEWERAGE_DRAINAGE,SEW-DRAIN,0.85,MAPPED,Soft match: drain keyword
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Solid Waste (Garbage) Related,Segregation of waste is not done,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Solid Waste (Garbage) Related,Garbage dump,SOLID_WASTE,SAN-DUMP,0.95,MAPPED,Direct match for garbage dump
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Road Maintenance(Engg),water stagnation,STORM_WATER,STM-LOG,0.95,MAPPED,Waterlogging / rainwater inundation
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Forest,obstructions Branches / Trees.,GARDENS_TREES,PRK-TREE,0.95,MAPPED,Hazardous tree branch trimming
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Solid Waste (Garbage) Related,Sweeping not done,SOLID_WASTE,SAN-GARB,0.9,MAPPED,Street sweeping and waste collection
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Solid Waste (Garbage) Related,Burning of Garbage in Open Space,SOLID_WASTE,SAN-GARB,0.85,MAPPED,Soft match: garbage keyword
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Solid Waste (Garbage) Related,Public dustbins not cleaned,SOLID_WASTE,SAN-BIN,0.95,MAPPED,Direct match for overflow/uncleaned public dustbin
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Lakes,Dumping of garbage into lake,SOLID_WASTE,SAN-GARB,0.85,MAPPED,Soft match: garbage keyword
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Road Maintenance(Engg),Overhanging cables,STREET_LIGHTING,ELE-POLE,0.85,MAPPED,Low hanging overhead cables
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,CORONA COVID19,Government regulations not being followed,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Parks and Play grounds,Play Grounds,GARDENS_TREES,PRK-MAINT,0.9,MAPPED,Public park and playground maintenance
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Storm  Water Drain(SWD),Maintenance of SWD,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Road Maintenance(Engg),Debris Removal / Construction Material,ROADS_FOOTPATHS,RDW-BLDG,0.9,MAPPED,Construction debris on road
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Road Maintenance(Engg),water leakage on road,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Revenue Department,"Khata Services (Registration, Transfer, Bifurcation and Amalgamation)",,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Forest,Issues related Snakes/Birds/Monkeys,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Road Maintenance(Engg),Footpath,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Electrical,Requirement For New Street Lights,STREET_LIGHTING,ELE-LGT,0.9,MAPPED,Streetlight installation request
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,veterinary,Animal birth control/neutering of stray dogs,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Electrical,Street Lights Switched On During Day Time,STREET_LIGHTING,ELE-LGT,0.9,MAPPED,Streetlight operational timing defect
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Health Dept,Air/Noise pollution,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Solid Waste (Garbage) Related,Complaint against SW collector/ SWM official for violation of SWM Rules,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Solid Waste (Garbage) Related,Garbage nuisance while transporting,SOLID_WASTE,SAN-GARB,0.85,MAPPED,Soft match: garbage keyword
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,veterinary,Stray pig related complaints,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Electrical,Open Electrical Junction Box,STREET_LIGHTING,ELE-POLE,0.95,MAPPED,Exposed wiring and junction box hazard
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Advertisement,Flex and banners,ENCROACHMENT,RDW-ENC,0.9,MAPPED,Illegal flex/banner encroachment
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,CORONA COVID19,Others,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Health Dept,Fogging,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Health Dept,Unhygienic premises in Hotel etc,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Revenue Department,Unable to generate the property tax challan,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Lakes,Sewage inflow to lake,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Sanitation,Urination in Public/Open Defecation,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Others,Others,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Health Dept,Spraying,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,veterinary,Stray/Rabid dog bite,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Solid Waste (Garbage) Related,Garbage transfer not as per norms & area not kept clean,SOLID_WASTE,SAN-GARB,0.85,MAPPED,Soft match: garbage keyword
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Storm  Water Drain(SWD),Sewerage water left in SWD,SEWERAGE_DRAINAGE,SEW-DRAIN,0.85,MAPPED,Soft match: drain keyword
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Health Dept,Increase in mosquito density,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Town Planning,Noise during Building Construction,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Parks and Play grounds,Gym/Children Play equipment in the parks,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,veterinary,Anti Rabies Vaccination of stray dogs,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Optical Fiber Cables (OFC),Without permission digging of road,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Sanitation,No water supply in public toilet(s),,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Health Dept,Birth & Death Registration,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Electrical,Park Lights Not Working,STREET_LIGHTING,ELE-LGT,0.9,MAPPED,Park lighting outage
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Town Planning,Construction not done as per approved plan (Building Bye Law Violations),,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,veterinary,Stray cattle related complaints,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Lakes,Lake not maintained properly,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Sanitation,Public toilet(s) blockage,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,CORONA COVID19,Overcharging,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,veterinary,Pet dog licence,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Storm  Water Drain(SWD),Garbage thrown in storm water drain,SOLID_WASTE,SAN-GARB,0.85,MAPPED,Soft match: garbage keyword
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Lakes,Lake being encroached,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Parks and Play grounds,Issues Related to Parks/Medians/Circles/Island.,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Revenue Department,Unable to Generate the receipt after property tax payment.,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Welfare Schemes,Senior  Citizen,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,veterinary,Mutton/Chicken/fish stall Unhygienic maintenance,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Estate,Violation of rules by property Leasers,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Electrical,Earthing Issue relate to Electric Poles/Panel Boards,STREET_LIGHTING,ELE-POLE,0.9,MAPPED,Damaged pole earthing hazard
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Parks and Play grounds,Environmental protection,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Markets,Trade License,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Estate,Encroachment,ENCROACHMENT,RDW-ENC,0.9,MAPPED,Municipal land encroachment
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Health Dept,Delay in issue of Trade licence,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Lakes,Lake fencing damaged,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Health Dept,Unavailability of staff,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Revenue Department,Discrepancy In Khata Certificate and Khata Extract,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Health Dept,Unhygienic  premises in hospital,PUBLIC_HEALTH,SAN-HYG,0.9,MAPPED,Public health hygiene violation
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Markets,Encroachment,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Estate,BBMP  Properties Lease issues,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Education,Infrastructure related Issues.,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Advertisement,Unsafe Hoardings,FIRE_DISASTER_SAFETY,SAF-DIS,0.85,MAPPED,Unsafe hoarding collapse hazard
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Lakes,Dumping of construction & Demolition waste in to lake,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Lakes,Lake gates are not opened as per the prescribed timing,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Sanitation,Public toilet(s) cleaning,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Welfare Schemes,Issues Regarding SC/ST Schemes.,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Markets,Violation of rules by Shop rent / Leaser,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Road Infrastructure,Road Infrastructure,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Town Planning,Delay in issuing building permit,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Markets,Illegal Parking,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Lakes,Dying of fishes in lake,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Welfare Schemes,Schemes Related to Physically Abled Person,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Sanitation,No electricity in public toilet(s),PUBLIC_HEALTH,SAN-HYG,0.85,MAPPED,Public toilet sanitation and maintenance
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Education,Examination Related Issues,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Education,Academic Issues.,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Road Maintenance(Engg),UnAuthorised Constructions,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,CORONA COVID19,Some other person affected from COVID,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Health Dept,Non availability of vaccines,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,CORONA COVID19,Stockout,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Welfare Schemes,Schemes Related to BCM Program,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Welfare Schemes,Onti Mane,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Estate,Payment/Rent issues,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Markets,Garbage In Market Premises,SOLID_WASTE,SAN-GARB,0.85,MAPPED,Soft match: garbage keyword
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Lakes,Lake water misused,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Health Dept,Non availability of drugs,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Welfare Schemes,Women Welfare Program,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Solid Waste (Garbage) Related,Debris Removal / Construction Material,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Lakes,Insufficient lake security personnel,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Markets,Payment Issues,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv,Education,Parent-Teachers Meeting,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Solid Waste (Garbage) Related,Garbage vehicle not arrived,SOLID_WASTE,SAN-GARB,0.95,MAPPED,Direct match for uncollected door-to-door garbage
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Electrical,Street Light Not Working,STREET_LIGHTING,ELE-LGT,0.98,MAPPED,Direct match for streetlight outage
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Revenue Department,Discrepancy In Khata Certificate and Khata Extract,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Solid Waste (Garbage) Related,Garbage dump,SOLID_WASTE,SAN-DUMP,0.95,MAPPED,Direct match for garbage dump
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Electrical,Open Electrical Junction Box,STREET_LIGHTING,ELE-POLE,0.95,MAPPED,Exposed wiring and junction box hazard
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Electrical,Park Lights Not Working,STREET_LIGHTING,ELE-LGT,0.9,MAPPED,Park lighting outage
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Forest,Removal of dead/fallen trees,GARDENS_TREES,PRK-TREE,0.95,MAPPED,Fallen/dead tree removal
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Road Maintenance(Engg),Road side drains,SEWERAGE_DRAINAGE,SEW-DRAIN,0.85,MAPPED,Soft match: drain keyword
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Forest,obstructions Branches / Trees.,GARDENS_TREES,PRK-TREE,0.95,MAPPED,Hazardous tree branch trimming
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Lakes,Sewage inflow to lake,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,E khata / Khata services,Other Khata / ekhata issues,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Road Maintenance(Engg),UnAuthorised Constructions,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Advertisement,Flex and banners,ENCROACHMENT,RDW-ENC,0.9,MAPPED,Illegal flex/banner encroachment
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Road Maintenance(Engg),Debris Removal / Construction Material,ROADS_FOOTPATHS,RDW-BLDG,0.9,MAPPED,Construction debris on road
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Health Dept,Spraying,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Health Dept,Increase in mosquito density,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Revenue Department,Unable to Generate the receipt after property tax payment.,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,E khata / Khata services,ekhata approval pending with ARO,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Others,Others,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Revenue Department,"Khata Services (Registration, Transfer, Bifurcation and Amalgamation)",,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Road Maintenance(Engg),footpath encroachment,ENCROACHMENT,RDW-ENC,0.95,MAPPED,Encroachment on public footpath/walkway
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Revenue Department,Others (JC),,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Road Infrastructure,Road Infrastructure,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Electrical,Requirement For New Street Lights,STREET_LIGHTING,ELE-LGT,0.9,MAPPED,Streetlight installation request
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,veterinary,Anti Rabies Vaccination of stray dogs,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Traffic Engineer Cell (TEC),TEC,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Solid Waste (Garbage) Related,Burning of Garbage in Open Space,SOLID_WASTE,SAN-GARB,0.85,MAPPED,Soft match: garbage keyword
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Road Maintenance(Engg),Overhanging cables,STREET_LIGHTING,ELE-POLE,0.85,MAPPED,Low hanging overhead cables
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Solid Waste (Garbage) Related,Sweeping not done,SOLID_WASTE,SAN-GARB,0.9,MAPPED,Street sweeping and waste collection
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Property Tax services,Other property tax issues,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Property Tax services,Issues in property tax portal,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Road Maintenance(Engg),Potholes,ROADS_FOOTPATHS,RDW-POT,0.98,MAPPED,Direct match for pothole repair
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Health Dept,Air/Noise pollution,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,E khata / Khata services,Ekhata Other corrections,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,veterinary,Stray/Rabid dog bite,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,E khata / Khata services,Ekhata - name correction,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Forest,Issues related Snakes/Birds/Monkeys,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Solid Waste (Garbage) Related,Dead animal(s),,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Road Maintenance(Engg),Footpath,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Health Dept,Dengue positive,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,E khata / Khata services,Ekhata missing in online,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Town Planning,Construction not done as per approved plan (Building Bye Law Violations),,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Welfare Schemes,Onti Mane,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,veterinary,Mutton/Chicken/fish stall Unhygienic maintenance,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Solid Waste (Garbage) Related,Garbage nuisance while transporting,SOLID_WASTE,SAN-GARB,0.85,MAPPED,Soft match: garbage keyword
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Solid Waste (Garbage) Related,Garbage dumping in vacant sites,SOLID_WASTE,SAN-DUMP,0.95,MAPPED,Direct match for open dumping
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Solid Waste (Garbage) Related,Public dustbins not cleaned,SOLID_WASTE,SAN-BIN,0.95,MAPPED,Direct match for overflow/uncleaned public dustbin
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Road Maintenance(Engg),water stagnation,STORM_WATER,STM-LOG,0.95,MAPPED,Waterlogging / rainwater inundation
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Road Maintenance(Engg),Road cutting,ROADS_FOOTPATHS,RDW-RD,0.9,MAPPED,Road cutting / asphalt damage
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Town Planning,UnAuthorised Building Constructions,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Electrical,Street Lights Switched On During Day Time,STREET_LIGHTING,ELE-LGT,0.9,MAPPED,Streetlight operational timing defect
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,E khata / Khata services,Ekhata Area Correction,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,veterinary,Stray dog related complaints,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Health Dept,Fogging,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Storm  Water Drain(SWD),Garbage thrown in storm water drain,SOLID_WASTE,SAN-GARB,0.85,MAPPED,Soft match: garbage keyword
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Parks and Play grounds,Environmental protection,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Electrical,Earthing Issue relate to Electric Poles/Panel Boards,STREET_LIGHTING,ELE-POLE,0.9,MAPPED,Damaged pole earthing hazard
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Solid Waste (Garbage) Related,Complaint against SW collector/ SWM official for violation of SWM Rules,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,veterinary,Animal birth control/neutering of stray dogs,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Town Planning,Noise during Building Construction,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Storm  Water Drain(SWD),Maintenance of SWD,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,E khata / Khata services,new Khata / Ekhata registration / creation,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Indira Canteen,Others,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Call Center,Call center Issues,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Health Dept,Delay in issue of Trade licence,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Road Maintenance(Engg),water leakage on road,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Water Crisis,Water related issue,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,E khata / Khata services,Khata / Ekhata mutation / transfer,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,CORONA COVID19,Stockout,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Parks and Play grounds,Issues Related to Parks/Medians/Circles/Island.,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Property Tax services,Unable to generate receipt after property tax payment,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Parks and Play grounds,Gym/Children Play equipment in the parks,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,E khata / Khata services,eKhata - name Mismatch,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Sanitation,Urination in Public/Open Defecation,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Storm  Water Drain(SWD),Sewerage water left in SWD,SEWERAGE_DRAINAGE,SEW-DRAIN,0.85,MAPPED,Soft match: drain keyword
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,veterinary,Pet dog licence,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Health Dept,Unhygienic premises in Hotel etc,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Lakes,Dumping of construction & Demolition waste in to lake,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Optical Fiber Cables (OFC),Without permission digging of road,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,veterinary,Stray cattle related complaints,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Solid Waste (Garbage) Related,Garbage transfer not as per norms & area not kept clean,SOLID_WASTE,SAN-GARB,0.85,MAPPED,Soft match: garbage keyword
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Lakes,Lake not maintained properly,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Advertisement,Unsafe Hoardings,FIRE_DISASTER_SAFETY,SAF-DIS,0.85,MAPPED,Unsafe hoarding collapse hazard
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Health Dept,Zonal Violation of the Building,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Sanitation,Public toilet(s) cleaning,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Projects Central,Potholes,ROADS_FOOTPATHS,RDW-POT,0.9,MAPPED,Soft match: pothole keyword
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,E khata / Khata services,Ekhata in previous owner name,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Indira Canteen,Food Quality,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Markets,Encroachment,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Revenue Department,Unable to generate the property tax challan,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,E khata / Khata services,Do not issue ekhata,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Sanitation,Public toilet(s) blockage,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Property Tax services,Property tax owner name not updated,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Projects Central,Road furnitures,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Property Tax services,unable to generate property tax challan,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Solid Waste (Garbage) Related,Segregation of waste is not done,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Information Technology,App Related Issues,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Health Dept,Birth & Death Registration,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Health Dept,Unavailability of staff,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Town Planning,Delay in issuing building permit,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Plastic,Use of banned single use plastic,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Parks and Play grounds,Play Grounds,GARDENS_TREES,PRK-MAINT,0.9,MAPPED,Public park and playground maintenance
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Information Technology,Others(Technical or Software Issues),,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Lakes,Lake being encroached,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Call Center,others,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Lakes,Lake gates are not opened as per the prescribed timing,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Lakes,Lake fencing damaged,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,veterinary,Stray pig related complaints,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Sanitation,No water supply in public toilet(s),,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Estate,Encroachment,ENCROACHMENT,RDW-ENC,0.9,MAPPED,Municipal land encroachment
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Estate,BBMP  Properties Lease issues,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Markets,Garbage In Market Premises,SOLID_WASTE,SAN-GARB,0.85,MAPPED,Soft match: garbage keyword
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Welfare Schemes,Women Welfare Program,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Markets,Violation of rules by Shop rent / Leaser,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Health Dept,Unhygienic  premises in hospital,PUBLIC_HEALTH,SAN-HYG,0.9,MAPPED,Public health hygiene violation
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Welfare Schemes,Schemes Related to BCM Program,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Indira Canteen,Food Quantity,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Lakes,Dying of fishes in lake,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Parks and Play grounds,Inspection not done,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Indira Canteen,Cleanliness of Utensils,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Education,Infrastructure related Issues.,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Lakes,Lake water misused,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Lakes,Insufficient lake security personnel,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Projects Central,Street light issues,STREET_LIGHTING,ELE-LGT,0.9,MAPPED,Soft match: streetlight keyword
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,CORONA COVID19,Overcharging,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Indira Canteen,Staff Related,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Education,Academic Issues.,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,CORONA COVID19,Others,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Projects Central,Stagnation of water on road/ Water logging,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Lakes,Dumping of garbage into lake,SOLID_WASTE,SAN-GARB,0.85,MAPPED,Soft match: garbage keyword
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Property Tax services,Property tax refund / adjustment,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Indira Canteen,Billing related,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Estate,Violation of rules by property Leasers,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Projects Central,Drainage blockage,SEWERAGE_DRAINAGE,SEW-DRAIN,0.85,MAPPED,Soft match: drain keyword
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Estate,Payment/Rent issues,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Sanitation,No electricity in public toilet(s),PUBLIC_HEALTH,SAN-HYG,0.85,MAPPED,Public toilet sanitation and maintenance
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Health Dept,Indira Canteen,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,BBMP Election Branch,Electoral Roll Objections,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Health Dept,Non availability of vaccines,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,BBMP Election Branch,Epic Details Corrections,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Markets,Payment Issues,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,CORONA COVID19,Some other person affected from COVID,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Markets,Rent Payment,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Markets,Illegal Parking,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Indira Canteen,Cleanliness of Canteen /Food Area,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Indira Canteen,Water quality,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Markets,Trade License,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Welfare Schemes,Issues Regarding SC/ST Schemes.,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Health Dept,Non availability of drugs,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Education,Sports and co- Curricular Activities,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Solid Waste (Garbage) Related,Others,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Indira Canteen,Cleanliness,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Welfare Schemes,Senior  Citizen,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Education,Examination Related Issues,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv,Welfare Schemes,Schemes Related to Physically Abled Person,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Solid Waste (Garbage) Related,Garbage vehicle not arrived,SOLID_WASTE,SAN-GARB,0.95,MAPPED,Direct match for uncollected door-to-door garbage
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Solid Waste (Garbage) Related,Sweeping not done,SOLID_WASTE,SAN-GARB,0.9,MAPPED,Street sweeping and waste collection
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Solid Waste (Garbage) Related,Public dustbins not cleaned,SOLID_WASTE,SAN-BIN,0.95,MAPPED,Direct match for overflow/uncleaned public dustbin
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Solid Waste (Garbage) Related,Dead animal(s),,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Solid Waste (Garbage) Related,Garbage dump,SOLID_WASTE,SAN-DUMP,0.95,MAPPED,Direct match for garbage dump
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Sanitation,No electricity in public toilet(s),PUBLIC_HEALTH,SAN-HYG,0.85,MAPPED,Public toilet sanitation and maintenance
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,CORONA COVID19,Others,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Road Maintenance(Engg),Road side drains,SEWERAGE_DRAINAGE,SEW-DRAIN,0.85,MAPPED,Soft match: drain keyword
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Road Maintenance(Engg),Debris Removal / Construction Material,ROADS_FOOTPATHS,RDW-BLDG,0.9,MAPPED,Construction debris on road
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Others,Others,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Solid Waste (Garbage) Related,Segregation of waste is not done,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Health Dept,Air/Noise pollution,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Electrical,Street Light Not Working,STREET_LIGHTING,ELE-LGT,0.98,MAPPED,Direct match for streetlight outage
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Solid Waste (Garbage) Related,Garbage dumping in vacant sites,SOLID_WASTE,SAN-DUMP,0.95,MAPPED,Direct match for open dumping
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Electrical,Requirement For New Street Lights,STREET_LIGHTING,ELE-LGT,0.9,MAPPED,Streetlight installation request
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Road Maintenance(Engg),Road cutting,ROADS_FOOTPATHS,RDW-RD,0.9,MAPPED,Road cutting / asphalt damage
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Plastic,Use of banned single use plastic,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Storm  Water Drain(SWD),Maintenance of SWD,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Road Maintenance(Engg),water stagnation,STORM_WATER,STM-LOG,0.95,MAPPED,Waterlogging / rainwater inundation
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,veterinary,Stray/Rabid dog bite,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,veterinary,Animal birth control/neutering of stray dogs,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Forest,Removal of dead/fallen trees,GARDENS_TREES,PRK-TREE,0.95,MAPPED,Fallen/dead tree removal
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Road Maintenance(Engg),Potholes,ROADS_FOOTPATHS,RDW-POT,0.98,MAPPED,Direct match for pothole repair
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,veterinary,Stray dog related complaints,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Road Maintenance(Engg),footpath encroachment,ENCROACHMENT,RDW-ENC,0.95,MAPPED,Encroachment on public footpath/walkway
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Electrical,Street Lights Switched On During Day Time,STREET_LIGHTING,ELE-LGT,0.9,MAPPED,Streetlight operational timing defect
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Sanitation,Urination in Public/Open Defecation,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Road Infrastructure,Road Infrastructure,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Town Planning,Construction not done as per approved plan (Building Bye Law Violations),,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Solid Waste (Garbage) Related,Garbage nuisance while transporting,SOLID_WASTE,SAN-GARB,0.85,MAPPED,Soft match: garbage keyword
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Forest,obstructions Branches / Trees.,GARDENS_TREES,PRK-TREE,0.95,MAPPED,Hazardous tree branch trimming
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Parks and Play grounds,Play Grounds,GARDENS_TREES,PRK-MAINT,0.9,MAPPED,Public park and playground maintenance
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Electrical,Park Lights Not Working,STREET_LIGHTING,ELE-LGT,0.9,MAPPED,Park lighting outage
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Health Dept,Increase in mosquito density,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Lakes,Sewage inflow to lake,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Electrical,Earthing Issue relate to Electric Poles/Panel Boards,STREET_LIGHTING,ELE-POLE,0.9,MAPPED,Damaged pole earthing hazard
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Solid Waste (Garbage) Related,Complaint against SW collector/ SWM official for violation of SWM Rules,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Road Maintenance(Engg),Footpath,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Revenue Department,"Khata Services (Registration, Transfer, Bifurcation and Amalgamation)",,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Forest,Issues related Snakes/Birds/Monkeys,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Solid Waste (Garbage) Related,Burning of Garbage in Open Space,SOLID_WASTE,SAN-GARB,0.85,MAPPED,Soft match: garbage keyword
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Electrical,Open Electrical Junction Box,STREET_LIGHTING,ELE-POLE,0.95,MAPPED,Exposed wiring and junction box hazard
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Health Dept,Unhygienic premises in Hotel etc,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Optical Fiber Cables (OFC),Without permission digging of road,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,veterinary,Stray pig related complaints,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,veterinary,Stray cattle related complaints,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,CORONA COVID19,Overcharging,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Town Planning,Noise during Building Construction,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Road Maintenance(Engg),Overhanging cables,STREET_LIGHTING,ELE-POLE,0.85,MAPPED,Low hanging overhead cables
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Solid Waste (Garbage) Related,Garbage transfer not as per norms & area not kept clean,SOLID_WASTE,SAN-GARB,0.85,MAPPED,Soft match: garbage keyword
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Advertisement,Flex and banners,ENCROACHMENT,RDW-ENC,0.9,MAPPED,Illegal flex/banner encroachment
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,CORONA COVID19,Government regulations not being followed,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Revenue Department,Unable to generate the property tax challan,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Sanitation,Public toilet(s) cleaning,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Storm  Water Drain(SWD),Sewerage water left in SWD,SEWERAGE_DRAINAGE,SEW-DRAIN,0.85,MAPPED,Soft match: drain keyword
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Health Dept,Non availability of drugs,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Health Dept,Spraying,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Road Maintenance(Engg),water leakage on road,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,veterinary,Pet dog licence,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Parks and Play grounds,Environmental protection,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Parks and Play grounds,Issues Related to Parks/Medians/Circles/Island.,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,veterinary,Mutton/Chicken/fish stall Unhygienic maintenance,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Health Dept,Delay in issue of Trade licence,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Parks and Play grounds,Gym/Children Play equipment in the parks,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Lakes,Lake not maintained properly,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Welfare Schemes,Senior  Citizen,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Welfare Schemes,Schemes Related to Physically Abled Person,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Revenue Department,Discrepancy In Khata Certificate and Khata Extract,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,veterinary,Anti Rabies Vaccination of stray dogs,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,CORONA COVID19,Some other person affected from COVID,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Advertisement,Unsafe Hoardings,FIRE_DISASTER_SAFETY,SAF-DIS,0.85,MAPPED,Unsafe hoarding collapse hazard
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Lakes,Insufficient lake security personnel,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Lakes,Lake gates are not opened as per the prescribed timing,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Markets,Illegal Parking,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Health Dept,Fogging,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Health Dept,Birth & Death Registration,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Storm  Water Drain(SWD),Garbage thrown in storm water drain,SOLID_WASTE,SAN-GARB,0.85,MAPPED,Soft match: garbage keyword
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Health Dept,Unhygienic  premises in hospital,PUBLIC_HEALTH,SAN-HYG,0.9,MAPPED,Public health hygiene violation
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Sanitation,Public toilet(s) blockage,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Town Planning,UnAuthorised Building Constructions,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Road Maintenance(Engg),UnAuthorised Constructions,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Optical Fiber Cables (OFC),Road cutting,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Lakes,Lake fencing damaged,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Lakes,Dying of fishes in lake,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Lakes,Dumping of garbage into lake,SOLID_WASTE,SAN-GARB,0.85,MAPPED,Soft match: garbage keyword
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Town Planning,Delay in issuing building permit,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Education,Academic Issues.,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Estate,BBMP  Properties Lease issues,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Welfare Schemes,Onti Mane,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Health Dept,Unavailability of staff,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Estate,Encroachment,ENCROACHMENT,RDW-ENC,0.9,MAPPED,Municipal land encroachment
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Revenue Department,Unable to Generate the receipt after property tax payment.,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Lakes,Dumping of construction & Demolition waste in to lake,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Welfare Schemes,Issues Regarding SC/ST Schemes.,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Lakes,Lake being encroached,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Education,Infrastructure related Issues.,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Health Dept,Non availability of vaccines,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Markets,Garbage In Market Premises,SOLID_WASTE,SAN-GARB,0.85,MAPPED,Soft match: garbage keyword
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Lakes,Lake water misused,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Others,Garbage vehicle not arrived,SOLID_WASTE,SAN-GARB,0.85,MAPPED,Soft match: garbage keyword
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Estate,Violation of rules by property Leasers,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Markets,Trade License,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Sanitation,No water supply in public toilet(s),,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Estate,Payment/Rent issues,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,CORONA COVID19,Stockout,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Parks and Play grounds,Sweeping not done,SOLID_WASTE,SAN-GARB,0.85,MAPPED,Soft match: garbage keyword
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Markets,Violation of rules by Shop rent / Leaser,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Education,Examination Related Issues,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,CORONA COVID19,Non availability of vaccines,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Sanitation,Garbage dumping in vacant sites,SOLID_WASTE,SAN-GARB,0.85,MAPPED,Soft match: garbage keyword
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Markets,Encroachment,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Education,Parent-Teachers Meeting,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Welfare Schemes,Women Welfare Program,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+9e7e6892-06b6-4fdc-967a-e4787562f155.csv,Welfare Schemes,Schemes Related to BCM Program,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Electrical,Street Light Not Working,STREET_LIGHTING,ELE-LGT,0.98,MAPPED,Direct match for streetlight outage
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Solid Waste (Garbage) Related,Garbage dump,SOLID_WASTE,SAN-DUMP,0.95,MAPPED,Direct match for garbage dump
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Road Maintenance(Engg),footpath encroachment,ENCROACHMENT,RDW-ENC,0.95,MAPPED,Encroachment on public footpath/walkway
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,veterinary,Stray dog related complaints,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,veterinary,Animal Rescue - Not well - Requires attention,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Forest,obstructions Branches / Trees.,GARDENS_TREES,PRK-TREE,0.95,MAPPED,Hazardous tree branch trimming
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Forest,Removal of dead/fallen trees,GARDENS_TREES,PRK-TREE,0.95,MAPPED,Fallen/dead tree removal
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Health Dept,Unhygienic  premises in hospital,PUBLIC_HEALTH,SAN-HYG,0.9,MAPPED,Public health hygiene violation
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Others,Others,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Road Maintenance(Engg),Potholes,ROADS_FOOTPATHS,RDW-POT,0.98,MAPPED,Direct match for pothole repair
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,veterinary,Anti Rabies Vaccination of stray dogs,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Road Maintenance(Engg),Road side drains,SEWERAGE_DRAINAGE,SEW-DRAIN,0.85,MAPPED,Soft match: drain keyword
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,veterinary,shifting of the street dogs to other places,GARDENS_TREES,PRK-TREE,0.9,MAPPED,Soft match: tree keyword
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Solid Waste (Garbage) Related,Garbage dumping in vacant sites,SOLID_WASTE,SAN-DUMP,0.95,MAPPED,Direct match for open dumping
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Solid Waste (Garbage) Related,Sweeping not done,SOLID_WASTE,SAN-GARB,0.9,MAPPED,Street sweeping and waste collection
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Storm  Water Drain(SWD),Sewerage water left in SWD,SEWERAGE_DRAINAGE,SEW-DRAIN,0.85,MAPPED,Soft match: drain keyword
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,veterinary,Fatally injured - Needs immediate attention,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Solid Waste (Garbage) Related,Garbage transfer not as per norms & area not kept clean,SOLID_WASTE,SAN-GARB,0.85,MAPPED,Soft match: garbage keyword
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Solid Waste (Garbage) Related,Garbage vehicle not arrived,SOLID_WASTE,SAN-GARB,0.95,MAPPED,Direct match for uncollected door-to-door garbage
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Road Maintenance(Engg),Road cutting,ROADS_FOOTPATHS,RDW-RD,0.9,MAPPED,Road cutting / asphalt damage
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Road Maintenance(Engg),water stagnation,STORM_WATER,STM-LOG,0.95,MAPPED,Waterlogging / rainwater inundation
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Electrical,Requirement For New Street Lights,STREET_LIGHTING,ELE-LGT,0.9,MAPPED,Streetlight installation request
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Advertisement,Flex and banners,ENCROACHMENT,RDW-ENC,0.9,MAPPED,Illegal flex/banner encroachment
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,veterinary,Collect the food available to feed dogs,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Electrical,Park Lights Not Working,STREET_LIGHTING,ELE-LGT,0.9,MAPPED,Park lighting outage
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Storm  Water Drain(SWD),Maintenance of SWD,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Parks and Play grounds,Issues Related to Parks/Medians/Circles/Island.,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Road Maintenance(Engg),Debris Removal / Construction Material,ROADS_FOOTPATHS,RDW-BLDG,0.9,MAPPED,Construction debris on road
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Road Infrastructure,Road Infrastructure,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Road Maintenance(Engg),Footpath,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Solid Waste (Garbage) Related,Dead animal(s),,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Electrical,Earthing Issue relate to Electric Poles/Panel Boards,STREET_LIGHTING,ELE-POLE,0.9,MAPPED,Damaged pole earthing hazard
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Health Dept,Increase in mosquito density,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Solid Waste (Garbage) Related,Burning of Garbage in Open Space,SOLID_WASTE,SAN-GARB,0.85,MAPPED,Soft match: garbage keyword
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,E khata / Khata services,Technical Issue In Ekhata,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Plastic,Use of banned single use plastic,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,veterinary,Feeder Harassment  by Individual / Mob but no association,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,veterinary,Animal birth control/neutering of stray dogs,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Revenue Department,Discrepancy In Khata Certificate and Khata Extract,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,E khata / Khata services,Khata / Ekhata mutation / transfer,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Town Planning,Construction not done as per approved plan (Building Bye Law Violations),,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Parks and Play grounds,Gym/Children Play equipment in the parks,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,E khata / Khata services,Ekhata missing in online,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,E khata / Khata services,Ekhata - name correction,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Revenue Department,"Khata Services (Registration, Transfer, Bifurcation and Amalgamation)",,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Sanitation,Public toilet(s) blockage,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Health Dept,Dengue positive,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Sanitation,Urination in Public/Open Defecation,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Information Technology,Others(Technical or Software Issues),,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Information Technology,App Related Issues,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Traffic Engineer Cell (TEC),TEC,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Road Maintenance(Engg),water leakage on road,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Solid Waste (Garbage) Related,Garbage nuisance while transporting,SOLID_WASTE,SAN-GARB,0.85,MAPPED,Soft match: garbage keyword
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,E khata / Khata services,Other Khata / ekhata issues,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,E khata / Khata services,ekhata approval pending with ARO,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Health Dept,Unhygienic premises in Hotel etc,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Electrical,Street Lights Switched On During Day Time,STREET_LIGHTING,ELE-LGT,0.9,MAPPED,Streetlight operational timing defect
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Solid Waste (Garbage) Related,Public dustbins not cleaned,SOLID_WASTE,SAN-BIN,0.95,MAPPED,Direct match for overflow/uncleaned public dustbin
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,veterinary,Stray/Rabid dog bite,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Town Planning,UnAuthorised Building Constructions,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Health Dept,Air/Noise pollution,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,veterinary,Street dog Adaptation process details,GARDENS_TREES,PRK-TREE,0.9,MAPPED,Soft match: tree keyword
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Road Maintenance(Engg),Overhanging cables,STREET_LIGHTING,ELE-POLE,0.85,MAPPED,Low hanging overhead cables
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Solid Waste (Garbage) Related,Segregation of waste is not done,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,veterinary,Stray cattle related complaints,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Road Maintenance(Engg),UnAuthorised Constructions,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,veterinary,Animal Cruelty/Ill-Treated / Abused,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Health Dept,Spraying,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Solid Waste (Garbage) Related,Complaint against SW collector/ SWM official for violation of SWM Rules,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,E khata / Khata services,Ekhata Other corrections,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,veterinary,Dog bite pet dog,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Markets,Encroachment,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Storm  Water Drain(SWD),Garbage thrown in storm water drain,SOLID_WASTE,SAN-GARB,0.85,MAPPED,Soft match: garbage keyword
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,E khata / Khata services,Ekhata in previous owner name,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Estate,Encroachment,ENCROACHMENT,RDW-ENC,0.9,MAPPED,Municipal land encroachment
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,veterinary,Animal Death Need to file FIR,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,veterinary,Animal Cruelty/Relocated,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Sanitation,Public toilet(s) cleaning,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Indira Canteen,Others,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Optical Fiber Cables (OFC),Without permission digging of road,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Health Dept,Zonal Violation of the Building,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Parks and Play grounds,Play Grounds,GARDENS_TREES,PRK-MAINT,0.9,MAPPED,Public park and playground maintenance
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,veterinary,Street dogs attacking-pet Dogs,GARDENS_TREES,PRK-TREE,0.9,MAPPED,Soft match: tree keyword
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,veterinary,"Dog, cat Poor conditions / Breeding license validation",,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Indira Canteen,Food Quality,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Forest,Issues related Snakes/Birds/Monkeys,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Health Dept,Unavailability of staff,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Revenue Department,Unable to generate the property tax challan,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Health Dept,Fogging,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,veterinary,Feeder Harassment by Association / Gated Community,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,E khata / Khata services,eKhata - name Mismatch,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Advertisement,Unsafe Hoardings,FIRE_DISASTER_SAFETY,SAF-DIS,0.85,MAPPED,Unsafe hoarding collapse hazard
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,veterinary,Request for ABC,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Education,Examination Related Issues,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,veterinary,Stray pig related complaints,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Lakes,Lake not maintained properly,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Markets,Trade License,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Electrical,Open Electrical Junction Box,STREET_LIGHTING,ELE-POLE,0.95,MAPPED,Exposed wiring and junction box hazard
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Health Dept,Birth & Death Registration,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Sanitation,No electricity in public toilet(s),PUBLIC_HEALTH,SAN-HYG,0.85,MAPPED,Public toilet sanitation and maintenance
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,veterinary,Illegal pet shop / Animal cruelty / license check,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Welfare Schemes,Senior  Citizen,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Lakes,Dying of fishes in lake,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,E khata / Khata services,Ekhata Area Correction,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,veterinary,Pet dog licence,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Water Crisis,Water related issue,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Revenue Department,Unable to Generate the receipt after property tax payment.,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,veterinary,Aged street dogs please take action,GARDENS_TREES,PRK-TREE,0.9,MAPPED,Soft match: tree keyword
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Town Planning,Noise during Building Construction,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,E khata / Khata services,new Khata / Ekhata registration / creation,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Projects Central,Potholes,ROADS_FOOTPATHS,RDW-POT,0.9,MAPPED,Soft match: pothole keyword
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,veterinary,Animal Surgery gone wrong,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Projects Central,Stagnation of water on road/ Water logging,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,veterinary,Mutton/Chicken/fish stall Unhygienic maintenance,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Lakes,Dumping of garbage into lake,SOLID_WASTE,SAN-GARB,0.85,MAPPED,Soft match: garbage keyword
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Parks and Play grounds,Environmental protection,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Revenue Department,Others (JC),,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,veterinary,Awareness session / Request for a session,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Indira Canteen,Cleanliness of Canteen /Food Area,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Indira Canteen,Food Quantity,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Lakes,Lake fencing damaged,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Health Dept,Indira Canteen,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Lakes,Sewage inflow to lake,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Markets,Violation of rules by Shop rent / Leaser,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Estate,BBMP  Properties Lease issues,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Call Center,Call center Issues,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Estate,Violation of rules by property Leasers,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Property Tax services,unable to generate property tax challan,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Markets,Garbage In Market Premises,SOLID_WASTE,SAN-GARB,0.85,MAPPED,Soft match: garbage keyword
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,veterinary,Animal Death Need cremartion support,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Call Center,others,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Lakes,Dumping of construction & Demolition waste in to lake,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Property Tax services,Unable to generate receipt after property tax payment,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,E khata / Khata services,Do not issue ekhata,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Town Planning,Delay in issuing building permit,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Projects Central,Road furnitures,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Health Dept,Delay in issue of Trade licence,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,CORONA COVID19,Stockout,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Sanitation,No water supply in public toilet(s),,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,veterinary,Need NGO's location and details,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Property Tax services,Property tax owner name not updated,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Health Dept,Non availability of vaccines,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,veterinary,Animal died post surgery,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,BBMP Election Branch,Electoral Roll Objections,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Property Tax services,Other property tax issues,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,CORONA COVID19,Overcharging,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,veterinary,Request for ARV,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Parks and Play grounds,Inspection not done,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Lakes,Lake gates are not opened as per the prescribed timing,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Markets,Illegal Parking,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Lakes,Lake being encroached,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Indira Canteen,Cleanliness,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,veterinary,"""Pet licensing / Pet shop licensing  / Breeder licensing """,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Lakes,Insufficient lake security personnel,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Indira Canteen,Staff Related,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,CORONA COVID19,Some other person affected from COVID,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Projects Central,Drainage blockage,SEWERAGE_DRAINAGE,SEW-DRAIN,0.85,MAPPED,Soft match: drain keyword
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Property Tax services,Issues in property tax portal,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Welfare Schemes,Onti Mane,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,CORONA COVID19,Others,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,veterinary,Request for New feeder Points,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Education,Infrastructure related Issues.,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Indira Canteen,Water quality,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Indira Canteen,Billing related,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,veterinary,Animal caught disease post surgery,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Welfare Schemes,Schemes Related to BCM Program,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Indira Canteen,Cleanliness of Utensils,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Property Tax services,Property tax refund / adjustment,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Health Dept,Non availability of drugs,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Lakes,Inspection not done,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Welfare Schemes,Women Welfare Program,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Welfare Schemes,Issues Regarding SC/ST Schemes.,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Estate,Payment/Rent issues,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Projects Central,Street light issues,STREET_LIGHTING,ELE-LGT,0.9,MAPPED,Soft match: streetlight keyword
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Education,Academic Issues.,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Lakes,Lake water misused,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Road Maintenance(Engg),Street Light Not Working,STREET_LIGHTING,ELE-LGT,0.9,MAPPED,Soft match: streetlight keyword
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,BBMP Election Branch,Epic Details Corrections,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,veterinary,Animal died post vaccination,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,veterinary,Illegal meat shop / Animal cruelty / license check,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Education,Parent-Teachers Meeting,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,CORONA COVID19,Government regulations not being followed,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Welfare Schemes,Schemes Related to Physically Abled Person,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,E khata / Khata services,eKhata amalgamation,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b0d6e9ff-5eef-48bf-ba86-985dbe8112d1.csv,Markets,Rent Payment,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Solid Waste (Garbage) Related,Dead animal(s),,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Electrical,Street Light Not Working,STREET_LIGHTING,ELE-LGT,0.98,MAPPED,Direct match for streetlight outage
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,veterinary,Animal birth control/neutering of stray dogs,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Solid Waste (Garbage) Related,Garbage vehicle not arrived,SOLID_WASTE,SAN-GARB,0.95,MAPPED,Direct match for uncollected door-to-door garbage
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Road Maintenance(Engg),footpath encroachment,ENCROACHMENT,RDW-ENC,0.95,MAPPED,Encroachment on public footpath/walkway
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Solid Waste (Garbage) Related,Sweeping not done,SOLID_WASTE,SAN-GARB,0.9,MAPPED,Street sweeping and waste collection
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Road Infrastructure,Road Infrastructure,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Road Maintenance(Engg),Potholes,ROADS_FOOTPATHS,RDW-POT,0.98,MAPPED,Direct match for pothole repair
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,veterinary,Stray dog related complaints,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Lakes,Sewage inflow to lake,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Lakes,Dumping of garbage into lake,SOLID_WASTE,SAN-GARB,0.85,MAPPED,Soft match: garbage keyword
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Road Maintenance(Engg),Road side drains,SEWERAGE_DRAINAGE,SEW-DRAIN,0.85,MAPPED,Soft match: drain keyword
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Forest,Removal of dead/fallen trees,GARDENS_TREES,PRK-TREE,0.95,MAPPED,Fallen/dead tree removal
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,veterinary,Anti Rabies Vaccination of stray dogs,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Lakes,Lake not maintained properly,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Solid Waste (Garbage) Related,Burning of Garbage in Open Space,SOLID_WASTE,SAN-GARB,0.85,MAPPED,Soft match: garbage keyword
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Solid Waste (Garbage) Related,Garbage dump,SOLID_WASTE,SAN-DUMP,0.95,MAPPED,Direct match for garbage dump
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Electrical,Earthing Issue relate to Electric Poles/Panel Boards,STREET_LIGHTING,ELE-POLE,0.9,MAPPED,Damaged pole earthing hazard
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Advertisement,Flex and banners,ENCROACHMENT,RDW-ENC,0.9,MAPPED,Illegal flex/banner encroachment
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,veterinary,Stray cattle related complaints,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Solid Waste (Garbage) Related,Garbage nuisance while transporting,SOLID_WASTE,SAN-GARB,0.85,MAPPED,Soft match: garbage keyword
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Revenue Department,"Khata Services (Registration, Transfer, Bifurcation and Amalgamation)",,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Road Maintenance(Engg),Road cutting,ROADS_FOOTPATHS,RDW-RD,0.9,MAPPED,Road cutting / asphalt damage
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Electrical,Street Lights Switched On During Day Time,STREET_LIGHTING,ELE-LGT,0.9,MAPPED,Streetlight operational timing defect
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Electrical,Open Electrical Junction Box,STREET_LIGHTING,ELE-POLE,0.95,MAPPED,Exposed wiring and junction box hazard
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Road Maintenance(Engg),Footpath,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Health Dept,Air/Noise pollution,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Road Maintenance(Engg),Debris Removal / Construction Material,ROADS_FOOTPATHS,RDW-BLDG,0.9,MAPPED,Construction debris on road
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Solid Waste (Garbage) Related,Garbage dumping in vacant sites,SOLID_WASTE,SAN-DUMP,0.95,MAPPED,Direct match for open dumping
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Road Maintenance(Engg),water leakage on road,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Forest,obstructions Branches / Trees.,GARDENS_TREES,PRK-TREE,0.95,MAPPED,Hazardous tree branch trimming
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Health Dept,Spraying,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Optical Fiber Cables (OFC),Without permission digging of road,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Others,Others,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Solid Waste (Garbage) Related,Garbage transfer not as per norms & area not kept clean,SOLID_WASTE,SAN-GARB,0.85,MAPPED,Soft match: garbage keyword
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Road Maintenance(Engg),Overhanging cables,STREET_LIGHTING,ELE-POLE,0.85,MAPPED,Low hanging overhead cables
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Welfare Schemes,Onti Mane,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Electrical,Requirement For New Street Lights,STREET_LIGHTING,ELE-LGT,0.9,MAPPED,Streetlight installation request
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Storm  Water Drain(SWD),Maintenance of SWD,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Electrical,Park Lights Not Working,STREET_LIGHTING,ELE-LGT,0.9,MAPPED,Park lighting outage
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,CORONA COVID19,Government regulations not being followed,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Parks and Play grounds,Environmental protection,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Town Planning,Delay in issuing building permit,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Road Maintenance(Engg),UnAuthorised Constructions,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Sanitation,Public toilet(s) blockage,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Health Dept,Increase in mosquito density,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Revenue Department,Unable to Generate the receipt after property tax payment.,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Revenue Department,Unable to generate the property tax challan,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Road Maintenance(Engg),water stagnation,STORM_WATER,STM-LOG,0.95,MAPPED,Waterlogging / rainwater inundation
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Estate,Encroachment,ENCROACHMENT,RDW-ENC,0.9,MAPPED,Municipal land encroachment
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Parks and Play grounds,Gym/Children Play equipment in the parks,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Parks and Play grounds,Play Grounds,GARDENS_TREES,PRK-MAINT,0.9,MAPPED,Public park and playground maintenance
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Town Planning,Construction not done as per approved plan (Building Bye Law Violations),,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Parks and Play grounds,Issues Related to Parks/Medians/Circles/Island.,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Advertisement,Unsafe Hoardings,FIRE_DISASTER_SAFETY,SAF-DIS,0.85,MAPPED,Unsafe hoarding collapse hazard
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Health Dept,Unhygienic premises in Hotel etc,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Forest,Issues related Snakes/Birds/Monkeys,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Solid Waste (Garbage) Related,Complaint against SW collector/ SWM official for violation of SWM Rules,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Storm  Water Drain(SWD),Sewerage water left in SWD,SEWERAGE_DRAINAGE,SEW-DRAIN,0.85,MAPPED,Soft match: drain keyword
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Sanitation,Urination in Public/Open Defecation,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Traffic Engineer Cell (TEC),TEC,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,CORONA COVID19,Others,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Sanitation,Public toilet(s) cleaning,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Sanitation,No water supply in public toilet(s),,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Storm  Water Drain(SWD),Garbage thrown in storm water drain,SOLID_WASTE,SAN-GARB,0.85,MAPPED,Soft match: garbage keyword
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Town Planning,Noise during Building Construction,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Solid Waste (Garbage) Related,Public dustbins not cleaned,SOLID_WASTE,SAN-BIN,0.95,MAPPED,Direct match for overflow/uncleaned public dustbin
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,veterinary,Stray pig related complaints,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,veterinary,Mutton/Chicken/fish stall Unhygienic maintenance,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,BBMP Election Branch,Epic Details Corrections,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,veterinary,Stray/Rabid dog bite,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,BBMP Election Branch,Electoral Roll Objections,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Health Dept,Birth & Death Registration,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Health Dept,Delay in issue of Trade licence,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Call Center,others,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Welfare Schemes,Women Welfare Program,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Revenue Department,Discrepancy In Khata Certificate and Khata Extract,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Health Dept,Fogging,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Solid Waste (Garbage) Related,Segregation of waste is not done,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Lakes,Dumping of construction & Demolition waste in to lake,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Lakes,Lake gates are not opened as per the prescribed timing,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Welfare Schemes,Issues Regarding SC/ST Schemes.,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Health Dept,Unhygienic  premises in hospital,PUBLIC_HEALTH,SAN-HYG,0.9,MAPPED,Public health hygiene violation
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Education,Academic Issues.,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Health Dept,Unavailability of staff,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Lakes,Lake fencing damaged,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Lakes,Dying of fishes in lake,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Lakes,Insufficient lake security personnel,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Plastic,Use of banned single use plastic,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Education,Infrastructure related Issues.,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Lakes,Lake being encroached,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Welfare Schemes,Schemes Related to BCM Program,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,CORONA COVID19,Overcharging,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Town Planning,UnAuthorised Building Constructions,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Markets,Illegal Parking,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Sanitation,No electricity in public toilet(s),PUBLIC_HEALTH,SAN-HYG,0.85,MAPPED,Public toilet sanitation and maintenance
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,veterinary,Pet dog licence,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Lakes,Lake water misused,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Welfare Schemes,Senior  Citizen,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Estate,Payment/Rent issues,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Education,Sports and co- Curricular Activities,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Education,Examination Related Issues,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Estate,Violation of rules by property Leasers,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Markets,Violation of rules by Shop rent / Leaser,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,CORONA COVID19,Stockout,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,CORONA COVID19,Some other person affected from COVID,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Health Dept,Non availability of drugs,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Major Roads,Road Infrastructure,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Health Dept,Non availability of vaccines,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Road Maintenance(Engg),Overcharging,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Markets,Encroachment,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+b4dd8dd1-1628-4f35-9247-ef5afaad214d.csv,Welfare Schemes,Schemes Related to Physically Abled Person,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Road Maintenance(Engg),Road cutting,ROADS_FOOTPATHS,RDW-RD,0.9,MAPPED,Road cutting / asphalt damage
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Electrical,Street Light Not Working,STREET_LIGHTING,ELE-LGT,0.98,MAPPED,Direct match for streetlight outage
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Forest,obstructions Branches / Trees.,GARDENS_TREES,PRK-TREE,0.95,MAPPED,Hazardous tree branch trimming
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Solid Waste (Garbage) Related,Garbage transfer not as per norms & area not kept clean,SOLID_WASTE,SAN-GARB,0.85,MAPPED,Soft match: garbage keyword
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Road Maintenance(Engg),Debris Removal / Construction Material,ROADS_FOOTPATHS,RDW-BLDG,0.9,MAPPED,Construction debris on road
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Revenue Department,"Khata Services (Registration, Transfer, Bifurcation and Amalgamation)",,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Electrical,Requirement For New Street Lights,STREET_LIGHTING,ELE-LGT,0.9,MAPPED,Streetlight installation request
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Solid Waste (Garbage) Related,Garbage dump,SOLID_WASTE,SAN-DUMP,0.95,MAPPED,Direct match for garbage dump
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Solid Waste (Garbage) Related,Sweeping not done,SOLID_WASTE,SAN-GARB,0.9,MAPPED,Street sweeping and waste collection
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Road Infrastructure,Road Infrastructure,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Road Maintenance(Engg),Potholes,ROADS_FOOTPATHS,RDW-POT,0.98,MAPPED,Direct match for pothole repair
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Health Dept,Indira Canteen,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,veterinary,Stray dog related complaints,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Town Planning,Construction not done as per approved plan (Building Bye Law Violations),,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Plastic,Use of banned single use plastic,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Electrical,Park Lights Not Working,STREET_LIGHTING,ELE-LGT,0.9,MAPPED,Park lighting outage
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Road Maintenance(Engg),footpath encroachment,ENCROACHMENT,RDW-ENC,0.95,MAPPED,Encroachment on public footpath/walkway
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Forest,Issues related Snakes/Birds/Monkeys,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Storm  Water Drain(SWD),Garbage thrown in storm water drain,SOLID_WASTE,SAN-GARB,0.85,MAPPED,Soft match: garbage keyword
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Road Maintenance(Engg),Road side drains,SEWERAGE_DRAINAGE,SEW-DRAIN,0.85,MAPPED,Soft match: drain keyword
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Sanitation,Public toilet(s) blockage,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Solid Waste (Garbage) Related,Public dustbins not cleaned,SOLID_WASTE,SAN-BIN,0.95,MAPPED,Direct match for overflow/uncleaned public dustbin
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Solid Waste (Garbage) Related,Burning of Garbage in Open Space,SOLID_WASTE,SAN-GARB,0.85,MAPPED,Soft match: garbage keyword
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Others,Others,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Solid Waste (Garbage) Related,Dead animal(s),,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Solid Waste (Garbage) Related,Garbage vehicle not arrived,SOLID_WASTE,SAN-GARB,0.95,MAPPED,Direct match for uncollected door-to-door garbage
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Solid Waste (Garbage) Related,Complaint against SW collector/ SWM official for violation of SWM Rules,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Advertisement,Flex and banners,ENCROACHMENT,RDW-ENC,0.9,MAPPED,Illegal flex/banner encroachment
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Storm  Water Drain(SWD),Maintenance of SWD,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Road Maintenance(Engg),UnAuthorised Constructions,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Electrical,Street Lights Switched On During Day Time,STREET_LIGHTING,ELE-LGT,0.9,MAPPED,Streetlight operational timing defect
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,veterinary,Animal birth control/neutering of stray dogs,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Forest,Removal of dead/fallen trees,GARDENS_TREES,PRK-TREE,0.95,MAPPED,Fallen/dead tree removal
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Electrical,Earthing Issue relate to Electric Poles/Panel Boards,STREET_LIGHTING,ELE-POLE,0.9,MAPPED,Damaged pole earthing hazard
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Sanitation,Public toilet(s) cleaning,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Road Maintenance(Engg),Footpath,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Road Maintenance(Engg),Overhanging cables,STREET_LIGHTING,ELE-POLE,0.85,MAPPED,Low hanging overhead cables
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Health Dept,Fogging,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Health Dept,Spraying,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Solid Waste (Garbage) Related,Garbage dumping in vacant sites,SOLID_WASTE,SAN-DUMP,0.95,MAPPED,Direct match for open dumping
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Health Dept,Air/Noise pollution,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Town Planning,UnAuthorised Building Constructions,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Electrical,Open Electrical Junction Box,STREET_LIGHTING,ELE-POLE,0.95,MAPPED,Exposed wiring and junction box hazard
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Road Maintenance(Engg),water leakage on road,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Lakes,Dying of fishes in lake,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,veterinary,Mutton/Chicken/fish stall Unhygienic maintenance,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Sanitation,Urination in Public/Open Defecation,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Solid Waste (Garbage) Related,Segregation of waste is not done,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Health Dept,Increase in mosquito density,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Revenue Department,Unable to generate the property tax challan,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Parks and Play grounds,Gym/Children Play equipment in the parks,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Road Maintenance(Engg),water stagnation,STORM_WATER,STM-LOG,0.95,MAPPED,Waterlogging / rainwater inundation
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Parks and Play grounds,Play Grounds,GARDENS_TREES,PRK-MAINT,0.9,MAPPED,Public park and playground maintenance
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Estate,Encroachment,ENCROACHMENT,RDW-ENC,0.9,MAPPED,Municipal land encroachment
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,veterinary,Pet dog licence,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Lakes,Lake not maintained properly,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Parks and Play grounds,Issues Related to Parks/Medians/Circles/Island.,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Town Planning,Noise during Building Construction,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Health Dept,Delay in issue of Trade licence,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Health Dept,Birth & Death Registration,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Health Dept,Unhygienic premises in Hotel etc,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Information Technology,App Related Issues,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Lakes,Insufficient lake security personnel,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Parks and Play grounds,Environmental protection,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,veterinary,Stray/Rabid dog bite,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Lakes,Sewage inflow to lake,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,CORONA COVID19,Others,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Revenue Department,Unable to Generate the receipt after property tax payment.,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Revenue Department,Discrepancy In Khata Certificate and Khata Extract,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Lakes,Lake fencing damaged,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Markets,Encroachment,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Storm  Water Drain(SWD),Sewerage water left in SWD,SEWERAGE_DRAINAGE,SEW-DRAIN,0.85,MAPPED,Soft match: drain keyword
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,veterinary,Stray cattle related complaints,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,veterinary,Anti Rabies Vaccination of stray dogs,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Information Technology,Others(Technical or Software Issues),,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Solid Waste (Garbage) Related,Garbage nuisance while transporting,SOLID_WASTE,SAN-GARB,0.85,MAPPED,Soft match: garbage keyword
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Optical Fiber Cables (OFC),Without permission digging of road,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Welfare Schemes,Issues Regarding SC/ST Schemes.,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Estate,Violation of rules by property Leasers,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Welfare Schemes,Women Welfare Program,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Advertisement,Unsafe Hoardings,FIRE_DISASTER_SAFETY,SAF-DIS,0.85,MAPPED,Unsafe hoarding collapse hazard
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Lakes,Lake being encroached,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Call Center,Call center Issues,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Indira Canteen,Food Quantity,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Sanitation,No electricity in public toilet(s),PUBLIC_HEALTH,SAN-HYG,0.85,MAPPED,Public toilet sanitation and maintenance
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Health Dept,Unhygienic  premises in hospital,PUBLIC_HEALTH,SAN-HYG,0.9,MAPPED,Public health hygiene violation
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,veterinary,Stray pig related complaints,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Traffic Engineer Cell (TEC),TEC,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Water Crisis,Water related issue,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Lakes,Lake gates are not opened as per the prescribed timing,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Lakes,Dumping of garbage into lake,SOLID_WASTE,SAN-GARB,0.85,MAPPED,Soft match: garbage keyword
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Indira Canteen,Others,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Lakes,Lake water misused,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Health Dept,Zonal Violation of the Building,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Welfare Schemes,Onti Mane,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,BBMP Election Branch,Epic Details Corrections,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Indira Canteen,Staff Related,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Indira Canteen,Food Quality,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Health Dept,Non availability of drugs,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Estate,Payment/Rent issues,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Education,Infrastructure related Issues.,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Health Dept,Unavailability of staff,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Projects Central,Potholes,ROADS_FOOTPATHS,RDW-POT,0.9,MAPPED,Soft match: pothole keyword
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,CORONA COVID19,Government regulations not being followed,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Indira Canteen,Billing related,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Indira Canteen,Cleanliness,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Lakes,Dumping of construction & Demolition waste in to lake,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Markets,Illegal Parking,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Town Planning,Delay in issuing building permit,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Sanitation,No water supply in public toilet(s),,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Major Roads,Food Quality,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Call Center,others,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Indira Canteen,Cleanliness of Canteen /Food Area,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,CORONA COVID19,Some other person affected from COVID,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,BBMP Election Branch,Electoral Roll Objections,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Road Infrastructure,Illegal Parking,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Health Dept,Non availability of vaccines,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Welfare Schemes,Senior  Citizen,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,CORONA COVID19,Stockout,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Welfare Schemes,Schemes Related to BCM Program,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Welfare Schemes,Schemes Related to Physically Abled Person,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Markets,Payment Issues,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,CORONA COVID19,Overcharging,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Markets,Trade License,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Road Maintenance(Engg),Garbage vehicle not arrived,SOLID_WASTE,SAN-GARB,0.85,MAPPED,Soft match: garbage keyword
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Markets,Violation of rules by Shop rent / Leaser,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains
+d4419a76-e2af-44b3-aa25-369c85126f0f.csv,Education,Academic Issues.,,,0.0,UNMAPPED,Administrative / Non-municipal category outside 15 AI domains

@@ -1,0 +1,308 @@
+{
+  "validation_samples_count": 504,
+  "correct_predictions_count": 384,
+  "incorrect_predictions_count": 120,
+  "average_similarity_correct": 0.7533,
+  "average_similarity_incorrect": 0.6331,
+  "average_margin_correct": 0.228,
+  "average_margin_incorrect": 0.0457,
+  "false_positive_high_confidence_count": 53,
+  "recommended_embedding_similarity_threshold": 0.7,
+  "recommended_embedding_margin_threshold": 0.1,
+  "false_positive_examples": [
+    {
+      "id": "CF-SYN-4062",
+      "complaint_text": "Kachra aani plastic jalala jaat aahe Deccan Gymkhana madhe, khup dhur hotoe.",
+      "ground_truth": "PRK-AIR",
+      "predicted_category": "SAN-BIN",
+      "raw_similarity": 0.6866,
+      "margin": 0.0139,
+      "top_predictions": [
+        {
+          "code": "SAN-BIN",
+          "score": 0.6866
+        },
+        {
+          "code": "SAN-GARB",
+          "score": 0.6727
+        },
+        {
+          "code": "SAN-SWEEP",
+          "score": 0.5165
+        }
+      ]
+    },
+    {
+      "id": "CF-SYN-1629",
+      "complaint_text": "Panyacha dab khup kamya aahe Pashan madhe, pani var chadhat nahi.",
+      "ground_truth": "WTR-PRES",
+      "predicted_category": "SAN-GARB",
+      "raw_similarity": 0.6808,
+      "margin": 0.0431,
+      "top_predictions": [
+        {
+          "code": "SAN-GARB",
+          "score": 0.6808
+        },
+        {
+          "code": "SAN-SWEEP",
+          "score": 0.6377
+        },
+        {
+          "code": "SAN-BIN",
+          "score": 0.583
+        }
+      ]
+    },
+    {
+      "id": "CF-SYN-2153",
+      "complaint_text": "Khadde padle aahet Bavdhan main road var, rasta kharab zala aahe.",
+      "ground_truth": "RDW-POT",
+      "predicted_category": "RDW-ENC",
+      "raw_similarity": 0.7001,
+      "margin": 0.0,
+      "top_predictions": [
+        {
+          "code": "RDW-ENC",
+          "score": 0.7001
+        }
+      ]
+    },
+    {
+      "id": "CF-SYN-1220",
+      "complaint_text": "Sarvajanik kachra kundi tutli aahe aani Shivajinagar madhe kachra bahaar ala aahe. Lokana khup tras hoto aahe.",
+      "ground_truth": "SAN-BIN",
+      "predicted_category": "SAN-GARB",
+      "raw_similarity": 0.7161,
+      "margin": 0.0449,
+      "top_predictions": [
+        {
+          "code": "SAN-GARB",
+          "score": 0.7161
+        },
+        {
+          "code": "SAN-SWEEP",
+          "score": 0.6712
+        },
+        {
+          "code": "SAN-BIN",
+          "score": 0.6683
+        }
+      ]
+    },
+    {
+      "id": "CF-SYN-1016",
+      "complaint_text": "Garbage vehicle has not arrived since Monday in Koregaon Park. Trash is piling up outside buildings.",
+      "ground_truth": "SAN-GARB",
+      "predicted_category": "SAN-DUMP",
+      "raw_similarity": 0.7438,
+      "margin": 0.0702,
+      "top_predictions": [
+        {
+          "code": "SAN-DUMP",
+          "score": 0.7438
+        },
+        {
+          "code": "SAN-GARB",
+          "score": 0.6736
+        },
+        {
+          "code": "SAN-BIN",
+          "score": 0.4864
+        }
+      ]
+    },
+    {
+      "id": "CF-SYN-2231",
+      "complaint_text": "Broken sidewalk tiles and uneven pavement on main road in Warje.",
+      "ground_truth": "RDW-WALK",
+      "predicted_category": "RDW-RD",
+      "raw_similarity": 0.7994,
+      "margin": 0.0026,
+      "top_predictions": [
+        {
+          "code": "RDW-RD",
+          "score": 0.7994
+        },
+        {
+          "code": "RDW-WALK",
+          "score": 0.7968
+        },
+        {
+          "code": "RDW-POT",
+          "score": 0.6937
+        }
+      ]
+    },
+    {
+      "id": "CF-SYN-4032",
+      "complaint_text": "Dhur aani dhul hazard zali aahe Magarpatta residentials madhe. Urgent action ghyaychi garaj aahe.",
+      "ground_truth": "PRK-AIR",
+      "predicted_category": "SAN-SWEEP",
+      "raw_similarity": 0.7125,
+      "margin": 0.0005,
+      "top_predictions": [
+        {
+          "code": "SAN-SWEEP",
+          "score": 0.7125
+        },
+        {
+          "code": "SAN-GARB",
+          "score": 0.712
+        },
+        {
+          "code": "SAN-BIN",
+          "score": 0.652
+        }
+      ]
+    },
+    {
+      "id": "CF-SYN-2295",
+      "complaint_text": "Pedestrian footpath kharab zala aahe Yerwada madhe.",
+      "ground_truth": "RDW-WALK",
+      "predicted_category": "RDW-ENC",
+      "raw_similarity": 0.7834,
+      "margin": 0.0,
+      "top_predictions": [
+        {
+          "code": "RDW-ENC",
+          "score": 0.7834
+        }
+      ]
+    },
+    {
+      "id": "CF-SYN-2089",
+      "complaint_text": "Stormwater channel clogged zali aahe Camp near market.",
+      "ground_truth": "STM-DRN",
+      "predicted_category": "STM-LOG",
+      "raw_similarity": 0.6667,
+      "margin": 0.0312,
+      "top_predictions": [
+        {
+          "code": "STM-LOG",
+          "score": 0.6667
+        },
+        {
+          "code": "STM-DRN",
+          "score": 0.6355
+        }
+      ]
+    },
+    {
+      "id": "CF-SYN-1550",
+      "complaint_text": "Dirty water with sediment receiving during water supply hours in Sinhagad Road.",
+      "ground_truth": "WTR-QUAL",
+      "predicted_category": "STM-LOG",
+      "raw_similarity": 0.7431,
+      "margin": 0.0356,
+      "top_predictions": [
+        {
+          "code": "STM-LOG",
+          "score": 0.7431
+        },
+        {
+          "code": "STM-DRN",
+          "score": 0.7076
+        }
+      ]
+    },
+    {
+      "id": "CF-SYN-3073",
+      "complaint_text": "Municipal toilet block clogged aahe Aundh chowk madhe.",
+      "ground_truth": "SAN-HYG",
+      "predicted_category": "SEW-BLOCK",
+      "raw_similarity": 0.7405,
+      "margin": 0.1194,
+      "top_predictions": [
+        {
+          "code": "SEW-BLOCK",
+          "score": 0.7405
+        },
+        {
+          "code": "SEW-MAN",
+          "score": 0.6211
+        }
+      ]
+    },
+    {
+      "id": "CF-SYN-4322",
+      "complaint_text": "Crumbling concrete structure hanging dangerously over public sidewalk in Bibwewadi!!",
+      "ground_truth": "SAF-DIS",
+      "predicted_category": "RDW-DEBR",
+      "raw_similarity": 0.6836,
+      "margin": 0.0615,
+      "top_predictions": [
+        {
+          "code": "RDW-DEBR",
+          "score": 0.6836
+        },
+        {
+          "code": "RDW-BLDG",
+          "score": 0.6221
+        }
+      ]
+    },
+    {
+      "id": "CF-SYN-1245",
+      "complaint_text": "Kachra kundi phutli aahe Kondhwa chowk jawad, navin kundi basva. Lokana khup tras hoto aahe.",
+      "ground_truth": "SAN-BIN",
+      "predicted_category": "SAN-GARB",
+      "raw_similarity": 0.6994,
+      "margin": 0.0247,
+      "top_predictions": [
+        {
+          "code": "SAN-GARB",
+          "score": 0.6994
+        },
+        {
+          "code": "SAN-BIN",
+          "score": 0.6747
+        },
+        {
+          "code": "SAN-SWEEP",
+          "score": 0.6348
+        }
+      ]
+    },
+    {
+      "id": "CF-SYN-1473",
+      "complaint_text": "Pani purvotha line leak aaha Viman Nagar chowk jawad, pani phukat jaatahe. Lokana khup tras hoto aahe.",
+      "ground_truth": "WTR-LEAK",
+      "predicted_category": "SAN-GARB",
+      "raw_similarity": 0.701,
+      "margin": 0.0327,
+      "top_predictions": [
+        {
+          "code": "SAN-GARB",
+          "score": 0.701
+        },
+        {
+          "code": "SAN-SWEEP",
+          "score": 0.6683
+        },
+        {
+          "code": "SAN-BIN",
+          "score": 0.6391
+        }
+      ]
+    },
+    {
+      "id": "CF-SYN-3034",
+      "complaint_text": "Community toilet clogged and dirty in Bavdhan near station.",
+      "ground_truth": "SAN-HYG",
+      "predicted_category": "SEW-BLOCK",
+      "raw_similarity": 0.6799,
+      "margin": 0.0608,
+      "top_predictions": [
+        {
+          "code": "SEW-BLOCK",
+          "score": 0.6799
+        },
+        {
+          "code": "SEW-MAN",
+          "score": 0.6191
+        }
+      ]
+    }
+  ]
+}

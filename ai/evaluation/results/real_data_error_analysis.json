@@ -1,0 +1,230 @@
+{
+  "eval_dataset": "real_validation.csv",
+  "samples_count": 831,
+  "baseline_model_performance": {
+    "domain_accuracy": 0.5054,
+    "category_accuracy": 0.3742,
+    "category_macro_f1": 0.2286,
+    "category_weighted_f1": 0.4223,
+    "avg_confidence": 0.5306
+  },
+  "top_confusion_pairs": [
+    {
+      "true": "SAN-GARB",
+      "pred": "SAN-SWEEP",
+      "count": 87
+    },
+    {
+      "true": "ELE-POLE",
+      "pred": "SAN-HYG",
+      "count": 53
+    },
+    {
+      "true": "PRK-TREE",
+      "pred": "SAN-HYG",
+      "count": 39
+    },
+    {
+      "true": "PRK-TREE",
+      "pred": "SAN-ANML",
+      "count": 34
+    },
+    {
+      "true": "RDW-BLDG",
+      "pred": "RDW-DEBR",
+      "count": 32
+    },
+    {
+      "true": "RDW-ENC",
+      "pred": "SAN-HYG",
+      "count": 31
+    },
+    {
+      "true": "SEW-DRAIN",
+      "pred": "WTR-PRES",
+      "count": 30
+    },
+    {
+      "true": "RDW-RD",
+      "pred": "SAN-HYG",
+      "count": 30
+    },
+    {
+      "true": "SAN-GARB",
+      "pred": "PRK-AIR",
+      "count": 29
+    },
+    {
+      "true": "SAN-BIN",
+      "pred": "SAN-HYG",
+      "count": 29
+    }
+  ],
+  "sample_errors": [
+    {
+      "complaint_id": "20017225",
+      "complaint_text": "Garbage nuisance while transporting issue in Shakthiganapathi Nagar area.",
+      "true_domain": "SOLID_WASTE",
+      "true_category": "SAN-GARB",
+      "pred_domain": "SOLID_WASTE",
+      "pred_category": "SAN-SWEEP",
+      "confidence": 0.3093,
+      "source_file": "413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv",
+      "source_subcategory": "Garbage nuisance while transporting"
+    },
+    {
+      "complaint_id": "20013861",
+      "complaint_text": "Burning of Garbage in Open Space issue in Jaraganahalli area.",
+      "true_domain": "SOLID_WASTE",
+      "true_category": "SAN-GARB",
+      "pred_domain": "ENVIRONMENT_POLLUTION",
+      "pred_category": "PRK-AIR",
+      "confidence": 0.6059,
+      "source_file": "413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv",
+      "source_subcategory": "Burning of Garbage in Open Space"
+    },
+    {
+      "complaint_id": "20154943",
+      "complaint_text": "Unsafe Hoardings issue in Jayanagar East area.",
+      "true_domain": "FIRE_DISASTER_SAFETY",
+      "true_category": "SAF-DIS",
+      "pred_domain": "PUBLIC_HEALTH",
+      "pred_category": "SAN-HYG",
+      "confidence": 0.3601,
+      "source_file": "9e7e6892-06b6-4fdc-967a-e4787562f155.csv",
+      "source_subcategory": "Unsafe Hoardings"
+    },
+    {
+      "complaint_id": "20582959",
+      "complaint_text": "Garbage transfer not as per norms & area not kept clean issue in Gali Anjaneya Swamy Temple Ward area.",
+      "true_domain": "SOLID_WASTE",
+      "true_category": "SAN-GARB",
+      "pred_domain": "SOLID_WASTE",
+      "pred_category": "SAN-SWEEP",
+      "confidence": 0.5867,
+      "source_file": "82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv",
+      "source_subcategory": "Garbage transfer not as per norms & area not kept clean"
+    },
+    {
+      "complaint_id": "20084855",
+      "complaint_text": "Debris Removal / Construction Material issue in Konena Agrahara area.",
+      "true_domain": "ROADS_FOOTPATHS",
+      "true_category": "RDW-BLDG",
+      "pred_domain": "BUILDING_CONSTRUCTION",
+      "pred_category": "RDW-DEBR",
+      "confidence": 0.5802,
+      "source_file": "413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv",
+      "source_subcategory": "Debris Removal / Construction Material"
+    },
+    {
+      "complaint_id": "20033122",
+      "complaint_text": "Removal of dead/fallen trees issue in Anjanapur area.",
+      "true_domain": "GARDENS_TREES",
+      "true_category": "PRK-TREE",
+      "pred_domain": "PUBLIC_HEALTH",
+      "pred_category": "SAN-ANML",
+      "confidence": 0.4602,
+      "source_file": "413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv",
+      "source_subcategory": "Removal of dead/fallen trees"
+    },
+    {
+      "complaint_id": "20510822",
+      "complaint_text": "Overhanging cables issue in Thanisandra area.",
+      "true_domain": "STREET_LIGHTING",
+      "true_category": "ELE-POLE",
+      "pred_domain": "PUBLIC_HEALTH",
+      "pred_category": "SAN-HYG",
+      "confidence": 0.5488,
+      "source_file": "82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv",
+      "source_subcategory": "Overhanging cables"
+    },
+    {
+      "complaint_id": "20093268",
+      "complaint_text": "Road side drains issue in Bilekahalli area.",
+      "true_domain": "SEWERAGE_DRAINAGE",
+      "true_category": "SEW-DRAIN",
+      "pred_domain": "PUBLIC_HEALTH",
+      "pred_category": "SAN-HYG",
+      "confidence": 0.3553,
+      "source_file": "413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv",
+      "source_subcategory": "Road side drains"
+    },
+    {
+      "complaint_id": "20105152",
+      "complaint_text": "Unsafe Hoardings issue in Vannarpet area.",
+      "true_domain": "FIRE_DISASTER_SAFETY",
+      "true_category": "SAF-DIS",
+      "pred_domain": "PUBLIC_HEALTH",
+      "pred_category": "SAN-HYG",
+      "confidence": 0.3601,
+      "source_file": "9e7e6892-06b6-4fdc-967a-e4787562f155.csv",
+      "source_subcategory": "Unsafe Hoardings"
+    },
+    {
+      "complaint_id": "20501904",
+      "complaint_text": "Earthing Issue relate to Electric Poles/Panel Boards issue in Vijay Nagar area.",
+      "true_domain": "STREET_LIGHTING",
+      "true_category": "ELE-POLE",
+      "pred_domain": "PUBLIC_HEALTH",
+      "pred_category": "SAN-HYG",
+      "confidence": 0.3773,
+      "source_file": "82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv",
+      "source_subcategory": "Earthing Issue relate to Electric Poles/Panel Boards"
+    },
+    {
+      "complaint_id": "20095473",
+      "complaint_text": "Debris Removal / Construction Material issue in Vijanapura area.",
+      "true_domain": "ROADS_FOOTPATHS",
+      "true_category": "RDW-BLDG",
+      "pred_domain": "BUILDING_CONSTRUCTION",
+      "pred_category": "RDW-DEBR",
+      "confidence": 0.5802,
+      "source_file": "413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv",
+      "source_subcategory": "Debris Removal / Construction Material"
+    },
+    {
+      "complaint_id": "20625703",
+      "complaint_text": "Park Lights Not Working issue in Lingarajapuram area.",
+      "true_domain": "STREET_LIGHTING",
+      "true_category": "ELE-LGT",
+      "pred_domain": "GARDENS_TREES",
+      "pred_category": "PRK-MAINT",
+      "confidence": 0.6251,
+      "source_file": "82f88d50-71c5-4203-92ac-5ccb5cabc7a2.csv",
+      "source_subcategory": "Park Lights Not Working"
+    },
+    {
+      "complaint_id": "20040099",
+      "complaint_text": "Removal of dead/fallen trees issue in Prakash Nagar area.",
+      "true_domain": "GARDENS_TREES",
+      "true_category": "PRK-TREE",
+      "pred_domain": "PUBLIC_HEALTH",
+      "pred_category": "SAN-HYG",
+      "confidence": 0.4267,
+      "source_file": "413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv",
+      "source_subcategory": "Removal of dead/fallen trees"
+    },
+    {
+      "complaint_id": "20095174",
+      "complaint_text": "Sweeping not done issue in Azad Nagar area.",
+      "true_domain": "SOLID_WASTE",
+      "true_category": "SAN-GARB",
+      "pred_domain": "SOLID_WASTE",
+      "pred_category": "SAN-SWEEP",
+      "confidence": 0.7447,
+      "source_file": "413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv",
+      "source_subcategory": "Sweeping not done"
+    },
+    {
+      "complaint_id": "20093482",
+      "complaint_text": "obstructions Branches / Trees. issue in Maruthi Mandira Ward area.",
+      "true_domain": "GARDENS_TREES",
+      "true_category": "PRK-TREE",
+      "pred_domain": "PUBLIC_HEALTH",
+      "pred_category": "SAN-HYG",
+      "confidence": 0.3874,
+      "source_file": "413fa9ec-8d06-4ecb-884e-1436c5a0f5dd.csv",
+      "source_subcategory": "obstructions Branches / Trees."
+    }
+  ]
+}

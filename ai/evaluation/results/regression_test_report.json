@@ -1,0 +1,7 @@
+{
+  "samples": 831,
+  "domain_accuracy": 0.6847,
+  "category_accuracy": 0.5114,
+  "macro_f1": 0.2659,
+  "avg_latency": 0.1655
+}

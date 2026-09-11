@@ -1,0 +1,505 @@
+id,complaint_text,domain_code,category_code,department_code,language,difficulty,source
+CF-SYN-2309,Broken road divider and damaged road surface on avenue in Baner. Severely affecting residents.,ROADS_FOOTPATHS,RDW-RD,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-1075,"Kachra van Kondhwa me nahi aayi, kachra raste par phail raha hai!! Bahut badi dikkat hai!!",SOLID_WASTE,SAN-GARB,SAN,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-2197,Huge dangerous pothole on main avenue in Camp causing bike accidents. Severely affecting residents.,ROADS_FOOTPATHS,RDW-POT,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-3868,Commercial establishment running without health and safety permit in Bibwewadi. Severely affecting residents.,LICENSES_PERMISSIONS,LIC-TRD,,EN,EASY,synthetic_generator_v1
+CF-SYN-2541,Damaged street light pole leaning towards road in Baner. Severely affecting residents.,STREET_LIGHTING,ELE-POLE,ELE,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-1639,"Very low paani pressure in municipal pipeline in Shivajinagar, upper floors getting no paani!!",WATER_SUPPLY,WTR-PRES,WTR,EN,EASY,synthetic_generator_v1
+CF-SYN-4145,Aawajache pradushan khup vadhle aahe commercial machine mule Deccan Gymkhana madhe. Lokana khup tras hoto aahe.,ENVIRONMENT_POLLUTION,PRK-NOIS,PRK,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-3945,Noise permission violation by outdoor event playing loud bass late night in Sinhagad Road!! Posing dangerous safety hazard!!,LICENSES_PERMISSIONS,LIC-NOISE,,EN,EASY,synthetic_generator_v1
+CF-SYN-3499,No parking area me heavy vehicles parked in Warje. Bahut badi dikkat hai.,TRAFFIC_PARKING,RDW-TRF,RDW,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-1858,"Open manhole cover in Kondhwa near bus stop, ratri lok padtat!! Khup mothi samsya aahe!!",SEWERAGE_DRAINAGE,SEW-MAN,WTR,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-1313,Road safai nahi ho rahi hai Magarpatta me. Safai karamchari ko bhejo. Jaldi action lo.,SOLID_WASTE,SAN-SWEEP,SAN,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-3674,Property tax assessment error aala aahe online bill madhe.,PROPERTY_TAX,TAX-ERR,,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-3751,Property tax receipt download error on portal.,PROPERTY_TAX,TAX-REC,,HINGLISH,MEDIUM,synthetic_generator_v1
+CF-SYN-4062,"Kachra aani plastic jalala jaat aahe Deccan Gymkhana madhe, khup dhur hotoe.",ENVIRONMENT_POLLUTION,PRK-AIR,PRK,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-1460,Water supply line burst near Pashan main road. Logon ko bahut dikkat ho rahi hai.,WATER_SUPPLY,WTR-LEAK,WTR,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-3061,Public toilet safai zali nahiye Pashan station jawad!! Lokana khup tras hoto aahe!!,PUBLIC_HEALTH,SAN-HYG,SAN,MARATHI,MEDIUM,synthetic_generator_v1
+CF-SYN-4130,Aawajache pradushan khup vadhle aahe commercial machine mule Kondhwa madhe.,ENVIRONMENT_POLLUTION,PRK-NOIS,PRK,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-1978,Knee deep water stagnation on main road in Kothrud after rain. Needs immediate action.,STORM_WATER,STM-LOG,WTR,EN,EASY,synthetic_generator_v1
+CF-SYN-3057,Unhygienic community restroom near station in Deccan Gymkhana stink spreading.,PUBLIC_HEALTH,SAN-HYG,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-1629,"Panyacha dab khup kamya aahe Pashan madhe, pani var chadhat nahi.",WATER_SUPPLY,WTR-PRES,WTR,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-4060,Sweeper burning plastic waste and dry leaves in open plot at Magarpatta causing toxic smoke.,ENVIRONMENT_POLLUTION,PRK-AIR,PRK,EN,EASY,synthetic_generator_v1
+CF-SYN-4332,Bhinta tutun rastyavar padnar aahe Yerwada chowk madhe.,FIRE_DISASTER_SAFETY,SAF-DIS,,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-2662,Dangerous overgrown branches trimming needed in Magarpatta. Kripya dhyan dein.,GARDENS_TREES,PRK-TREE,PRK,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-2153,"Khadde padle aahet Bavdhan main road var, rasta kharab zala aahe.",ROADS_FOOTPATHS,RDW-POT,RDW,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-1275,Community bin completely damaged hai Koregaon Park near station.,SOLID_WASTE,SAN-BIN,SAN,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-2961,Animal carcass lying on main avenue in Magarpatta causing stench.,PUBLIC_HEALTH,SAN-ANML,SAN,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-2178,Multiple deep craters and potholes formed on flyover approach at Swargate.,ROADS_FOOTPATHS,RDW-POT,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-1421,Pinyache paani ki line leak hai Warje near bus stop. Bahut badi dikkat hai.,WATER_SUPPLY,WTR-LEAK,WTR,HINGLISH,MEDIUM,synthetic_generator_v1
+CF-SYN-2866,Vector control fogging required immediately in Koregaon Park residential lanes.,PUBLIC_HEALTH,SAN-PEST,SAN,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-4278,Defective fire extinguishers and missing fire safety measures in Kondhwa complex.,FIRE_DISASTER_SAFETY,SAF-FIRE,,EN,EASY,synthetic_generator_v1
+CF-SYN-1341,Municipal sweeper not cleaning the street near Shivajinagar park entrance. Urgent attention required.,SOLID_WASTE,SAN-SWEEP,SAN,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-4330,Unsafe cracked retaining wall about to collapse on road in Bibwewadi. Posing dangerous safety hazard.,FIRE_DISASTER_SAFETY,SAF-DIS,,EN,EASY,synthetic_generator_v1
+CF-SYN-1134,Unauthorized waste dumping happening at midnight in vacant land in Pimpri.,SOLID_WASTE,SAN-DUMP,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-1220,Sarvajanik kachra kundi tutli aahe aani Shivajinagar madhe kachra bahaar ala aahe. Lokana khup tras hoto aahe.,SOLID_WASTE,SAN-BIN,SAN,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-1123,Unknown commercial vehicles dumping heaps of garbage at roadside near Warje open ground. Severely affecting residents.,SOLID_WASTE,SAN-DUMP,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-3641,Incorrect penalty applied on property tax notice in Pimpri.,PROPERTY_TAX,TAX-ERR,,MARATHI,MEDIUM,synthetic_generator_v1
+CF-SYN-4057,Sweeper burning plastic waste and dry leaves in open plot at Wakad causing toxic smoke!! Severely affecting residents!!,ENVIRONMENT_POLLUTION,PRK-AIR,PRK,EN,EASY,synthetic_generator_v1
+CF-SYN-2447,Light pole bulb not working in Katraj colony street. Jaldi action lo.,STREET_LIGHTING,ELE-LGT,ELE,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-3474,No-parking zone violated constantly by double parked cars in Camp.,TRAFFIC_PARKING,RDW-TRF,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-3334,Footpath par illegal hawkers ne encroachment kar liya hai Swargate me.,ENCROACHMENT,RDW-ENC,RDW,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-2917,Dog menace and aggressive stray pack in Kalyani Nagar market.,PUBLIC_HEALTH,SAN-ANML,SAN,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-2250,Broken sidewalk tiles and uneven pavement on main road in Shivajinagar.,ROADS_FOOTPATHS,RDW-WALK,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-2921,Aggressive stray dogs chasing two-wheelers at night in Kothrud.,PUBLIC_HEALTH,SAN-ANML,SAN,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-1251,Public dustbin broken and overflowing at Koregaon Park market corner.,SOLID_WASTE,SAN-BIN,SAN,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-1400,Galli safai zali nahiye Sinhagad Road madhe khup divsa pasun. Lokana khup tras hoto aahe.,SOLID_WASTE,SAN-SWEEP,SAN,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-2911,Dog menace and aggressive stray pack in Kalyani Nagar market.,PUBLIC_HEALTH,SAN-ANML,SAN,MARATHI,MEDIUM,synthetic_generator_v1
+CF-SYN-1016,Garbage vehicle has not arrived since Monday in Koregaon Park. Trash is piling up outside buildings.,SOLID_WASTE,SAN-GARB,SAN,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-2129,Huge dangerous pothole on main avenue in Deccan Gymkhana causing bike accidents. Urgent attention required.,ROADS_FOOTPATHS,RDW-POT,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-1235,"Metal garbage container broken and missing cover in Hadapsar, needs replacement!! Posing dangerous safety hazard!!",SOLID_WASTE,SAN-BIN,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-2630,Fallen tree obstruction on street in Pashan after heavy winds.,GARDENS_TREES,PRK-TREE,PRK,EN,EASY,synthetic_generator_v1
+CF-SYN-2722,Park benches aani lights phutle aahet Swargate municipal park madhe. Lokana khup tras hoto aahe.,GARDENS_TREES,PRK-MAINT,PRK,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-2231,Broken sidewalk tiles and uneven pavement on main road in Warje.,ROADS_FOOTPATHS,RDW-WALK,RDW,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-1020,Amchya Magarpatta gallyat kachra gadi khup divsa pasun aali nahiye. Kachra gharabaher sathla aahe. Lokana khup tras hoto aahe.,SOLID_WASTE,SAN-GARB,SAN,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-2443,Light pole bulb not working in Katraj colony street.,STREET_LIGHTING,ELE-LGT,ELE,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-3185,Unauthorized construction ho raha hai Katraj me without permit. Kripya dhyan dein.,BUILDING_CONSTRUCTION,RDW-BLDG,RDW,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-3794,Tax pavti record pending dakhavtat Bibwewadi account madhe. Kaalji ghyavi.,PROPERTY_TAX,TAX-REC,,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-3748,Property tax receipt download error on portal.,PROPERTY_TAX,TAX-REC,,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-1497,"Pani purvotha line leak aaha Baner chowk jawad, pani phukat jaatahe.",WATER_SUPPLY,WTR-LEAK,WTR,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-4247,Fire exit aur emergency staircase block karke rakha hai Viman Nagar me.,FIRE_DISASTER_SAFETY,SAF-FIRE,,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-1574,Nal me ganda aur badbu dar paani aa raha hai Aundh me.,WATER_SUPPLY,WTR-QUAL,WTR,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-4068,Toxic smoke from burning rubbish creating air pollution hazard in Pashan.,ENVIRONMENT_POLLUTION,PRK-AIR,PRK,EN,EASY,synthetic_generator_v1
+CF-SYN-4341,Dilapidated structure collapse risk in Warje near market!! Kripya dhyan dein!!,FIRE_DISASTER_SAFETY,SAF-DIS,,HINGLISH,MEDIUM,synthetic_generator_v1
+CF-SYN-3222,Debris rastyavar taklyamule rasta block zala aahe Shivajinagar madhe.,BUILDING_CONSTRUCTION,RDW-DEBR,RDW,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-3255,Debris rastyavar taklyamule rasta block zala aahe Swargate madhe.,BUILDING_CONSTRUCTION,RDW-DEBR,RDW,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-2450,Rastyavarchi street light chalat nahiye Shivajinagar madhe somvar pasun.,STREET_LIGHTING,ELE-LGT,ELE,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-1023,Sanitation van did not visit our street in Sinhagad Road since yesterday. Request immediate garbage truck dispatch. Posing dangerous safety hazard.,SOLID_WASTE,SAN-GARB,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-3116,Bina parvangi floor build kela jaat aahe Camp madhe.,BUILDING_CONSTRUCTION,RDW-BLDG,RDW,MARATHI,MEDIUM,synthetic_generator_v1
+CF-SYN-4032,Dhur aani dhul hazard zali aahe Magarpatta residentials madhe. Urgent action ghyaychi garaj aahe.,ENVIRONMENT_POLLUTION,PRK-AIR,PRK,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-2295,Pedestrian footpath kharab zala aahe Yerwada madhe.,ROADS_FOOTPATHS,RDW-WALK,RDW,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-2809,"High mosquito infestation causing dengue risk in Baner, chemical spray needed. Needs immediate action.",PUBLIC_HEALTH,SAN-PEST,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-1355,Dust and litter accumulating on roadside in Chinchwad due to lack of daily sweeping.,SOLID_WASTE,SAN-SWEEP,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-3182,Unauthorized extra floor construction without municipal permit in Swargate.,BUILDING_CONSTRUCTION,RDW-BLDG,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-4076,Air pollution vadhle aahe open garbage burning mule Bavdhan madhe.,ENVIRONMENT_POLLUTION,PRK-AIR,PRK,MARATHI,MEDIUM,synthetic_generator_v1
+CF-SYN-2089,Stormwater channel clogged zali aahe Camp near market.,STORM_WATER,STM-DRN,WTR,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-3349,Footpath par illegal hawkers ne encroachment kar liya hai Swargate me.,ENCROACHMENT,RDW-ENC,RDW,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-1510,Pinyaka paani me gatar ka paani mix ho gaya hai Kothrud me.,WATER_SUPPLY,WTR-QUAL,WTR,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-2184,Road surface broken with large pothole near signal in Bavdhan.,ROADS_FOOTPATHS,RDW-POT,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-1628,Morning hours me paani nahi aa raha hai Swargate me.,WATER_SUPPLY,WTR-PRES,WTR,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-1677,Total absence of drinking water supply in Hadapsar block for 2 days.,WATER_SUPPLY,WTR-PRES,WTR,EN,EASY,synthetic_generator_v1
+CF-SYN-2830,"High mosquito infestation causing dengue risk in Shivajinagar, chemical spray needed.",PUBLIC_HEALTH,SAN-PEST,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-3649,Property tax assessment error in civic portal bill for property in Kondhwa.,PROPERTY_TAX,TAX-ERR,,EN,EASY,synthetic_generator_v1
+CF-SYN-3310,Shopkeeper erected permanent wooden structure covering sidewalk in Kondhwa!! Severely affecting residents!!,ENCROACHMENT,RDW-ENC,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-3500,Abandoned rusted vehicle illegally parked blocking residential gate in Kondhwa.,TRAFFIC_PARKING,RDW-TRF,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-2362,Dug up road left unpaved in Bavdhan area.,ROADS_FOOTPATHS,RDW-RD,RDW,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-1549,Pinyaka paani me gatar ka paani mix ho gaya hai Kalyani Nagar me!!,WATER_SUPPLY,WTR-QUAL,WTR,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-1608,Paani bilkul nahi aaya Camp me lagatar se.,WATER_SUPPLY,WTR-PRES,WTR,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-2006,Roadside storm drain blocked causing rainwater backflow in Koregaon Park.,STORM_WATER,STM-DRN,WTR,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-1141,Bulk waste and plastic garbage dumped illegally on main road corner in Kondhwa.,SOLID_WASTE,SAN-DUMP,SAN,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-1791,Underground drainage clogged zala aahe Kalyani Nagar main street var. Lokana khup tras hoto aahe.,SEWERAGE_DRAINAGE,SEW-BLOCK,WTR,MARATHI,MEDIUM,synthetic_generator_v1
+CF-SYN-3564,Reflective direction sign missing at dangerous curve in Katraj. Posing dangerous safety hazard.,TRAFFIC_PARKING,RDW-SIGN,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-2552,"Open junction box at light pole base in Baner, shock hazard. Khup mothi samsya aahe.",STREET_LIGHTING,ELE-POLE,ELE,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-2851,"Mosquito menace in Chinchwad near open drain, request anti-larval treatment.",PUBLIC_HEALTH,SAN-PEST,SAN,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-3775,Property tax payment record not updated in system for Baner assessment.,PROPERTY_TAX,TAX-REC,,EN,EASY,synthetic_generator_v1
+CF-SYN-2427,Streetlight outage at Yerwada junction causing safety risk at night!! Severely affecting residents!!,STREET_LIGHTING,ELE-LGT,ELE,EN,EASY,synthetic_generator_v1
+CF-SYN-1527,Pinyaka paani me gatar ka paani mix ho gaya hai Pimpri me. Logon ko bahut dikkat ho rahi hai.,WATER_SUPPLY,WTR-QUAL,WTR,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-3607,Property tax assessment mistake in municipal bill for Pashan. Jaldi action lo.,PROPERTY_TAX,TAX-ERR,,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-1515,"Pinyache pani mati misallle aale aahe Sinhagad Road madhe, aarogya dhoka!!",WATER_SUPPLY,WTR-QUAL,WTR,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-2903,"Mulela prani rastyavar padla aahe Katraj madhe, saaf kara!!",PUBLIC_HEALTH,SAN-ANML,SAN,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-3430,Road obstruction caused by long-term abandoned scrap car in Shivajinagar. Urgent attention required.,TRAFFIC_PARKING,RDW-TRF,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-3594,Traffic direction sign post broken and fallen down at Kondhwa junction!! Urgent attention required!!,TRAFFIC_PARKING,RDW-SIGN,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-2555,Tilted electrical pole with open junction box exposing wires in Hadapsar. Needs immediate action.,STREET_LIGHTING,ELE-POLE,ELE,EN,EASY,synthetic_generator_v1
+CF-SYN-1888,"Open manhole cover in Bibwewadi near bus stop, ratri lok padtat!!",SEWERAGE_DRAINAGE,SEW-MAN,WTR,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-3038,"Municipal public toilet dirty, uncleaned for weeks in Bavdhan.",PUBLIC_HEALTH,SAN-HYG,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-1981,Pavsache pani rastyavar sachalay Wakad society bahaar.,STORM_WATER,STM-LOG,WTR,MARATHI,MEDIUM,synthetic_generator_v1
+CF-SYN-3737,Property tax receipt download error on portal.,PROPERTY_TAX,TAX-REC,,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-4400,Dilapidated structure balcony wall phutli aahe Hadapsar main street var.,FIRE_DISASTER_SAFETY,SAF-DIS,,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-1743,Blocked municipal sewer pipe spilling contaminated black water in Katraj. Posing dangerous safety hazard.,SEWERAGE_DRAINAGE,SEW-BLOCK,WTR,EN,EASY,synthetic_generator_v1
+CF-SYN-1550,Dirty water with sediment receiving during water supply hours in Sinhagad Road.,WATER_SUPPLY,WTR-QUAL,WTR,EN,EASY,synthetic_generator_v1
+CF-SYN-3327,Footpath par illegal hawkers ne encroachment kar liya hai Swargate me.,ENCROACHMENT,RDW-ENC,RDW,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-2744,"Baghichi dekhbhal hot nahiye Warje garden madhe, swings tutle aahet!!",GARDENS_TREES,PRK-MAINT,PRK,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-1168,Unknown commercial vehicles dumping heaps of garbage at rodside near Viman Nagar open ground!!,SOLID_WASTE,SAN-DUMP,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-2131,Pothole patching garajeshche aahe Deccan Gymkhana flyover jawad. Khup mothi samsya aahe.,ROADS_FOOTPATHS,RDW-POT,RDW,MARATHI,MEDIUM,synthetic_generator_v1
+CF-SYN-1358,Galli safai zali nahiye Swargate madhe khup divsa pasun.,SOLID_WASTE,SAN-SWEEP,SAN,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-2173,"Dangerous pothol near Kalyani Nagar bus stop, patch work karo!!",ROADS_FOOTPATHS,RDW-POT,RDW,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-2613,Dead tree leaning precariously over house roof in Sinhagad Road!! Severely affecting residents!!,GARDENS_TREES,PRK-TREE,PRK,EN,EASY,synthetic_generator_v1
+CF-SYN-3412,Scrap car block karat aahe rasta Hadapsar society bahaar.,TRAFFIC_PARKING,RDW-TRF,RDW,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-4045,Open garbage burning causing heavy smog and breathing issues in Warje!!,ENVIRONMENT_POLLUTION,PRK-AIR,PRK,EN,EASY,synthetic_generator_v1
+CF-SYN-2466,Streetlight outage on main road in Warje near park. Logon ko bahut dikkat ho rahi hai.,STREET_LIGHTING,ELE-LGT,ELE,HINGLISH,MEDIUM,synthetic_generator_v1
+CF-SYN-1378,Road sweeping and cleaning completely neglected in Deccan Gymkhana residential lanes. Urgent attention required.,SOLID_WASTE,SAN-SWEEP,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-3073,Municipal toilet block clogged aahe Aundh chowk madhe.,PUBLIC_HEALTH,SAN-HYG,SAN,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-3736,Property tax paid online but official payment receipt not generated for Viman Nagar property.,PROPERTY_TAX,TAX-REC,,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-2840,"Severe mosquito breeding in stagnant water in Bavdhan, request fogging. Severely affecting residents.",PUBLIC_HEALTH,SAN-PEST,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-3677,Property tax assessment error aala aahe online bill madhe.,PROPERTY_TAX,TAX-ERR,,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-4171,Industrial generator cha motha aavaj hotoe Deccan Gymkhana residential madhe.,ENVIRONMENT_POLLUTION,PRK-NOIS,PRK,MARATHI,MEDIUM,synthetic_generator_v1
+CF-SYN-2696,Dangerous overgrown branches trimming needed in Shivajinagar!!,GARDENS_TREES,PRK-TREE,PRK,HINGLISH,MEDIUM,synthetic_generator_v1
+CF-SYN-4075,Plastic burning in open ground causing smoke choking in Magarpatta!!,ENVIRONMENT_POLLUTION,PRK-AIR,PRK,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-1736,"Sewer pipeline block zali aahe Sinhagad Road chowk jawad, gatar saaf kara.",SEWERAGE_DRAINAGE,SEW-BLOCK,WTR,MARATHI,MEDIUM,synthetic_generator_v1
+CF-SYN-3478,Abandoned rusted vehicle illegally parked blocking residential gate in Pashan.,TRAFFIC_PARKING,RDW-TRF,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-3402,Illegal double parking of commercial trucks blocking traffic flow in Shivajinagar!! Urgent attention required!!,TRAFFIC_PARKING,RDW-TRF,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-1879,Broken drain chamber cover creating open pit on footpath in Kondhwa.,SEWERAGE_DRAINAGE,SEW-MAN,WTR,EN,EASY,synthetic_generator_v1
+CF-SYN-1014,Sanitation van did not visit our street in Chinchwad for over 5 days. Request immediate garbage truck dispatch. Needs immediate action.,SOLID_WASTE,SAN-GARB,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-1507,Blackish and foul smelling water coming from municipal tap in Kothrud.,WATER_SUPPLY,WTR-QUAL,WTR,EN,EASY,synthetic_generator_v1
+CF-SYN-1859,"Damaged manhole slab collapsed in Pashan, urgent repair required. Severely affecting residents.",SEWERAGE_DRAINAGE,SEW-MAN,WTR,EN,EASY,synthetic_generator_v1
+CF-SYN-2881,Mosquito breeding in stagnant water pools in Chinchwad. Logon ko bahut dikkat ho rahi hai.,PUBLIC_HEALTH,SAN-PEST,SAN,HINGLISH,MEDIUM,synthetic_generator_v1
+CF-SYN-2852,"Severe mosquito breeding in stagnant water in Yerwada, request fogging.",PUBLIC_HEALTH,SAN-PEST,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-2390,Road resurfacing required in Deccan Gymkhana post pipeline work!!,ROADS_FOOTPATHS,RDW-RD,RDW,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-3697,Wrong tax bill received with excess penalty in Chinchwad.,PROPERTY_TAX,TAX-ERR,,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-4362,Dilapidated structure collapse risk in Bavdhan near market.,FIRE_DISASTER_SAFETY,SAF-DIS,,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-3386,Footpath par illegal hawkers ne encroachment kar liya hai Pashan me. Kripya dhyan dein.,ENCROACHMENT,RDW-ENC,RDW,HINGLISH,MEDIUM,synthetic_generator_v1
+CF-SYN-3147,Unsafe illegal structural alteration of building in Magarpatta without approval!! Urgent attention required!!,BUILDING_CONSTRUCTION,RDW-BLDG,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-2957,Aggressive stray dogs chasing two-wheelers at night in Kothrud.,PUBLIC_HEALTH,SAN-ANML,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-2365,Uneven and damaged road surface in Shivajinagar main lane.,ROADS_FOOTPATHS,RDW-RD,RDW,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-3983,Ratri late night loud mic/speaker suru aahe Pimpri madhe bina parvangi. Kaalji ghyavi.,LICENSES_PERMISSIONS,LIC-NOISE,,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-3281,Malba removing garajeshche aahe Hadapsar main avenue var.,BUILDING_CONSTRUCTION,RDW-DEBR,RDW,MARATHI,MEDIUM,synthetic_generator_v1
+CF-SYN-2475,Light pole bulb not working in Camp colony street.,STREET_LIGHTING,ELE-LGT,ELE,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-3178,Illegal commercial extension over setback line in Chinchwad. Posing dangerous safety hazard.,BUILDING_CONSTRUCTION,RDW-BLDG,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-1935,Severe rainwater waterlogging under subway/bridge at Aundh. Traffic blocked. Urgent attention required.,STORM_WATER,STM-LOG,WTR,EN,EASY,synthetic_generator_v1
+CF-SYN-2115,Multiple deep craters and potholes formed on flyover approach at Chinchwad. Needs immediate action.,ROADS_FOOTPATHS,RDW-POT,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-1520,"Tap water supply is contaminated, muddy, and smells like sewage in Koregaon Park. Posing dangerous safety hazard.",WATER_SUPPLY,WTR-QUAL,WTR,EN,EASY,synthetic_generator_v1
+CF-SYN-3532,Damaged speed limit traffic board in Viman Nagar needs replacement!! Needs immediate action!!,TRAFFIC_PARKING,RDW-SIGN,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-4322,Crumbling concrete structure hanging dangerously over public sidewalk in Bibwewadi!!,FIRE_DISASTER_SAFETY,SAF-DIS,,EN,EASY,synthetic_generator_v1
+CF-SYN-4273,Defective fire extinguishers and missing fire safety measures in Baner complex. Needs immediate action.,FIRE_DISASTER_SAFETY,SAF-FIRE,,EN,EASY,synthetic_generator_v1
+CF-SYN-1551,Blackish and foul smelling water coming from municipal tap in Yerwada. Severely affecting residents.,WATER_SUPPLY,WTR-QUAL,WTR,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-4190,Heavy industrial generator operating 24/7 causing severe noise pollution in Viman Nagar.,ENVIRONMENT_POLLUTION,PRK-NOIS,PRK,EN,EASY,synthetic_generator_v1
+CF-SYN-3081,Public toilet safai zali nahiye Camp station jawad.,PUBLIC_HEALTH,SAN-HYG,SAN,MARATHI,MEDIUM,synthetic_generator_v1
+CF-SYN-3948,Event hall violating noise permission timing in Bibwewadi. Bahut badi dikkat hai.,LICENSES_PERMISSIONS,LIC-NOISE,,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-1245,"Kachra kundi phutli aahe Kondhwa chowk jawad, navin kundi basva. Lokana khup tras hoto aahe.",SOLID_WASTE,SAN-BIN,SAN,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-1142,Bina permission ke commercial dumping ho rahi hai Koregaon Park me.,SOLID_WASTE,SAN-DUMP,SAN,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-3043,"Public toilet bahut ganda hai Deccan Gymkhana me, paani bhi nahi hai.",PUBLIC_HEALTH,SAN-HYG,SAN,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-1331,Street sweeper Wakad me lagatar se nahi aaya hai. Raste par mati aur kachra hai. Bahut badi dikkat hai.,SOLID_WASTE,SAN-SWEEP,SAN,HINGLISH,MEDIUM,synthetic_generator_v1
+CF-SYN-1530,Nalache pani kalpat aani durgandhyukta aale aahe Chinchwad madhe.,WATER_SUPPLY,WTR-QUAL,WTR,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-1365,Road sweeping and cleaning completely neglected in Swargate residential lanes. Needs immediate action.,SOLID_WASTE,SAN-SWEEP,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-1473,"Pani purvotha line leak aaha Viman Nagar chowk jawad, pani phukat jaatahe. Lokana khup tras hoto aahe.",WATER_SUPPLY,WTR-LEAK,WTR,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-3759,Property tax receipt download error on portal.,PROPERTY_TAX,TAX-REC,,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-2822,"Machhar khup zale aahet Katraj madhe, fogging gadi पाठवा!!",PUBLIC_HEALTH,SAN-PEST,SAN,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-1357,Safai kamgar Hadapsar madhe rasta saaf karat nahiye. Kaalji ghyavi.,SOLID_WASTE,SAN-SWEEP,SAN,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-3034,Community toilet clogged and dirty in Bavdhan near station.,PUBLIC_HEALTH,SAN-HYG,SAN,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-3308,Footpath encroachment hawkers mule Yerwada madhe. Kaalji ghyavi.,ENCROACHMENT,RDW-ENC,RDW,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-3389,Roadside encroachment by food vendors in Pimpri.,ENCROACHMENT,RDW-ENC,RDW,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-3844,Trade license nastaana workshop chalavat aahet Deccan Gymkhana residential madhe.,LICENSES_PERMISSIONS,LIC-TRD,,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-1971,"Ghatkopar subway jawal waterlogging zali aahe Kondhwa madhe, gadyan chalat nahi.",STORM_WATER,STM-LOG,WTR,MARATHI,MEDIUM,synthetic_generator_v1
+CF-SYN-2731,Neglected green space and unwatered lawn in Swargate municipal park. Posing dangerous safety hazard.,GARDENS_TREES,PRK-MAINT,PRK,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-3638,Property tax assessment error aala aahe online bill madhe.,PROPERTY_TAX,TAX-ERR,,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-1033,Garbage vehicle has not arrived since yesterday in Kothrud. Trash is piling up outside buildings.,SOLID_WASTE,SAN-GARB,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-1711,Sewer line blocked and sewage water overflowing onto main street in Warje.,SEWERAGE_DRAINAGE,SEW-BLOCK,WTR,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-3589,Traffic direction sign post broken and fallen down at Katraj junction.,TRAFFIC_PARKING,RDW-SIGN,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-1950,Raste par bahut paani jam gaya hai Hadapsar near school. Kripya dhyan dein.,STORM_WATER,STM-LOG,WTR,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-2502,Dangerous hanging wire hazard in Warje area!! Bahut badi dikkat hai!!,STREET_LIGHTING,ELE-POLE,ELE,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-1077,Household waste is not collected by municipal truck in Deccan Gymkhana. Bad odor spreading everywhere.,SOLID_WASTE,SAN-GARB,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-3241,Builder dumped construction debris and concrete waste on public lane in Sinhagad Road.,BUILDING_CONSTRUCTION,RDW-DEBR,RDW,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-1015,Amchya Shivajinagar gallyat kachra gadi maagchya 3 divsa pasun aali nahiye. Kachra gharabaher sathla aahe.,SOLID_WASTE,SAN-GARB,SAN,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-2665,Large tree branch fell across main road in Pashan blocking traffic. Urgent attention required.,GARDENS_TREES,PRK-TREE,PRK,EN,EASY,synthetic_generator_v1
+CF-SYN-3284,Malba removing garajeshche aahe Hadapsar main avenue var.,BUILDING_CONSTRUCTION,RDW-DEBR,RDW,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-4015,"Kachra aur plastic jalaya ja raha hai Pashan me, dhuan phail raha hai. Kripya dhyan dein.",ENVIRONMENT_POLLUTION,PRK-AIR,PRK,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-3410,Road obstruction caused by long-term abandoned scrap car in Camp. Needs immediate action.,TRAFFIC_PARKING,RDW-TRF,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-1821,"Open manhole cover in Kalyani Nagar near bus stop, ratri lok padtat!!",SEWERAGE_DRAINAGE,SEW-MAN,WTR,MARATHI,MEDIUM,synthetic_generator_v1
+CF-SYN-2325,Road excavated for utility trench was left unpaved and abandoned in Katraj.,ROADS_FOOTPATHS,RDW-RD,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-3837,Bin parvangi commercial dukan suru aahe Warje madhe.,LICENSES_PERMISSIONS,LIC-TRD,,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-1194,Bulk waste and plastic garbage dumped illegally on main road corner in Baner.,SOLID_WASTE,SAN-DUMP,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-3848,Commercial establishment running without health and safety permit in Bavdhan.,LICENSES_PERMISSIONS,LIC-TRD,,EN,EASY,synthetic_generator_v1
+CF-SYN-1577,Pani khup ghanerd aale aahe Kalyani Nagar society madhe 2 aathavde zale.,WATER_SUPPLY,WTR-QUAL,WTR,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-1215,Community waste bin in Viman Nagar is completely damaged and trash is spilling out. Needs immediate action.,SOLID_WASTE,SAN-BIN,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-1755,Blocked municipal sewer pipe spilling contaminated black paani in Swargate!!,SEWERAGE_DRAINAGE,SEW-BLOCK,WTR,EN,EASY,synthetic_generator_v1
+CF-SYN-3363,Commercial obstruction of pedestrian walkway by illegal vendors in Viman Nagar!!,ENCROACHMENT,RDW-ENC,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-2023,Stormwater drain choked with plastic waste and silt in Viman Nagar before monsoon. Needs immediate action.,STORM_WATER,STM-DRN,WTR,EN,EASY,synthetic_generator_v1
+CF-SYN-4041,Dhur aani dhul hazard zali aahe Magarpatta residentials madhe. Khup mothi samsya aahe.,ENVIRONMENT_POLLUTION,PRK-AIR,PRK,MARATHI,MEDIUM,synthetic_generator_v1
+CF-SYN-1782,Blocked municipal sewer pipe spilling contaminated black water in Pimpri. Severely affecting residents.,SEWERAGE_DRAINAGE,SEW-BLOCK,WTR,EN,EASY,synthetic_generator_v1
+CF-SYN-3408,Gadi anadhikrut pane park keli aahe Koregaon Park lane entrance var. Urgent action ghyaychi garaj aahe.,TRAFFIC_PARKING,RDW-TRF,RDW,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-1808,"Gutter cover stolen/missing near school in Swargate, pedestrians falling in dark.",SEWERAGE_DRAINAGE,SEW-MAN,WTR,EN,EASY,synthetic_generator_v1
+CF-SYN-1750,Blocked sewer line causing flooding of gutter paani in Kalyani Nagar!!,SEWERAGE_DRAINAGE,SEW-BLOCK,WTR,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-1789,Blocked municipal sewer pipe spilling contaminated black water in Kothrud.,SEWERAGE_DRAINAGE,SEW-BLOCK,WTR,EN,EASY,synthetic_generator_v1
+CF-SYN-2477,Non-functioning LED street lamps on main road of Pimpri.,STREET_LIGHTING,ELE-LGT,ELE,EN,EASY,synthetic_generator_v1
+CF-SYN-2344,Road resurfacing zale nahiye Viman Nagar madhe trenching nantar.,ROADS_FOOTPATHS,RDW-RD,RDW,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-3387,Commercial obstruction of pedestrian walkway by illegal vendors in Chinchwad. Severely affecting residents.,ENCROACHMENT,RDW-ENC,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-2987,Animal carcass lying on main avenue in Swargate causing stench.,PUBLIC_HEALTH,SAN-ANML,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-1795,"Drainage pipeline chok up ho gayi hai Kothrud me, gunda paani phail raha hai!! Kripya dhyan dein!!",SEWERAGE_DRAINAGE,SEW-BLOCK,WTR,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-2753,Garden maintenance kharab zali aahe Bibwewadi area madhe. Kaalji ghyavi.,GARDENS_TREES,PRK-MAINT,PRK,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-1840,"Manhole slab phat gaya hai Hadapsar me, dhakkan lagao. Kripya dhyan dein.",SEWERAGE_DRAINAGE,SEW-MAN,WTR,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-3394,Shopkeeper erected permanent wooden structure covering sidewalk in Baner. Urgent attention required.,ENCROACHMENT,RDW-ENC,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-2562,"Electric pole jhuka hua hai Aundh me, wires open hain.",STREET_LIGHTING,ELE-POLE,ELE,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-1729,Gatar तुंबले aahe aani ghanerde pani rastyavar ala aahe Koregaon Park madhe.,SEWERAGE_DRAINAGE,SEW-BLOCK,WTR,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-3035,"Municipal public toilet dirty, uncleaned for weeks in Kondhwa. Posing dangerous safety hazard.",PUBLIC_HEALTH,SAN-HYG,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-1893,"Gatar ka dhakkan khula hai Viman Nagar main road par, accident ho sakta hai. Kripya dhyan dein.",SEWERAGE_DRAINAGE,SEW-MAN,WTR,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-2798,Public park play equipment broken and rusted in Shivajinagar garden.,GARDENS_TREES,PRK-MAINT,PRK,EN,EASY,synthetic_generator_v1
+CF-SYN-3418,No parking area me heavy vehicles parked in Kondhwa!! Jaldi action lo!!,TRAFFIC_PARKING,RDW-TRF,RDW,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-2438,Streetlight outage at Swargate junction causing safety risk at night. Severely affecting residents.,STREET_LIGHTING,ELE-LGT,ELE,EN,EASY,synthetic_generator_v1
+CF-SYN-3467,Abandoned rusted vehicle illegally parked blocking residential gate in Kondhwa.,TRAFFIC_PARKING,RDW-TRF,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-3612,Ghar patti bill madhe chuk aali aahe Wakad property sathi!! Khup mothi samsya aahe!!,PROPERTY_TAX,TAX-ERR,,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-2283,Pedestrian walk path completely broken in Viman Nagar. Jaldi action lo.,ROADS_FOOTPATHS,RDW-WALK,RDW,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-2487,LED street light phutli/band aahe Bavdhan chowk jawad. Kaalji ghyavi.,STREET_LIGHTING,ELE-LGT,ELE,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-3213,Malba blocking road in Aundh near construction site.,BUILDING_CONSTRUCTION,RDW-DEBR,RDW,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-1523,"Drinking water quality is contaminated in Bavdhan, health hazard to residents. Urgent attention required.",WATER_SUPPLY,WTR-QUAL,WTR,EN,EASY,synthetic_generator_v1
+CF-SYN-1771,Sewage line overflow ho rahi hai Sinhagad Road near market. Jaldi action lo.,SEWERAGE_DRAINAGE,SEW-BLOCK,WTR,HINGLISH,MEDIUM,synthetic_generator_v1
+CF-SYN-2043,Major nallah blocked with dumped trash near Baner bridge!! Needs immediate action!!,STORM_WATER,STM-DRN,WTR,EN,EASY,synthetic_generator_v1
+CF-SYN-3090,Municipal toilet block clogged aahe Wakad chowk madhe. Lokana khup tras hoto aahe.,PUBLIC_HEALTH,SAN-HYG,SAN,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-4223,Fire safety hazard due to blocked emergency escape route at Hadapsar mall. Severely affecting residents.,FIRE_DISASTER_SAFETY,SAF-FIRE,,EN,EASY,synthetic_generator_v1
+CF-SYN-2950,Stray cattle creating traffic hazard on main road in Aundh.,PUBLIC_HEALTH,SAN-ANML,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-1986,Rastyavar khup pani sathle aahe Aundh madhe pavsa nantar.,STORM_WATER,STM-LOG,WTR,MARATHI,MEDIUM,synthetic_generator_v1
+CF-SYN-2796,Garden maintenance kharab zali aahe Bibwewadi area madhe.,GARDENS_TREES,PRK-MAINT,PRK,MARATHI,MEDIUM,synthetic_generator_v1
+CF-SYN-3967,Loudspeaker playing loudly without municipal noise permit in Wakad.,LICENSES_PERMISSIONS,LIC-NOISE,,EN,EASY,synthetic_generator_v1
+CF-SYN-3381,Encroachment on public road by illegal sheds and food stalls in Kalyani Nagar. Needs immediate action.,ENCROACHMENT,RDW-ENC,RDW,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-3135,Building construction work proceeding without safety nets or permits in Kondhwa.,BUILDING_CONSTRUCTION,RDW-BLDG,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-1613,"Water supply pressure is extremely low in Kondhwa, tanks remain empty.",WATER_SUPPLY,WTR-PRES,WTR,EN,EASY,synthetic_generator_v1
+CF-SYN-1492,Pinyachya panyachi main pipeline burst zali aahe Bibwewadi madhe. Urgent action ghyaychi garaj aahe.,WATER_SUPPLY,WTR-LEAK,WTR,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-3329,Shopkeeper erected permanent wooden structure covering sidewalk in Bibwewadi!!,ENCROACHMENT,RDW-ENC,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-1082,Garbage vehicle has not arrived since yesterday in Kothrud. Trash is piling up outside buildings.,SOLID_WASTE,SAN-GARB,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-2854,Request anti-mosquito fogging drive in Chinchwad area.,PUBLIC_HEALTH,SAN-PEST,SAN,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-2507,"Vidyut khamba kalala aahe Pashan madhe, live wire ughadi aahe.",STREET_LIGHTING,ELE-POLE,ELE,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-3016,Community toilet clogged and dirty in Pimpri near station.,PUBLIC_HEALTH,SAN-HYG,SAN,HINGLISH,MEDIUM,synthetic_generator_v1
+CF-SYN-1343,"Road sweeping hot nahiye Kalyani Nagar chowkat, rastyavar khup mati aahe.",SOLID_WASTE,SAN-SWEEP,SAN,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-2671,Dangerous leaning tree in Viman Nagar garden boundary!! Khup mothi samsya aahe!!,GARDENS_TREES,PRK-TREE,PRK,MARATHI,MEDIUM,synthetic_generator_v1
+CF-SYN-3753,Property tax paid online but official payment receipt not generated for Chinchwad property. Severely affecting residents.,PROPERTY_TAX,TAX-REC,,EN,EASY,synthetic_generator_v1
+CF-SYN-1772,Sewage line backup causing foul liquid to flood pedestrian path at Yerwada. Urgent attention required.,SEWERAGE_DRAINAGE,SEW-BLOCK,WTR,EN,EASY,synthetic_generator_v1
+CF-SYN-1186,Raatri che veli Wakad madhe illegal dumping kela jaat aahe. Lokana khup tras hoto aahe.,SOLID_WASTE,SAN-DUMP,SAN,MARATHI,MEDIUM,synthetic_generator_v1
+CF-SYN-2979,Bhatkyan kutyancha tras vadhla aahe Katraj chowkat!!,PUBLIC_HEALTH,SAN-ANML,SAN,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-3777,Property tax paid online but official payment receipt not generated for Kalyani Nagar property. Needs immediate action.,PROPERTY_TAX,TAX-REC,,EN,EASY,synthetic_generator_v1
+CF-SYN-4359,Unsafe old building wall ready to fall in Shivajinagar area!! Logon ko bahut dikkat ho rahi hai!!,FIRE_DISASTER_SAFETY,SAF-DIS,,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-2778,Public park ka maintenance nahi ho raha hai Swargate me. Kripya dhyan dein.,GARDENS_TREES,PRK-MAINT,PRK,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-3232,Debris rastyavar taklyamule rasta block zala aahe Sinhagad Road madhe. Kaalji ghyavi.,BUILDING_CONSTRUCTION,RDW-DEBR,RDW,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-1374,Daily street cleaning miss ho rahi hai Kondhwa area me. Bahut badi dikkat hai.,SOLID_WASTE,SAN-SWEEP,SAN,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-4184,Generator noise disturbance in Magarpatta area. Bahut badi dikkat hai.,ENVIRONMENT_POLLUTION,PRK-NOIS,PRK,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-1841,Manhole cover open and missing on busy rod in Hadapsar!! Severe accident hazard!! Severely affecting residents!!,SEWERAGE_DRAINAGE,SEW-MAN,WTR,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-2813,"Mosquito menace in Warje near open drain, request anti-larval treatment. Posing dangerous safety hazard.",PUBLIC_HEALTH,SAN-PEST,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-3999,Commercial event hall playing loud music past midnight without sound permission in Sinhagad Road.,LICENSES_PERMISSIONS,LIC-NOISE,,EN,EASY,synthetic_generator_v1
+CF-SYN-3858,Unlicensed business in residential area in Deccan Gymkhana. Kaalji ghyavi.,LICENSES_PERMISSIONS,LIC-TRD,,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-4297,Fire safety norms follow hot nahiye Aundh commercial building madhe.,FIRE_DISASTER_SAFETY,SAF-FIRE,,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-1733,Sewage line backup causing foul liquid to flood pedestrian path at Pimpri.,SEWERAGE_DRAINAGE,SEW-BLOCK,WTR,EN,EASY,synthetic_generator_v1
+CF-SYN-3730,Tax pavti record pending dakhavtat Pimpri account madhe!! Lokana khup tras hoto aahe!!,PROPERTY_TAX,TAX-REC,,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-1867,"Manhole slab phat gaya hai Camp me, dhakkan lagao!!",SEWERAGE_DRAINAGE,SEW-MAN,WTR,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-3520,Traffic direction sign post broken and fallen down at Warje junction.,TRAFFIC_PARKING,RDW-SIGN,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-3587,Speed breaker sign missing hai Magarpatta me near school.,TRAFFIC_PARKING,RDW-SIGN,RDW,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-2884,"Machhar khup zale aahet Camp madhe, fogging gadi पाठवा. Khup mothi samsya aahe.",PUBLIC_HEALTH,SAN-PEST,SAN,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-2275,Broken sidewalk tiles and uneven pavement on main road in Wakad. Urgent attention required.,ROADS_FOOTPATHS,RDW-WALK,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-4240,Fire exit staircase block kela aahe saaman takun Baner imaratit!! Lokana khup tras hoto aahe!!,FIRE_DISASTER_SAFETY,SAF-FIRE,,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-3506,Traffic direction sign post broken and fallen down at Viman Nagar junction!!,TRAFFIC_PARKING,RDW-SIGN,RDW,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-3508,Traffic direction sign post broken and fallen down at Warje junction.,TRAFFIC_PARKING,RDW-SIGN,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-2075,Roadside storm drain blocked causing rainwater backflow in Chinchwad. Posing dangerous safety hazard.,STORM_WATER,STM-DRN,WTR,EN,EASY,synthetic_generator_v1
+CF-SYN-3120,Unsafe illegal structural alteration of building in Magarpatta without approval. Severely affecting residents.,BUILDING_CONSTRUCTION,RDW-BLDG,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-1450,"Municipal water main pipe phat gaya hai Baner me, paani waste ho raha hai. Logon ko bahut dikkat ho rahi hai.",WATER_SUPPLY,WTR-LEAK,WTR,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-2313,Road excavated for utility trench was left unpaved and abandoned in Kalyani Nagar!! Needs immediate action!!,ROADS_FOOTPATHS,RDW-RD,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-2222,Pedestrian footpath kharab zala aahe Magarpatta madhe. Urgent action ghyaychi garaj aahe.,ROADS_FOOTPATHS,RDW-WALK,RDW,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-1005,Household waste is not collected by municipal truck in Swargate. Bad odor spreading everywhere. Urgent attention required.,SOLID_WASTE,SAN-GARB,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-3069,Municipal toilet cleaning missed in Yerwada area.,PUBLIC_HEALTH,SAN-HYG,SAN,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-3735,Tax payment status showing pending despite money debited from bank for Koregaon Park.,PROPERTY_TAX,TAX-REC,,EN,EASY,synthetic_generator_v1
+CF-SYN-1347,Safai kamgar Kalyani Nagar madhe rasta saaf karat nahiye. Urgent action ghyaychi garaj aahe.,SOLID_WASTE,SAN-SWEEP,SAN,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-3658,Property tax assessment mistake in municipal bill for Sinhagad Road!! Jaldi action lo!!,PROPERTY_TAX,TAX-ERR,,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-1312,Galli safai zali nahiye Swargate madhe khup divsa pasun.,SOLID_WASTE,SAN-SWEEP,SAN,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-2528,Tilted electrical pole with open junction box exposing wires in Viman Nagar.,STREET_LIGHTING,ELE-POLE,ELE,EN,EASY,synthetic_generator_v1
+CF-SYN-1010,Gharoghari kachra sankalan gadi Camp madhe aali nahi. Badha kachra rastyavar aala aahe.,SOLID_WASTE,SAN-GARB,SAN,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-2749,Garden swings and benches broken in Magarpatta municipal garden.,GARDENS_TREES,PRK-MAINT,PRK,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-2207,Curb stones loose and broken on footpath near Wakad market.,ROADS_FOOTPATHS,RDW-WALK,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-3170,Illegal floor construction in residential building at Kalyani Nagar.,BUILDING_CONSTRUCTION,RDW-BLDG,RDW,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-2461,LED street light phutli/band aahe Yerwada chowk jawad.,STREET_LIGHTING,ELE-LGT,ELE,MARATHI,MEDIUM,synthetic_generator_v1
+CF-SYN-3420,No-parking zone violated constantly by double parked cars in Shivajinagar. Posing dangerous safety hazard.,TRAFFIC_PARKING,RDW-TRF,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-3820,Bina trade license ke commercial workshop chal raha hai Sinhagad Road me!!,LICENSES_PERMISSIONS,LIC-TRD,,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-4260,Fire exit aur emergency staircase block karke rakha hai Baner me.,FIRE_DISASTER_SAFETY,SAF-FIRE,,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-4169,High noise level from commercial construction generator in quiet zone at Pashan.,ENVIRONMENT_POLLUTION,PRK-NOIS,PRK,EN,EASY,synthetic_generator_v1
+CF-SYN-2199,"Rastyavar motha khadda padla aahe Warje chowkat, gadi slip hote. Urgent action ghyaychi garaj aahe.",ROADS_FOOTPATHS,RDW-POT,RDW,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-2480,Dark stretch on highway near Magarpatta due to broken streetlight fittings.,STREET_LIGHTING,ELE-LGT,ELE,EN,EASY,synthetic_generator_v1
+CF-SYN-2989,Stray cattle creating traffic hazard on main road in Aundh.,PUBLIC_HEALTH,SAN-ANML,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-1452,Main drinking water pipeline burst in Pimpri. High pressure water wasting on road. Severely affecting residents.,WATER_SUPPLY,WTR-LEAK,WTR,EN,EASY,synthetic_generator_v1
+CF-SYN-2079,Stormwater channel clogged zali aahe Aundh near market.,STORM_WATER,STM-DRN,WTR,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-3702,Property tax payment record not updated in system for Shivajinagar assessment.,PROPERTY_TAX,TAX-REC,,EN,EASY,synthetic_generator_v1
+CF-SYN-2068,Rastyavarchi nali block aahe plastic bags mule Aundh madhe.,STORM_WATER,STM-DRN,WTR,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-1262,Community bin completely damaged hai Sinhagad Road near station.,SOLID_WASTE,SAN-BIN,SAN,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-3630,Wrong tax bill received with excess penalty in Sinhagad Road.,PROPERTY_TAX,TAX-ERR,,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-1237,Dustbin madhun kachra rastyavar sandat aahe Chinchwad madhe!!,SOLID_WASTE,SAN-BIN,SAN,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-3274,Building demolition rubble dumped on footpath at Kalyani Nagar. Urgent action ghyaychi garaj aahe.,BUILDING_CONSTRUCTION,RDW-DEBR,RDW,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-2569,Live electrical wire thongli aahe Camp bachat park jawad.,STREET_LIGHTING,ELE-POLE,ELE,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-4140,Excessive noise pollution from illegal industrial unit in Koregaon Park!! Posing dangerous safety hazard!!,ENVIRONMENT_POLLUTION,PRK-NOIS,PRK,EN,EASY,synthetic_generator_v1
+CF-SYN-1152,Bulk waste and plastic garbage dumped illegally on main road corner in Kondhwa.,SOLID_WASTE,SAN-DUMP,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-1603,"Panyacha dab khup kamya aahe Pimpri madhe, pani var chadhat nahi.",WATER_SUPPLY,WTR-PRES,WTR,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-3000,"Mulela prani rastyavar padla aahe Pimpri madhe, saaf kara. Lokana khup tras hoto aahe.",PUBLIC_HEALTH,SAN-ANML,SAN,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-2297,Curb stones loose and broken on footpath near Wakad market.,ROADS_FOOTPATHS,RDW-WALK,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-2571,Live wire khule me latak raha hai Koregaon Park near school!! Bahut badi dikkat hai!!,STREET_LIGHTING,ELE-POLE,ELE,HINGLISH,MEDIUM,synthetic_generator_v1
+CF-SYN-3857,Trade permit violation by commercial store in Viman Nagar.,LICENSES_PERMISSIONS,LIC-TRD,,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-4010,Industrial smoke emissions from unapproved chimney in Warje area.,ENVIRONMENT_POLLUTION,PRK-AIR,PRK,EN,EASY,synthetic_generator_v1
+CF-SYN-3904,Loudspeaker noise violation past midnight in Kalyani Nagar. Lokana khup tras hoto aahe.,LICENSES_PERMISSIONS,LIC-NOISE,,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-1277,Community waste bin in Warje is completely damaged and trash is spilling out.,SOLID_WASTE,SAN-BIN,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-4376,Dilapidated building balcony wall cracked severely and leaning over street in Deccan Gymkhana.,FIRE_DISASTER_SAFETY,SAF-DIS,,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-3405,Double parking obstruction in Pashan main market. Khup mothi samsya aahe.,TRAFFIC_PARKING,RDW-TRF,RDW,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-1173,Khuli jagah par illegal dumping ho raha hai Kothrud me. Logon ko bahut dikkat ho rahi hai.,SOLID_WASTE,SAN-DUMP,SAN,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-2558,"Vidyut khamba kalala aahe Pashan madhe, live wire ughadi aahe.",STREET_LIGHTING,ELE-POLE,ELE,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-4102,High noise level from commercial construction generator in quiet zone at Kothrud!!,ENVIRONMENT_POLLUTION,PRK-NOIS,PRK,EN,EASY,synthetic_generator_v1
+CF-SYN-2746,Neglected green space and unwatered lawn in Pimpri municipal park. Severely affecting residents.,GARDENS_TREES,PRK-MAINT,PRK,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-4139,Commercial machine noise causing noise pollution in Camp.,ENVIRONMENT_POLLUTION,PRK-NOIS,PRK,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-4342,Unsafe cracked retaining wall about to collapse on road in Bavdhan.,FIRE_DISASTER_SAFETY,SAF-DIS,,EN,EASY,synthetic_generator_v1
+CF-SYN-4248,Flammable chemical unsafe store kela aahe Chinchwad residential madhe. Lokana khup tras hoto aahe.,FIRE_DISASTER_SAFETY,SAF-FIRE,,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-2077,Rainwater drain blockage in Shivajinagar causing water logging risk.,STORM_WATER,STM-DRN,WTR,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-1845,"Open manhole cover in Sinhagad Road near station, bahut dangerous hai.",SEWERAGE_DRAINAGE,SEW-MAN,WTR,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-2589,Live wire khule me latak raha hai Deccan Gymkhana near school.,STREET_LIGHTING,ELE-POLE,ELE,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-2203,Broken sidewalk tiles and uneven pavement on main road in Wakad. Urgent attention required.,ROADS_FOOTPATHS,RDW-WALK,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-2653,"Zad padle aahe Wakad road var, rasta block zala.",GARDENS_TREES,PRK-TREE,PRK,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-3356,Encroachment zale aahe main street var Koregaon Park chowkat.,ENCROACHMENT,RDW-ENC,RDW,MARATHI,MEDIUM,synthetic_generator_v1
+CF-SYN-3721,Tax payment status showing pending despite money debited from bank for Camp.,PROPERTY_TAX,TAX-REC,,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-4101,Aawajache pradushan khup vadhle aahe commercial machine mule Pashan madhe.,ENVIRONMENT_POLLUTION,PRK-NOIS,PRK,MARATHI,MEDIUM,synthetic_generator_v1
+CF-SYN-1254,Community waste bin in Baner is completely damaged and trash is spilling out. Severely affecting residents.,SOLID_WASTE,SAN-BIN,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-4088,Open garbage burning causing heavy smog and breathing issues in Camp.,ENVIRONMENT_POLLUTION,PRK-AIR,PRK,EN,EASY,synthetic_generator_v1
+CF-SYN-1154,Unknown commercial vehicles dumping heaps of garbage at roadside near Yerwada open ground. Urgent attention required.,SOLID_WASTE,SAN-DUMP,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-3912,Commercial event hall playing loud music past midnight without sound permission in Warje!!,LICENSES_PERMISSIONS,LIC-NOISE,,EN,EASY,synthetic_generator_v1
+CF-SYN-4162,Commercial machine noise causing noise pollution in Aundh.,ENVIRONMENT_POLLUTION,PRK-NOIS,PRK,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-2321,Dug up road left open without asphalt layer in Magarpatta for months. Severely affecting residents.,ROADS_FOOTPATHS,RDW-RD,RDW,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-2783,Public park play equipment broken and rusted in Shivajinagar garden.,GARDENS_TREES,PRK-MAINT,PRK,EN,EASY,synthetic_generator_v1
+CF-SYN-3259,Builder dumped construction debris and concrete waste on public lane in Kothrud.,BUILDING_CONSTRUCTION,RDW-DEBR,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-4020,Sweeper burning plastic waste and dry leaves in open plot at Kothrud causing toxic smoke. Severely affecting residents.,ENVIRONMENT_POLLUTION,PRK-AIR,PRK,EN,EASY,synthetic_generator_v1
+CF-SYN-1934,Severe rainpaani paanilogging under subway/bridge at Magarpatta!! Traffic blocked!!,STORM_WATER,STM-LOG,WTR,EN,EASY,synthetic_generator_v1
+CF-SYN-2768,Unmaintained park and broken fences in Bavdhan.,GARDENS_TREES,PRK-MAINT,PRK,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-3922,Loudspeaker playing loudly without municipal noise permit in Viman Nagar.,LICENSES_PERMISSIONS,LIC-NOISE,,EN,EASY,synthetic_generator_v1
+CF-SYN-2795,Public park play equipment broken and rusted in Warje garden. Severely affecting residents.,GARDENS_TREES,PRK-MAINT,PRK,EN,EASY,synthetic_generator_v1
+CF-SYN-4197,Industrial generator ka shor bahut hai Koregaon Park residential me.,ENVIRONMENT_POLLUTION,PRK-NOIS,PRK,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-1504,"Tap water supply is contaminated, muddy, and smells like sewage in Bavdhan. Posing dangerous safety hazard.",WATER_SUPPLY,WTR-QUAL,WTR,EN,EASY,synthetic_generator_v1
+CF-SYN-2510,Live electrical wire hanging dangerously low near park gate in Bavdhan!!,STREET_LIGHTING,ELE-POLE,ELE,EN,EASY,synthetic_generator_v1
+CF-SYN-2785,Park lights broken and benches damaged in Viman Nagar public garden.,GARDENS_TREES,PRK-MAINT,PRK,EN,EASY,synthetic_generator_v1
+CF-SYN-2069,"Drainage channel uncleaned and clogged in Pashan, monsoon clearance needed.",STORM_WATER,STM-DRN,WTR,EN,EASY,synthetic_generator_v1
+CF-SYN-2285,Sidewalk pavers broken hain Kothrud main road par. Logon ko bahut dikkat ho rahi hai.,ROADS_FOOTPATHS,RDW-WALK,RDW,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-3772,Tax payment status showing pending despite money debited from bank for Camp.,PROPERTY_TAX,TAX-REC,,EN,EASY,synthetic_generator_v1
+CF-SYN-2512,Dangerous hanging wire hazard in Warje area!! Bahut badi dikkat hai!!,STREET_LIGHTING,ELE-POLE,ELE,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-2634,Overgrown tree branch electrical wire la sparsat aahe Aundh madhe.,GARDENS_TREES,PRK-TREE,PRK,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-1415,Main drinking water pipeline burst in Wakad. High pressure water wasting on road. Urgent attention required.,WATER_SUPPLY,WTR-LEAK,WTR,EN,EASY,synthetic_generator_v1
+CF-SYN-2902,Aggressive stray dogs chasing two-wheelers at night in Viman Nagar.,PUBLIC_HEALTH,SAN-ANML,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-3084,Unhygienic community restroom near station in Deccan Gymkhana stink spreading.,PUBLIC_HEALTH,SAN-HYG,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-2688,Large tree branch fell across main road in Shivajinagar blocking traffic.,GARDENS_TREES,PRK-TREE,PRK,EN,EASY,synthetic_generator_v1
+CF-SYN-2392,Uneven and damaged road surface in Bavdhan main lane.,ROADS_FOOTPATHS,RDW-RD,RDW,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-3900,Commercial establishment running without health and safety permit in Kalyani Nagar. Urgent attention required.,LICENSES_PERMISSIONS,LIC-TRD,,EN,EASY,synthetic_generator_v1
+CF-SYN-1496,"Municipal supply pipe burst in Aundh, thousands of liters of clean water wasted.",WATER_SUPPLY,WTR-LEAK,WTR,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-1666,Total absence of drinking paani supply in Aundh block for 2 days!! Needs immediate action!!,WATER_SUPPLY,WTR-PRES,WTR,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-3175,Unsafe scaffolding over public walk path in Swargate.,BUILDING_CONSTRUCTION,RDW-BLDG,RDW,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-1163,Khuli jagah par illegal dumping ho raha hai Warje me.,SOLID_WASTE,SAN-DUMP,SAN,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-2492,All streetlights on main colony street off in Deccan Gymkhana for past 2 weeks. Complete darkness. Urgent attention required.,STREET_LIGHTING,ELE-LGT,ELE,EN,EASY,synthetic_generator_v1
+CF-SYN-2845,Anti mosquito fogging spray garajeshche aahe Sinhagad Road society madhe.,PUBLIC_HEALTH,SAN-PEST,SAN,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-3028,Toilet hygine issue in Wakad public restroom.,PUBLIC_HEALTH,SAN-HYG,SAN,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-1166,Khuli jagah par illegal dumping ho raha hai Warje me.,SOLID_WASTE,SAN-DUMP,SAN,HINGLISH,MEDIUM,synthetic_generator_v1
+CF-SYN-4128,Excessive noise pollution from illegal industrial unit in Kondhwa. Urgent attention required.,ENVIRONMENT_POLLUTION,PRK-NOIS,PRK,EN,EASY,synthetic_generator_v1
+CF-SYN-3583,Damaged speed limit traffic board in Shivajinagar needs replacement.,TRAFFIC_PARKING,RDW-SIGN,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-2063,Roadside drain choked with rubbish in Warje.,STORM_WATER,STM-DRN,WTR,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-2074,Storm water drain kachrayane block zala aahe Deccan Gymkhana madhe. Khup mothi samsya aahe.,STORM_WATER,STM-DRN,WTR,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-2206,Pedestrian footpath kharab zala aahe Aundh madhe. Urgent action ghyaychi garaj aahe.,ROADS_FOOTPATHS,RDW-WALK,RDW,MARATHI,MEDIUM,synthetic_generator_v1
+CF-SYN-4176,High noise level from commercial construction generator in quiet zone at Pashan.,ENVIRONMENT_POLLUTION,PRK-NOIS,PRK,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-3866,Shop operating in violation of trade license terms in Kothrud residential area. Posing dangerous safety hazard.,LICENSES_PERMISSIONS,LIC-TRD,,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-2049,Roadside storm drain blocked causing rainwater backflow in Koregaon Park.,STORM_WATER,STM-DRN,WTR,EN,EASY,synthetic_generator_v1
+CF-SYN-2539,Live wire khule me latak raha hai Viman Nagar near school.,STREET_LIGHTING,ELE-POLE,ELE,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-2003,Major nallah blocked with dumped trash near Wakad bridge. Needs immediate action.,STORM_WATER,STM-DRN,WTR,EN,EASY,synthetic_generator_v1
+CF-SYN-1376,Daily street cleaning miss ho rahi hai Kondhwa area me. Bahut badi dikkat hai.,SOLID_WASTE,SAN-SWEEP,SAN,HINGLISH,MEDIUM,synthetic_generator_v1
+CF-SYN-4209,Fire exit staircase block kela aahe saaman takun Deccan Gymkhana imaratit!! Urgent action ghyaychi garaj aahe!!,FIRE_DISASTER_SAFETY,SAF-FIRE,,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-2046,Stormwater channel clogged zali aahe Bavdhan near market. Khup mothi samsya aahe.,STORM_WATER,STM-DRN,WTR,MARATHI,MEDIUM,synthetic_generator_v1
+CF-SYN-4262,Fire exit staircase block kela aahe saaman takun Wakad imaratit. Lokana khup tras hoto aahe.,FIRE_DISASTER_SAFETY,SAF-FIRE,,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-1767,Sewer line blocked and sewage water overflowing onto main street in Warje.,SEWERAGE_DRAINAGE,SEW-BLOCK,WTR,EN,EASY,synthetic_generator_v1
+CF-SYN-1263,"Metal garbage container broken and missing cover in Kondhwa, needs replacement. Needs immediate action.",SOLID_WASTE,SAN-BIN,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-3995,Event hall violating noise permission timing in Bibwewadi. Jaldi action lo.,LICENSES_PERMISSIONS,LIC-NOISE,,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-4252,Commercial building emergency staircase and fire exit blocked with goods in Kondhwa. Urgent attention required.,FIRE_DISASTER_SAFETY,SAF-FIRE,,EN,EASY,synthetic_generator_v1
+CF-SYN-1429,Main drinking water pipeline burst in Katraj. High pressure water wasting on road.,WATER_SUPPLY,WTR-LEAK,WTR,EN,EASY,synthetic_generator_v1
+CF-SYN-1198,Unknown commercial vehicles dumping heaps of garbage at roadside near Kondhwa open ground.,SOLID_WASTE,SAN-DUMP,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-3726,Property tax payment record not updated in system for Wakad assessment. Urgent attention required.,PROPERTY_TAX,TAX-REC,,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-2340,Uneven and damaged road surface in Katraj main lane.,ROADS_FOOTPATHS,RDW-RD,RDW,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-2857,"Mosquito menace in Chinchwad near open drain, request anti-larval treatment.",PUBLIC_HEALTH,SAN-PEST,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-2445,Non-functioning LED street lamps on main road of Swargate. Urgent attention required.,STREET_LIGHTING,ELE-LGT,ELE,EN,EASY,synthetic_generator_v1
+CF-SYN-4211,Fire safety hazard due to blocked emergency escape route at Shivajinagar mall.,FIRE_DISASTER_SAFETY,SAF-FIRE,,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-3102,Building construction work proceeding without safety nets or permits in Aundh. Posing dangerous safety hazard.,BUILDING_CONSTRUCTION,RDW-BLDG,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-2070,Major nallah blocked with dumped trash near Kalyani Nagar bridge. Posing dangerous safety hazard.,STORM_WATER,STM-DRN,WTR,EN,EASY,synthetic_generator_v1
+CF-SYN-3216,Builder dumped construction debris and concrete waste on public lane in Chinchwad. Needs immediate action.,BUILDING_CONSTRUCTION,RDW-DEBR,RDW,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-2277,Walkway paver blocks missing aahet Sinhagad Road near station. Urgent action ghyaychi garaj aahe.,ROADS_FOOTPATHS,RDW-WALK,RDW,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-4142,Excessive noise pollution from illegal industrial unit in Kondhwa. Urgent attention required.,ENVIRONMENT_POLLUTION,PRK-NOIS,PRK,EN,EASY,synthetic_generator_v1
+CF-SYN-1290,Community waste bin in Warje is completely damaged and trash is spilling out.,SOLID_WASTE,SAN-BIN,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-3831,Trade permit violation by commercial store in Viman Nagar.,LICENSES_PERMISSIONS,LIC-TRD,,HINGLISH,MEDIUM,synthetic_generator_v1
+CF-SYN-1848,Broken drain chamber cover creating open pit on footpath in Swargate.,SEWERAGE_DRAINAGE,SEW-MAN,WTR,EN,EASY,synthetic_generator_v1
+CF-SYN-1135,Unknown commercial vehicles dumping heaps of garbage at roadside near Kondhwa open ground.,SOLID_WASTE,SAN-DUMP,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-1372,Dust and litter accumulating on roadside in Chinchwad due to lack of daily sweeping.,SOLID_WASTE,SAN-SWEEP,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-1349,Galli safai zali nahiye Koregaon Park madhe khup divsa pasun.,SOLID_WASTE,SAN-SWEEP,SAN,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-2914,"Dead stray dog lying on roadside in Warje, sanitary removal needed.",PUBLIC_HEALTH,SAN-ANML,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-1944,Pavsache pani rastyavar sachalay Pashan society bahaar.,STORM_WATER,STM-LOG,WTR,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-2721,Park lights broken and benches damaged in Deccan Gymkhana public garden.,GARDENS_TREES,PRK-MAINT,PRK,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-3938,Late night loudspeaker chal raha hai Camp me bina permission ke.,LICENSES_PERMISSIONS,LIC-NOISE,,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-3686,Property tax assessment error aala aahe online bill madhe.,PROPERTY_TAX,TAX-ERR,,MARATHI,MEDIUM,synthetic_generator_v1
+CF-SYN-1217,"Kachra kundi phutli aahe Camp chowk jawad, navin kundi basva!!",SOLID_WASTE,SAN-BIN,SAN,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-2296,"Footpath paving blocks broken and missing in Koregaon Park, senior citizens tripping. Urgent attention required.",ROADS_FOOTPATHS,RDW-WALK,RDW,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-2415,Dark stretch on highway near Bibwewadi due to broken streetlight fittings.,STREET_LIGHTING,ELE-LGT,ELE,EN,EASY,synthetic_generator_v1
+CF-SYN-2154,Road surface broken with large pothole near signal in Bibwewadi.,ROADS_FOOTPATHS,RDW-POT,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-1088,Household waste is not collected by municipal truck in Warje. Bad odor spreading everywhere. Posing dangerous safety hazard.,SOLID_WASTE,SAN-GARB,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-2916,Aggressive stray dogs chasing two-wheelers at night in Camp. Severely affecting residents.,PUBLIC_HEALTH,SAN-ANML,SAN,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-2339,"Rasta khadun thevla aahe Bibwewadi madhe, damar kela nahiye.",ROADS_FOOTPATHS,RDW-RD,RDW,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-2926,Stray cattle creating traffic hazard on main road in Chinchwad.,PUBLIC_HEALTH,SAN-ANML,SAN,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-2351,Uneven and damaged road surface in Kothrud main lane. Jaldi action lo.,ROADS_FOOTPATHS,RDW-RD,RDW,HINGLISH,MEDIUM,synthetic_generator_v1
+CF-SYN-2646,Large tree branch fell across main road in Koregaon Park blocking traffic. Needs immediate action.,GARDENS_TREES,PRK-TREE,PRK,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-4251,Unsafe storage of highly flammable chemical drums in residential building in Swargate. Urgent attention required.,FIRE_DISASTER_SAFETY,SAF-FIRE,,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-3237,"Heavy debris, gravel, and sand blocking pedestrian passage in Kalyani Nagar.",BUILDING_CONSTRUCTION,RDW-DEBR,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-4374,Crumbling concrete structure hanging dangerously over public sidewalk in Kondhwa. Needs immediate action.,FIRE_DISASTER_SAFETY,SAF-DIS,,EN,EASY,synthetic_generator_v1
+CF-SYN-2269,Footpath tiles phutlya aahet Aundh main avenue var!!,ROADS_FOOTPATHS,RDW-WALK,RDW,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-4159,Excessive noise pollution from illegal industrial unit in Camp. Needs immediate action.,ENVIRONMENT_POLLUTION,PRK-NOIS,PRK,EN,EASY,synthetic_generator_v1
+CF-SYN-3529,Missing road sign indicator at Pashan curve. Bahut badi dikkat hai.,TRAFFIC_PARKING,RDW-SIGN,RDW,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-2907,Stray animal menace on main road at Warje. Kripya dhyan dein.,PUBLIC_HEALTH,SAN-ANML,SAN,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-3926,Sound permit violation by party venue in Bibwewadi.,LICENSES_PERMISSIONS,LIC-NOISE,,HINGLISH,MEDIUM,synthetic_generator_v1
+CF-SYN-3989,Ratri late night loud mic/speaker suru aahe Wakad madhe bina parvangi. Urgent action ghyaychi garaj aahe.,LICENSES_PERMISSIONS,LIC-NOISE,,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-2141,Huge dangerous pothole on main avenue in Kothrud causing bike accidents.,ROADS_FOOTPATHS,RDW-POT,RDW,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-2850,"Severe mosquito breeding in stagnant water in Kondhwa, request fogging. Urgent attention required.",PUBLIC_HEALTH,SAN-PEST,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-2597,Sparking open wire hanging from light pole at Wakad market!!,STREET_LIGHTING,ELE-POLE,ELE,EN,EASY,synthetic_generator_v1
+CF-SYN-4363,Cracked balcony wall hanging dangerously over sidewalk at Sinhagad Road.,FIRE_DISASTER_SAFETY,SAF-DIS,,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-3065,Municipal toilet cleaning missed in Yerwada area.,PUBLIC_HEALTH,SAN-HYG,SAN,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-2538,Live wire khule me latak raha hai Pashan near school.,STREET_LIGHTING,ELE-POLE,ELE,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-2138,"Rastyavar motha khadda padla aahe Katraj chowkat, gadi slip hote.",ROADS_FOOTPATHS,RDW-POT,RDW,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-1380,Safai kamgar Katraj madhe rasta saaf karat nahiye.,SOLID_WASTE,SAN-SWEEP,SAN,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-3889,Commercial establishment running without health and safety permit in Bibwewadi. Severely affecting residents.,LICENSES_PERMISSIONS,LIC-TRD,,EN,EASY,synthetic_generator_v1
+CF-SYN-1468,Water supply line burst near Swargate main road.,WATER_SUPPLY,WTR-LEAK,WTR,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-4397,Unsafe old building wall ready to fall in Kothrud area. Logon ko bahut dikkat ho rahi hai.,FIRE_DISASTER_SAFETY,SAF-DIS,,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-3335,Shopkeeper erected permanent wooden structure covering sidewalk in Deccan Gymkhana. Posing dangerous safety hazard.,ENCROACHMENT,RDW-ENC,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-2052,Roadside storm drain blocked causing rainwater backflow in Koregaon Park.,STORM_WATER,STM-DRN,WTR,EN,EASY,synthetic_generator_v1
+CF-SYN-1623,Paani bilkul nahi aaya Viman Nagar me kuch dino se se. Kripya dhyan dein.,WATER_SUPPLY,WTR-PRES,WTR,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-3017,Municipal toilet cleaning missed in Yerwada area.,PUBLIC_HEALTH,SAN-HYG,SAN,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-3062,Community toilet clogged and dirty in Hadapsar near station.,PUBLIC_HEALTH,SAN-HYG,SAN,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-1676,"Very low water pressure in municipal pipeline in Swargate, upper floors getting no water. Severely affecting residents.",WATER_SUPPLY,WTR-PRES,WTR,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-1697,Water supply band aahe Koregaon Park madhe sakalchya velis!! Khup mothi samsya aahe!!,WATER_SUPPLY,WTR-PRES,WTR,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-4246,Emergency fire exit band aahe Viman Nagar complex jawad.,FIRE_DISASTER_SAFETY,SAF-FIRE,,MARATHI,MEDIUM,synthetic_generator_v1
+CF-SYN-3163,Bina parvangi floor build kela jaat aahe Camp madhe.,BUILDING_CONSTRUCTION,RDW-BLDG,RDW,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-1601,Total absence of drinking water supply in Koregaon Park block for 2 days. Needs immediate action.,WATER_SUPPLY,WTR-PRES,WTR,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-3642,Wrong tax slab applied on residential property tax bill in Swargate. Posing dangerous safety hazard.,PROPERTY_TAX,TAX-ERR,,EN,EASY,synthetic_generator_v1
+CF-SYN-1192,Illegal dumping of industrial and commercial waste by trucks in open plot at Viman Nagar.,SOLID_WASTE,SAN-DUMP,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-3226,Illegal dumping of building demolition rubble on road in Wakad.,BUILDING_CONSTRUCTION,RDW-DEBR,RDW,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-2712,Public park ka maintenance nahi ho raha hai Pimpri me.,GARDENS_TREES,PRK-MAINT,PRK,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-1938,"Ghatkopar subway jawal waterlogging zali aahe Hadapsar madhe, gadyan chalat nahi.",STORM_WATER,STM-LOG,WTR,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-3690,Wrong tax slab applied on residential property tax bill in Deccan Gymkhana. Severely affecting residents.,PROPERTY_TAX,TAX-ERR,,EN,EASY,synthetic_generator_v1
+CF-SYN-3530,Traffic direction board missing in Pashan area. Kaalji ghyavi.,TRAFFIC_PARKING,RDW-SIGN,RDW,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-3123,Bina approval illegal building modification in Chinchwad.,BUILDING_CONSTRUCTION,RDW-BLDG,RDW,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-2276,Walkway paver blocks missing aahet Shivajinagar near station.,ROADS_FOOTPATHS,RDW-WALK,RDW,MARATHI,MEDIUM,synthetic_generator_v1
+CF-SYN-1965,Knee deep water stagnation on main road in Bavdhan after rain.,STORM_WATER,STM-LOG,WTR,EN,EASY,synthetic_generator_v1
+CF-SYN-1576,Nala tun ghanerde aani ghan vasache pani yetahe Sinhagad Road madhe.,WATER_SUPPLY,WTR-QUAL,WTR,MARATHI,MEDIUM,synthetic_generator_v1
+CF-SYN-3774,Property tax paid online but official payment receipt not generated for Wakad property.,PROPERTY_TAX,TAX-REC,,EN,EASY,synthetic_generator_v1
+CF-SYN-1770,Sewage line overflow ho rahi hai Warje near market. Kripya dhyan dein.,SEWERAGE_DRAINAGE,SEW-BLOCK,WTR,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-1655,"Panyacha dab khup kamya aahe Deccan Gymkhana madhe, pani var chadhat nahi!!",WATER_SUPPLY,WTR-PRES,WTR,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-1929,"Waterlogging problem under flyover at Shivajinagar, traffic jam ho raha hai.",STORM_WATER,STM-LOG,WTR,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-3291,Debris left on public street post building work in Kondhwa. Urgent attention required.,BUILDING_CONSTRUCTION,RDW-DEBR,RDW,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-1208,Dustbin madhun kachra rastyavar sandat aahe Sinhagad Road madhe.,SOLID_WASTE,SAN-BIN,SAN,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-3348,Encroachment zale aahe main street var Pimpri chowkat. Khup mothi samsya aahe.,ENCROACHMENT,RDW-ENC,RDW,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-2669,Overgrown dangerous tree branches touching electrical lines in Camp.,GARDENS_TREES,PRK-TREE,PRK,EN,EASY,synthetic_generator_v1
+CF-SYN-1090,Kachra gaadi Wakad me 2 hafte se nahi aayi hai. Kachra Society ke bahar jama ho gaya hai.,SOLID_WASTE,SAN-GARB,SAN,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-1963,Monsoon waterlogging on street in Aundh due to lack of drainage outlet. Needs immediate action.,STORM_WATER,STM-LOG,WTR,EN,EASY,synthetic_generator_v1
+CF-SYN-2316,Road resurfacing zale nahiye Wakad madhe trenching nantar. Urgent action ghyaychi garaj aahe.,ROADS_FOOTPATHS,RDW-RD,RDW,MARATHI,MEDIUM,synthetic_generator_v1
+CF-SYN-3962,Loudspeaker playing loudly without municipal noise permit in Viman Nagar. Needs immediate action.,LICENSES_PERMISSIONS,LIC-NOISE,,EN,EASY,synthetic_generator_v1
+CF-SYN-3294,Debris left on public street post building work in Bibwewadi. Severely affecting residents.,BUILDING_CONSTRUCTION,RDW-DEBR,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-2629,Fallen tree blocking street in Sinhagad Road near station.,GARDENS_TREES,PRK-TREE,PRK,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-1871,"Gutter cover stolen/missing near school in Pimpri, pedestrians falling in dark. Urgent attention required.",SEWERAGE_DRAINAGE,SEW-MAN,WTR,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-3121,Unsafe illegal structural alteration of building in Warje without approval.,BUILDING_CONSTRUCTION,RDW-BLDG,RDW,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-1469,Underground pipeline leaking heavily on main street of Swargate. Severely affecting residents.,WATER_SUPPLY,WTR-LEAK,WTR,EN,EASY,synthetic_generator_v1
+CF-SYN-2656,Dead tree leaning precariously over house roof in Bibwewadi!! Needs immediate action!!,GARDENS_TREES,PRK-TREE,PRK,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-3111,Anadhikrut baandhkaam suru aahe Swargate madhe bina permission!! Khup mothi samsya aahe!!,BUILDING_CONSTRUCTION,RDW-BLDG,RDW,MARATHI,MEDIUM,synthetic_generator_v1
+CF-SYN-1060,Amchya Yerwada gallyat kachra gadi 2 aathavde zale aali nahiye. Kachra gharabaher sathla aahe.,SOLID_WASTE,SAN-GARB,SAN,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-4079,Air pollution vadhle aahe open garbage burning mule Kondhwa madhe!!,ENVIRONMENT_POLLUTION,PRK-AIR,PRK,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-3194,Building construction work proceeding without safety nets or permits in Sinhagad Road!! Posing dangerous safety hazard!!,BUILDING_CONSTRUCTION,RDW-BLDG,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-3283,Builder ne construction debris raste par phenka hai Viman Nagar me.,BUILDING_CONSTRUCTION,RDW-DEBR,RDW,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-1842,Gatar slab tutun motha khadda zala aahe Shivajinagar madhe!!,SEWERAGE_DRAINAGE,SEW-MAN,WTR,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-3056,Toilet hygine issue in Sinhagad Road public restroom!!,PUBLIC_HEALTH,SAN-HYG,SAN,MARATHI,MEDIUM,synthetic_generator_v1
+CF-SYN-3855,Commercial establishment running without health and safety permit in Magarpatta!! Needs immediate action!!,LICENSES_PERMISSIONS,LIC-TRD,,EN,EASY,synthetic_generator_v1
+CF-SYN-3536,Speed breaker sign missing aahe Aundh school jawad. Lokana khup tras hoto aahe.,TRAFFIC_PARKING,RDW-SIGN,RDW,MARATHI,MEDIUM,synthetic_generator_v1
+CF-SYN-3513,Speed breaker sign missing aahe Chinchwad school jawad. Kaalji ghyavi.,TRAFFIC_PARKING,RDW-SIGN,RDW,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-1440,Underground pipeline leaking heavily on main street of Katraj.,WATER_SUPPLY,WTR-LEAK,WTR,EN,EASY,synthetic_generator_v1
+CF-SYN-4334,Bhinta tutun rastyavar padnar aahe Kondhwa chowk madhe.,FIRE_DISASTER_SAFETY,SAF-DIS,,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-3604,Property tax assessment mistake in municipal bill for Bavdhan.,PROPERTY_TAX,TAX-ERR,,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-3864,Trade license nastaana workshop chalavat aahet Yerwada residential madhe.,LICENSES_PERMISSIONS,LIC-TRD,,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-3576,Traffic direction sign post broken and fallen down at Swargate junction. Needs immediate action.,TRAFFIC_PARKING,RDW-SIGN,RDW,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-3896,Commercial establishment running without health and safety permit in Yerwada. Severely affecting residents.,LICENSES_PERMISSIONS,LIC-TRD,,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-2109,Crumbling asphalt created dangerous pothols on busy lane in Kothrud!!,ROADS_FOOTPATHS,RDW-POT,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-2827,Vector control fogging required immediately in Viman Nagar residential lanes.,PUBLIC_HEALTH,SAN-PEST,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-1646,Total absence of drinking water supply in Chinchwad block for 2 days. Severely affecting residents.,WATER_SUPPLY,WTR-PRES,WTR,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-3802,Unlicensed business in residential area in Hadapsar.,LICENSES_PERMISSIONS,LIC-TRD,,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-3880,Unlicensed commercial business running in residential basement in Pimpri. Posing dangerous safety hazard.,LICENSES_PERMISSIONS,LIC-TRD,,EN,EASY,synthetic_generator_v1
+CF-SYN-1129,Bina permission ke commercial dumping ho rahi hai Kothrud me.,SOLID_WASTE,SAN-DUMP,SAN,HINGLISH,EASY,synthetic_generator_v1
+CF-SYN-1288,Public dustbin broken and overflowing at Camp market corner.,SOLID_WASTE,SAN-BIN,SAN,EN,EASY,synthetic_generator_v1
+CF-SYN-3637,Property tax assessment bill computed incorrectly with wrong square footage in Bibwewadi.,PROPERTY_TAX,TAX-ERR,,EN,EASY,synthetic_generator_v1
+CF-SYN-3679,Incorrect penalty applied on property tax notice in Kalyani Nagar.,PROPERTY_TAX,TAX-ERR,,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-3479,Road obstruction caused by long-term abandoned scrap car in Viman Nagar.,TRAFFIC_PARKING,RDW-TRF,RDW,EN,EASY,synthetic_generator_v1
+CF-SYN-3773,Tax payment status showing pending despite money debited from bank for Deccan Gymkhana. Severely affecting residents.,PROPERTY_TAX,TAX-REC,,EN,EASY,synthetic_generator_v1
+CF-SYN-3685,Property tax assessment error aala aahe online bill madhe.,PROPERTY_TAX,TAX-ERR,,MARATHI,EASY,synthetic_generator_v1
+CF-SYN-1916,"Rainwater flooded whole road in Viman Nagar, vehicles stuck in standing water. Needs immediate action.",STORM_WATER,STM-LOG,WTR,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-1096,Sanitation van did not visit our street in Aundh for past 2 weeks. Request immediate garbage truck dispatch. Severely affecting residents.,SOLID_WASTE,SAN-GARB,SAN,EN,MEDIUM,synthetic_generator_v1
+CF-SYN-1405,Main drinking water pipeline burst in Bibwewadi. High pressure water wasting on road.,WATER_SUPPLY,WTR-LEAK,WTR,EN,EASY,synthetic_generator_v1
+CF-SYN-3902,Ratri late night loud mic/speaker suru aahe Baner madhe bina parvangi.,LICENSES_PERMISSIONS,LIC-NOISE,,MARATHI,EASY,synthetic_generator_v1

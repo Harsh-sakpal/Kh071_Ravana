@@ -1,0 +1,1182 @@
+{
+  "total_challenge_samples": 408,
+  "total_regressions": 27,
+  "regression_rate": 0.0662,
+  "tfidf_to_embedding_regressions": 7,
+  "tfidf_to_llm_regressions": 20,
+  "embedding_to_llm_regressions": 0,
+  "regression_records": [
+    {
+      "id": "CHALLENGE-9003",
+      "complaint_text": "For the past several mornings the municipal collection van has completely skipped our alley in Viman Nagar.",
+      "ground_truth": "SAN-GARB",
+      "tfidf_prediction": "SAN-GARB",
+      "tfidf_confidence": 0.6263,
+      "tfidf_margin": 0.3959,
+      "embedding_prediction": "RDW-TRF",
+      "embedding_confidence": 0.5963,
+      "final_agent_prediction": "RDW-TRF",
+      "agent_method": "LLM_FALLBACK",
+      "tool_trace": [
+        {
+          "tool": "TFIDF",
+          "raw_score": 0.6622,
+          "confidence": 0.6263,
+          "margin": 0.3959,
+          "threshold": 0.8,
+          "decision": "ESCALATE",
+          "reason": "Confidence (0.63) < 0.8 or margin (0.40) < 0.15",
+          "final_selection": null
+        },
+        {
+          "tool": "EMBEDDING",
+          "raw_score": 0.4733,
+          "confidence": 0.6075,
+          "margin": 0.2837,
+          "threshold": 0.7,
+          "decision": "ESCALATE",
+          "reason": "Embedding confidence (0.61) < 0.7",
+          "final_selection": null
+        },
+        {
+          "tool": "LLM_FALLBACK",
+          "raw_score": 0.75,
+          "confidence": 0.75,
+          "margin": 0.0,
+          "threshold": 0.5,
+          "decision": "ACCEPT",
+          "reason": "Taxonomy-constrained LLM candidate consensus resolution (offline mode)",
+          "final_selection": "RDW-TRF"
+        }
+      ],
+      "reason_for_escalation": "TF-IDF confidence or margin below threshold",
+      "reason_final_became_incorrect": "TF-IDF escalated past Embedding to LLM Fallback; LLM misclassified."
+    },
+    {
+      "id": "CHALLENGE-9007",
+      "complaint_text": "Residences near Kothrud main gate are forced to store rotting kitchen garbage inside houses as sanitation truck failed to arrive.",
+      "ground_truth": "SAN-GARB",
+      "tfidf_prediction": "SAN-GARB",
+      "tfidf_confidence": 0.7467,
+      "tfidf_margin": 0.6903,
+      "embedding_prediction": "SAN-DUMP",
+      "embedding_confidence": 0.5911,
+      "final_agent_prediction": "SAN-DUMP",
+      "agent_method": "LLM_FALLBACK",
+      "tool_trace": [
+        {
+          "tool": "TFIDF",
+          "raw_score": 0.792,
+          "confidence": 0.7467,
+          "margin": 0.6903,
+          "threshold": 0.8,
+          "decision": "ESCALATE",
+          "reason": "Confidence (0.75) < 0.8 or margin (0.69) < 0.15",
+          "final_selection": null
+        },
+        {
+          "tool": "EMBEDDING",
+          "raw_score": 0.5642,
+          "confidence": 0.5913,
+          "margin": 0.0481,
+          "threshold": 0.7,
+          "decision": "ESCALATE",
+          "reason": "Embedding confidence (0.59) < 0.7",
+          "final_selection": null
+        },
+        {
+          "tool": "LLM_FALLBACK",
+          "raw_score": 0.75,
+          "confidence": 0.75,
+          "margin": 0.0,
+          "threshold": 0.5,
+          "decision": "ACCEPT",
+          "reason": "Taxonomy-constrained LLM candidate consensus resolution (offline mode)",
+          "final_selection": "SAN-DUMP"
+        }
+      ],
+      "reason_for_escalation": "TF-IDF confidence or margin below threshold",
+      "reason_final_became_incorrect": "TF-IDF escalated past Embedding to LLM Fallback; LLM misclassified."
+    },
+    {
+      "id": "CHALLENGE-9009",
+      "complaint_text": "Residences near Katraj main gate are forced to store rotting kitchen garbage inside houses as sanitation truck failed to arrive.",
+      "ground_truth": "SAN-GARB",
+      "tfidf_prediction": "SAN-GARB",
+      "tfidf_confidence": 0.7441,
+      "tfidf_margin": 0.6808,
+      "embedding_prediction": "SAN-DUMP",
+      "embedding_confidence": 0.5741,
+      "final_agent_prediction": "SAN-DUMP",
+      "agent_method": "LLM_FALLBACK",
+      "tool_trace": [
+        {
+          "tool": "TFIDF",
+          "raw_score": 0.7823,
+          "confidence": 0.7441,
+          "margin": 0.6808,
+          "threshold": 0.8,
+          "decision": "ESCALATE",
+          "reason": "Confidence (0.74) < 0.8 or margin (0.68) < 0.15",
+          "final_selection": null
+        },
+        {
+          "tool": "EMBEDDING",
+          "raw_score": 0.5733,
+          "confidence": 0.6001,
+          "margin": 0.0468,
+          "threshold": 0.7,
+          "decision": "ESCALATE",
+          "reason": "Embedding confidence (0.60) < 0.7",
+          "final_selection": null
+        },
+        {
+          "tool": "LLM_FALLBACK",
+          "raw_score": 0.75,
+          "confidence": 0.75,
+          "margin": 0.0,
+          "threshold": 0.5,
+          "decision": "ACCEPT",
+          "reason": "Taxonomy-constrained LLM candidate consensus resolution (offline mode)",
+          "final_selection": "SAN-DUMP"
+        }
+      ],
+      "reason_for_escalation": "TF-IDF confidence or margin below threshold",
+      "reason_final_became_incorrect": "TF-IDF escalated past Embedding to LLM Fallback; LLM misclassified."
+    },
+    {
+      "id": "CHALLENGE-9010",
+      "complaint_text": "For the past several mornings the municipal collection van has completely skipped our alley in Kothrud.",
+      "ground_truth": "SAN-GARB",
+      "tfidf_prediction": "SAN-GARB",
+      "tfidf_confidence": 0.6659,
+      "tfidf_margin": 0.4635,
+      "embedding_prediction": "RDW-TRF",
+      "embedding_confidence": 0.6205,
+      "final_agent_prediction": "RDW-TRF",
+      "agent_method": "LLM_FALLBACK",
+      "tool_trace": [
+        {
+          "tool": "TFIDF",
+          "raw_score": 0.7011,
+          "confidence": 0.6659,
+          "margin": 0.4635,
+          "threshold": 0.8,
+          "decision": "ESCALATE",
+          "reason": "Confidence (0.67) < 0.8 or margin (0.46) < 0.15",
+          "final_selection": null
+        },
+        {
+          "tool": "EMBEDDING",
+          "raw_score": 0.4922,
+          "confidence": 0.6266,
+          "margin": 0.273,
+          "threshold": 0.7,
+          "decision": "ESCALATE",
+          "reason": "Embedding confidence (0.63) < 0.7",
+          "final_selection": null
+        },
+        {
+          "tool": "LLM_FALLBACK",
+          "raw_score": 0.75,
+          "confidence": 0.75,
+          "margin": 0.0,
+          "threshold": 0.5,
+          "decision": "ACCEPT",
+          "reason": "Taxonomy-constrained LLM candidate consensus resolution (offline mode)",
+          "final_selection": "RDW-TRF"
+        }
+      ],
+      "reason_for_escalation": "TF-IDF confidence or margin below threshold",
+      "reason_final_became_incorrect": "TF-IDF escalated past Embedding to LLM Fallback; LLM misclassified."
+    },
+    {
+      "id": "CHALLENGE-9011",
+      "complaint_text": "For the past several mornings the municipal collection van has completely skipped our alley in Wakad.",
+      "ground_truth": "SAN-GARB",
+      "tfidf_prediction": "SAN-GARB",
+      "tfidf_confidence": 0.6488,
+      "tfidf_margin": 0.4111,
+      "embedding_prediction": "RDW-TRF",
+      "embedding_confidence": 0.5822,
+      "final_agent_prediction": "RDW-TRF",
+      "agent_method": "LLM_FALLBACK",
+      "tool_trace": [
+        {
+          "tool": "TFIDF",
+          "raw_score": 0.6837,
+          "confidence": 0.6488,
+          "margin": 0.4111,
+          "threshold": 0.8,
+          "decision": "ESCALATE",
+          "reason": "Confidence (0.65) < 0.8 or margin (0.41) < 0.15",
+          "final_selection": null
+        },
+        {
+          "tool": "EMBEDDING",
+          "raw_score": 0.4645,
+          "confidence": 0.5813,
+          "margin": 0.2515,
+          "threshold": 0.7,
+          "decision": "ESCALATE",
+          "reason": "Embedding confidence (0.58) < 0.7",
+          "final_selection": null
+        },
+        {
+          "tool": "LLM_FALLBACK",
+          "raw_score": 0.75,
+          "confidence": 0.75,
+          "margin": 0.0,
+          "threshold": 0.5,
+          "decision": "ACCEPT",
+          "reason": "Taxonomy-constrained LLM candidate consensus resolution (offline mode)",
+          "final_selection": "RDW-TRF"
+        }
+      ],
+      "reason_for_escalation": "TF-IDF confidence or margin below threshold",
+      "reason_final_became_incorrect": "TF-IDF escalated past Embedding to LLM Fallback; LLM misclassified."
+    },
+    {
+      "id": "CHALLENGE-9012",
+      "complaint_text": "Kachra van walo ne humare lane ko bypass kar diya Magarpatta me 3 din se.",
+      "ground_truth": "SAN-GARB",
+      "tfidf_prediction": "SAN-GARB",
+      "tfidf_confidence": 0.6131,
+      "tfidf_margin": 0.4897,
+      "embedding_prediction": "SAN-GARB",
+      "embedding_confidence": 0.4583,
+      "final_agent_prediction": "SAN-ANML",
+      "agent_method": "LLM_FALLBACK",
+      "tool_trace": [
+        {
+          "tool": "TFIDF",
+          "raw_score": 0.6992,
+          "confidence": 0.6131,
+          "margin": 0.4897,
+          "threshold": 0.8,
+          "decision": "ESCALATE",
+          "reason": "Confidence (0.61) < 0.8 or margin (0.49) < 0.15",
+          "final_selection": null
+        },
+        {
+          "tool": "EMBEDDING",
+          "raw_score": 0.3557,
+          "confidence": 0.38,
+          "margin": 0.0683,
+          "threshold": 0.7,
+          "decision": "ESCALATE",
+          "reason": "Embedding confidence (0.38) < 0.7",
+          "final_selection": null
+        },
+        {
+          "tool": "LLM_FALLBACK",
+          "raw_score": 0.75,
+          "confidence": 0.75,
+          "margin": 0.0,
+          "threshold": 0.5,
+          "decision": "ACCEPT",
+          "reason": "Taxonomy-constrained LLM candidate consensus resolution (offline mode)",
+          "final_selection": "SAN-ANML"
+        }
+      ],
+      "reason_for_escalation": "TF-IDF confidence or margin below threshold",
+      "reason_final_became_incorrect": "TF-IDF escalated past Embedding to LLM Fallback; LLM misclassified."
+    },
+    {
+      "id": "CHALLENGE-9025",
+      "complaint_text": "Kachra kundi toot chuki hai Swargate me aur pura kachra raste par phail gaya hai.",
+      "ground_truth": "SAN-BIN",
+      "tfidf_prediction": "SAN-BIN",
+      "tfidf_confidence": 0.7172,
+      "tfidf_margin": 0.5728,
+      "embedding_prediction": "SAN-BIN",
+      "embedding_confidence": 0.4119,
+      "final_agent_prediction": "SAN-PEST",
+      "agent_method": "LLM_FALLBACK",
+      "tool_trace": [
+        {
+          "tool": "TFIDF",
+          "raw_score": 0.7423,
+          "confidence": 0.7172,
+          "margin": 0.5728,
+          "threshold": 0.8,
+          "decision": "ESCALATE",
+          "reason": "Confidence (0.72) < 0.8 or margin (0.57) < 0.15",
+          "final_selection": null
+        },
+        {
+          "tool": "EMBEDDING",
+          "raw_score": 0.3515,
+          "confidence": 0.3987,
+          "margin": 0.1344,
+          "threshold": 0.7,
+          "decision": "ESCALATE",
+          "reason": "Embedding confidence (0.40) < 0.7",
+          "final_selection": null
+        },
+        {
+          "tool": "LLM_FALLBACK",
+          "raw_score": 0.75,
+          "confidence": 0.75,
+          "margin": 0.0,
+          "threshold": 0.5,
+          "decision": "ACCEPT",
+          "reason": "Taxonomy-constrained LLM candidate consensus resolution (offline mode)",
+          "final_selection": "SAN-PEST"
+        }
+      ],
+      "reason_for_escalation": "TF-IDF confidence or margin below threshold",
+      "reason_final_became_incorrect": "TF-IDF escalated past Embedding to LLM Fallback; LLM misclassified."
+    },
+    {
+      "id": "CHALLENGE-9026",
+      "complaint_text": "Kachra kundi toot chuki hai Bavdhan me aur pura kachra raste par phail gaya hai.",
+      "ground_truth": "SAN-BIN",
+      "tfidf_prediction": "SAN-BIN",
+      "tfidf_confidence": 0.747,
+      "tfidf_margin": 0.6051,
+      "embedding_prediction": "SAN-BIN",
+      "embedding_confidence": 0.4737,
+      "final_agent_prediction": "SAN-GARB",
+      "agent_method": "LLM_FALLBACK",
+      "tool_trace": [
+        {
+          "tool": "TFIDF",
+          "raw_score": 0.7742,
+          "confidence": 0.747,
+          "margin": 0.6051,
+          "threshold": 0.8,
+          "decision": "ESCALATE",
+          "reason": "Confidence (0.75) < 0.8 or margin (0.61) < 0.15",
+          "final_selection": null
+        },
+        {
+          "tool": "EMBEDDING",
+          "raw_score": 0.3426,
+          "confidence": 0.3496,
+          "margin": 0.0204,
+          "threshold": 0.7,
+          "decision": "ESCALATE",
+          "reason": "Embedding confidence (0.35) < 0.7",
+          "final_selection": null
+        },
+        {
+          "tool": "LLM_FALLBACK",
+          "raw_score": 0.75,
+          "confidence": 0.75,
+          "margin": 0.0,
+          "threshold": 0.5,
+          "decision": "ACCEPT",
+          "reason": "Taxonomy-constrained LLM candidate consensus resolution (offline mode)",
+          "final_selection": "SAN-GARB"
+        }
+      ],
+      "reason_for_escalation": "TF-IDF confidence or margin below threshold",
+      "reason_final_became_incorrect": "TF-IDF escalated past Embedding to LLM Fallback; LLM misclassified."
+    },
+    {
+      "id": "CHALLENGE-9027",
+      "complaint_text": "Kachra kundi toot chuki hai Camp me aur pura kachra raste par phail gaya hai.",
+      "ground_truth": "SAN-BIN",
+      "tfidf_prediction": "SAN-BIN",
+      "tfidf_confidence": 0.7226,
+      "tfidf_margin": 0.5647,
+      "embedding_prediction": "SAN-BIN",
+      "embedding_confidence": 0.5304,
+      "final_agent_prediction": "SAN-PEST",
+      "agent_method": "LLM_FALLBACK",
+      "tool_trace": [
+        {
+          "tool": "TFIDF",
+          "raw_score": 0.7473,
+          "confidence": 0.7226,
+          "margin": 0.5647,
+          "threshold": 0.8,
+          "decision": "ESCALATE",
+          "reason": "Confidence (0.72) < 0.8 or margin (0.56) < 0.15",
+          "final_selection": null
+        },
+        {
+          "tool": "EMBEDDING",
+          "raw_score": 0.3651,
+          "confidence": 0.4101,
+          "margin": 0.1232,
+          "threshold": 0.7,
+          "decision": "ESCALATE",
+          "reason": "Embedding confidence (0.41) < 0.7",
+          "final_selection": null
+        },
+        {
+          "tool": "LLM_FALLBACK",
+          "raw_score": 0.75,
+          "confidence": 0.75,
+          "margin": 0.0,
+          "threshold": 0.5,
+          "decision": "ACCEPT",
+          "reason": "Taxonomy-constrained LLM candidate consensus resolution (offline mode)",
+          "final_selection": "SAN-PEST"
+        }
+      ],
+      "reason_for_escalation": "TF-IDF confidence or margin below threshold",
+      "reason_final_became_incorrect": "TF-IDF escalated past Embedding to LLM Fallback; LLM misclassified."
+    },
+    {
+      "id": "CHALLENGE-9033",
+      "complaint_text": "Kachra kundi toot chuki hai Kalyani Nagar me aur pura kachra raste par phail gaya hai.",
+      "ground_truth": "SAN-BIN",
+      "tfidf_prediction": "SAN-BIN",
+      "tfidf_confidence": 0.7215,
+      "tfidf_margin": 0.5622,
+      "embedding_prediction": "SAN-GARB",
+      "embedding_confidence": 0.5236,
+      "final_agent_prediction": "SAN-PEST",
+      "agent_method": "LLM_FALLBACK",
+      "tool_trace": [
+        {
+          "tool": "TFIDF",
+          "raw_score": 0.7489,
+          "confidence": 0.7215,
+          "margin": 0.5622,
+          "threshold": 0.8,
+          "decision": "ESCALATE",
+          "reason": "Confidence (0.72) < 0.8 or margin (0.56) < 0.15",
+          "final_selection": null
+        },
+        {
+          "tool": "EMBEDDING",
+          "raw_score": 0.3385,
+          "confidence": 0.3862,
+          "margin": 0.1407,
+          "threshold": 0.7,
+          "decision": "ESCALATE",
+          "reason": "Embedding confidence (0.39) < 0.7",
+          "final_selection": null
+        },
+        {
+          "tool": "LLM_FALLBACK",
+          "raw_score": 0.75,
+          "confidence": 0.75,
+          "margin": 0.0,
+          "threshold": 0.5,
+          "decision": "ACCEPT",
+          "reason": "Taxonomy-constrained LLM candidate consensus resolution (offline mode)",
+          "final_selection": "SAN-PEST"
+        }
+      ],
+      "reason_for_escalation": "TF-IDF confidence or margin below threshold",
+      "reason_final_became_incorrect": "TF-IDF escalated past Embedding to LLM Fallback; LLM misclassified."
+    },
+    {
+      "id": "CHALLENGE-9034",
+      "complaint_text": "Kachra kundi toot chuki hai Baner me aur pura kachra raste par phail gaya hai.",
+      "ground_truth": "SAN-BIN",
+      "tfidf_prediction": "SAN-BIN",
+      "tfidf_confidence": 0.7634,
+      "tfidf_margin": 0.6391,
+      "embedding_prediction": "SAN-BIN",
+      "embedding_confidence": 0.4357,
+      "final_agent_prediction": "SAN-PEST",
+      "agent_method": "LLM_FALLBACK",
+      "tool_trace": [
+        {
+          "tool": "TFIDF",
+          "raw_score": 0.7875,
+          "confidence": 0.7634,
+          "margin": 0.6391,
+          "threshold": 0.8,
+          "decision": "ESCALATE",
+          "reason": "Confidence (0.76) < 0.8 or margin (0.64) < 0.15",
+          "final_selection": null
+        },
+        {
+          "tool": "EMBEDDING",
+          "raw_score": 0.3485,
+          "confidence": 0.3908,
+          "margin": 0.1214,
+          "threshold": 0.7,
+          "decision": "ESCALATE",
+          "reason": "Embedding confidence (0.39) < 0.7",
+          "final_selection": null
+        },
+        {
+          "tool": "LLM_FALLBACK",
+          "raw_score": 0.75,
+          "confidence": 0.75,
+          "margin": 0.0,
+          "threshold": 0.5,
+          "decision": "ACCEPT",
+          "reason": "Taxonomy-constrained LLM candidate consensus resolution (offline mode)",
+          "final_selection": "SAN-PEST"
+        }
+      ],
+      "reason_for_escalation": "TF-IDF confidence or margin below threshold",
+      "reason_final_became_incorrect": "TF-IDF escalated past Embedding to LLM Fallback; LLM misclassified."
+    },
+    {
+      "id": "CHALLENGE-9037",
+      "complaint_text": "Main avenue in Magarpatta not swept for over a week, dry leaves and thick dust causing breathing discomfort.",
+      "ground_truth": "SAN-SWEEP",
+      "tfidf_prediction": "SAN-SWEEP",
+      "tfidf_confidence": 0.4319,
+      "tfidf_margin": 0.7819,
+      "embedding_prediction": "SAN-PEST",
+      "embedding_confidence": 0.3736,
+      "final_agent_prediction": "SAN-PEST",
+      "agent_method": "LLM_FALLBACK",
+      "tool_trace": [
+        {
+          "tool": "TFIDF",
+          "raw_score": 0.8503,
+          "confidence": 0.4319,
+          "margin": 0.7819,
+          "threshold": 0.8,
+          "decision": "ESCALATE",
+          "reason": "Confidence (0.43) < 0.8 or margin (0.78) < 0.15",
+          "final_selection": null
+        },
+        {
+          "tool": "EMBEDDING",
+          "raw_score": 0.355,
+          "confidence": 0.374,
+          "margin": 0.0533,
+          "threshold": 0.7,
+          "decision": "ESCALATE",
+          "reason": "Embedding confidence (0.37) < 0.7",
+          "final_selection": null
+        },
+        {
+          "tool": "LLM_FALLBACK",
+          "raw_score": 0.75,
+          "confidence": 0.75,
+          "margin": 0.0,
+          "threshold": 0.5,
+          "decision": "ACCEPT",
+          "reason": "Taxonomy-constrained LLM candidate consensus resolution (offline mode)",
+          "final_selection": "SAN-PEST"
+        }
+      ],
+      "reason_for_escalation": "TF-IDF confidence or margin below threshold",
+      "reason_final_became_incorrect": "TF-IDF escalated past Embedding to LLM Fallback; LLM misclassified."
+    },
+    {
+      "id": "CHALLENGE-9041",
+      "complaint_text": "Main avenue in Camp not swept for over a week, dry leaves and thick dust causing breathing discomfort.",
+      "ground_truth": "SAN-SWEEP",
+      "tfidf_prediction": "SAN-SWEEP",
+      "tfidf_confidence": 0.4487,
+      "tfidf_margin": 0.7989,
+      "embedding_prediction": "PRK-MAINT",
+      "embedding_confidence": 0.4408,
+      "final_agent_prediction": "PRK-AIR",
+      "agent_method": "LLM_FALLBACK",
+      "tool_trace": [
+        {
+          "tool": "TFIDF",
+          "raw_score": 0.8615,
+          "confidence": 0.4487,
+          "margin": 0.7989,
+          "threshold": 0.8,
+          "decision": "ESCALATE",
+          "reason": "Confidence (0.45) < 0.8 or margin (0.80) < 0.15",
+          "final_selection": null
+        },
+        {
+          "tool": "EMBEDDING",
+          "raw_score": 0.4933,
+          "confidence": 0.5947,
+          "margin": 0.2056,
+          "threshold": 0.7,
+          "decision": "ESCALATE",
+          "reason": "Embedding confidence (0.59) < 0.7",
+          "final_selection": null
+        },
+        {
+          "tool": "LLM_FALLBACK",
+          "raw_score": 0.75,
+          "confidence": 0.75,
+          "margin": 0.0,
+          "threshold": 0.5,
+          "decision": "ACCEPT",
+          "reason": "Taxonomy-constrained LLM candidate consensus resolution (offline mode)",
+          "final_selection": "PRK-AIR"
+        }
+      ],
+      "reason_for_escalation": "TF-IDF confidence or margin below threshold",
+      "reason_final_became_incorrect": "TF-IDF escalated past Embedding to LLM Fallback; LLM misclassified."
+    },
+    {
+      "id": "CHALLENGE-9048",
+      "complaint_text": "Main avenue in Aundh not swept for over a week, dry leaves and thick dust causing breathing discomfort.",
+      "ground_truth": "SAN-SWEEP",
+      "tfidf_prediction": "SAN-SWEEP",
+      "tfidf_confidence": 0.428,
+      "tfidf_margin": 0.7712,
+      "embedding_prediction": "RDW-RD",
+      "embedding_confidence": 0.4896,
+      "final_agent_prediction": "SAN-PEST",
+      "agent_method": "LLM_FALLBACK",
+      "tool_trace": [
+        {
+          "tool": "TFIDF",
+          "raw_score": 0.8459,
+          "confidence": 0.428,
+          "margin": 0.7712,
+          "threshold": 0.8,
+          "decision": "ESCALATE",
+          "reason": "Confidence (0.43) < 0.8 or margin (0.77) < 0.15",
+          "final_selection": null
+        },
+        {
+          "tool": "EMBEDDING",
+          "raw_score": 0.3792,
+          "confidence": 0.3896,
+          "margin": 0.0274,
+          "threshold": 0.7,
+          "decision": "ESCALATE",
+          "reason": "Embedding confidence (0.39) < 0.7",
+          "final_selection": null
+        },
+        {
+          "tool": "LLM_FALLBACK",
+          "raw_score": 0.75,
+          "confidence": 0.75,
+          "margin": 0.0,
+          "threshold": 0.5,
+          "decision": "ACCEPT",
+          "reason": "Taxonomy-constrained LLM candidate consensus resolution (offline mode)",
+          "final_selection": "SAN-PEST"
+        }
+      ],
+      "reason_for_escalation": "TF-IDF confidence or margin below threshold",
+      "reason_final_became_incorrect": "TF-IDF escalated past Embedding to LLM Fallback; LLM misclassified."
+    },
+    {
+      "id": "CHALLENGE-9055",
+      "complaint_text": "Major municipal pipe leakage forming a stream near Baner signal.",
+      "ground_truth": "WTR-LEAK",
+      "tfidf_prediction": "WTR-LEAK",
+      "tfidf_confidence": 0.3487,
+      "tfidf_margin": 0.7801,
+      "embedding_prediction": "SEW-BLOCK",
+      "embedding_confidence": 0.9338,
+      "final_agent_prediction": "SEW-BLOCK",
+      "agent_method": "EMBEDDING",
+      "tool_trace": [
+        {
+          "tool": "TFIDF",
+          "raw_score": 0.8582,
+          "confidence": 0.3487,
+          "margin": 0.7801,
+          "threshold": 0.8,
+          "decision": "ESCALATE",
+          "reason": "Confidence (0.35) < 0.8 or margin (0.78) < 0.15",
+          "final_selection": null
+        },
+        {
+          "tool": "EMBEDDING",
+          "raw_score": 0.7306,
+          "confidence": 0.9037,
+          "margin": 0.2369,
+          "threshold": 0.7,
+          "decision": "ACCEPT",
+          "reason": "High vector embedding similarity confidence",
+          "final_selection": "SEW-BLOCK"
+        }
+      ],
+      "reason_for_escalation": "TF-IDF confidence or margin below threshold",
+      "reason_final_became_incorrect": "TF-IDF escalated to Embedding due to conservative threshold; Embedding misclassified."
+    },
+    {
+      "id": "CHALLENGE-9056",
+      "complaint_text": "Major municipal pipe leakage forming a stream near Baner signal.",
+      "ground_truth": "WTR-LEAK",
+      "tfidf_prediction": "WTR-LEAK",
+      "tfidf_confidence": 0.3487,
+      "tfidf_margin": 0.7801,
+      "embedding_prediction": "SEW-BLOCK",
+      "embedding_confidence": 0.9338,
+      "final_agent_prediction": "SEW-BLOCK",
+      "agent_method": "EMBEDDING",
+      "tool_trace": [
+        {
+          "tool": "TFIDF",
+          "raw_score": 0.8582,
+          "confidence": 0.3487,
+          "margin": 0.7801,
+          "threshold": 0.8,
+          "decision": "ESCALATE",
+          "reason": "Confidence (0.35) < 0.8 or margin (0.78) < 0.15",
+          "final_selection": null
+        },
+        {
+          "tool": "EMBEDDING",
+          "raw_score": 0.7306,
+          "confidence": 0.9037,
+          "margin": 0.2369,
+          "threshold": 0.7,
+          "decision": "ACCEPT",
+          "reason": "High vector embedding similarity confidence",
+          "final_selection": "SEW-BLOCK"
+        }
+      ],
+      "reason_for_escalation": "TF-IDF confidence or margin below threshold",
+      "reason_final_became_incorrect": "TF-IDF escalated to Embedding due to conservative threshold; Embedding misclassified."
+    },
+    {
+      "id": "CHALLENGE-9060",
+      "complaint_text": "Major municipal pipe leakage forming a stream near Swargate signal.",
+      "ground_truth": "WTR-LEAK",
+      "tfidf_prediction": "WTR-LEAK",
+      "tfidf_confidence": 0.4536,
+      "tfidf_margin": 0.7902,
+      "embedding_prediction": "SEW-BLOCK",
+      "embedding_confidence": 0.892,
+      "final_agent_prediction": "SEW-BLOCK",
+      "agent_method": "EMBEDDING",
+      "tool_trace": [
+        {
+          "tool": "TFIDF",
+          "raw_score": 0.8626,
+          "confidence": 0.4536,
+          "margin": 0.7902,
+          "threshold": 0.8,
+          "decision": "ESCALATE",
+          "reason": "Confidence (0.45) < 0.8 or margin (0.79) < 0.15",
+          "final_selection": null
+        },
+        {
+          "tool": "EMBEDDING",
+          "raw_score": 0.7335,
+          "confidence": 0.9032,
+          "margin": 0.2313,
+          "threshold": 0.7,
+          "decision": "ACCEPT",
+          "reason": "High vector embedding similarity confidence",
+          "final_selection": "SEW-BLOCK"
+        }
+      ],
+      "reason_for_escalation": "TF-IDF confidence or margin below threshold",
+      "reason_final_became_incorrect": "TF-IDF escalated to Embedding due to conservative threshold; Embedding misclassified."
+    },
+    {
+      "id": "CHALLENGE-9085",
+      "complaint_text": "Sewage line backup flooding pedestrian walkway in Swargate with unbearable stench.",
+      "ground_truth": "SEW-BLOCK",
+      "tfidf_prediction": "SEW-BLOCK",
+      "tfidf_confidence": 0.7101,
+      "tfidf_margin": 0.7734,
+      "embedding_prediction": "STM-LOG",
+      "embedding_confidence": 0.7078,
+      "final_agent_prediction": "STM-LOG",
+      "agent_method": "EMBEDDING",
+      "tool_trace": [
+        {
+          "tool": "TFIDF",
+          "raw_score": 0.8867,
+          "confidence": 0.7101,
+          "margin": 0.7734,
+          "threshold": 0.8,
+          "decision": "ESCALATE",
+          "reason": "Confidence (0.71) < 0.8 or margin (0.77) < 0.15",
+          "final_selection": null
+        },
+        {
+          "tool": "EMBEDDING",
+          "raw_score": 0.7012,
+          "confidence": 0.7115,
+          "margin": 0.0146,
+          "threshold": 0.7,
+          "decision": "ACCEPT",
+          "reason": "High vector embedding similarity confidence",
+          "final_selection": "STM-LOG"
+        }
+      ],
+      "reason_for_escalation": "TF-IDF confidence or margin below threshold",
+      "reason_final_became_incorrect": "TF-IDF escalated to Embedding due to conservative threshold; Embedding misclassified."
+    },
+    {
+      "id": "CHALLENGE-9087",
+      "complaint_text": "Sewage line backup flooding pedestrian walkway in Aundh with unbearable stench.",
+      "ground_truth": "SEW-BLOCK",
+      "tfidf_prediction": "SEW-BLOCK",
+      "tfidf_confidence": 0.7188,
+      "tfidf_margin": 0.7676,
+      "embedding_prediction": "STM-LOG",
+      "embedding_confidence": 0.726,
+      "final_agent_prediction": "STM-LOG",
+      "agent_method": "EMBEDDING",
+      "tool_trace": [
+        {
+          "tool": "TFIDF",
+          "raw_score": 0.8838,
+          "confidence": 0.7188,
+          "margin": 0.7676,
+          "threshold": 0.8,
+          "decision": "ESCALATE",
+          "reason": "Confidence (0.72) < 0.8 or margin (0.77) < 0.15",
+          "final_selection": null
+        },
+        {
+          "tool": "EMBEDDING",
+          "raw_score": 0.7021,
+          "confidence": 0.7131,
+          "margin": 0.0156,
+          "threshold": 0.7,
+          "decision": "ACCEPT",
+          "reason": "High vector embedding similarity confidence",
+          "final_selection": "STM-LOG"
+        }
+      ],
+      "reason_for_escalation": "TF-IDF confidence or margin below threshold",
+      "reason_final_became_incorrect": "TF-IDF escalated to Embedding due to conservative threshold; Embedding misclassified."
+    },
+    {
+      "id": "CHALLENGE-9091",
+      "complaint_text": "Sewage line backup flooding pedestrian walkway in Katraj with unbearable stench.",
+      "ground_truth": "SEW-BLOCK",
+      "tfidf_prediction": "SEW-BLOCK",
+      "tfidf_confidence": 0.7399,
+      "tfidf_margin": 0.8052,
+      "embedding_prediction": "STM-LOG",
+      "embedding_confidence": 0.7241,
+      "final_agent_prediction": "STM-LOG",
+      "agent_method": "EMBEDDING",
+      "tool_trace": [
+        {
+          "tool": "TFIDF",
+          "raw_score": 0.9026,
+          "confidence": 0.7399,
+          "margin": 0.8052,
+          "threshold": 0.8,
+          "decision": "ESCALATE",
+          "reason": "Confidence (0.74) < 0.8 or margin (0.81) < 0.15",
+          "final_selection": null
+        },
+        {
+          "tool": "EMBEDDING",
+          "raw_score": 0.7179,
+          "confidence": 0.7266,
+          "margin": 0.012,
+          "threshold": 0.7,
+          "decision": "ACCEPT",
+          "reason": "High vector embedding similarity confidence",
+          "final_selection": "STM-LOG"
+        }
+      ],
+      "reason_for_escalation": "TF-IDF confidence or margin below threshold",
+      "reason_final_became_incorrect": "TF-IDF escalated to Embedding due to conservative threshold; Embedding misclassified."
+    },
+    {
+      "id": "CHALLENGE-9092",
+      "complaint_text": "Sewage line backup flooding pedestrian walkway in Katraj with unbearable stench.",
+      "ground_truth": "SEW-BLOCK",
+      "tfidf_prediction": "SEW-BLOCK",
+      "tfidf_confidence": 0.7399,
+      "tfidf_margin": 0.8052,
+      "embedding_prediction": "STM-LOG",
+      "embedding_confidence": 0.7241,
+      "final_agent_prediction": "STM-LOG",
+      "agent_method": "EMBEDDING",
+      "tool_trace": [
+        {
+          "tool": "TFIDF",
+          "raw_score": 0.9026,
+          "confidence": 0.7399,
+          "margin": 0.8052,
+          "threshold": 0.8,
+          "decision": "ESCALATE",
+          "reason": "Confidence (0.74) < 0.8 or margin (0.81) < 0.15",
+          "final_selection": null
+        },
+        {
+          "tool": "EMBEDDING",
+          "raw_score": 0.7179,
+          "confidence": 0.7266,
+          "margin": 0.012,
+          "threshold": 0.7,
+          "decision": "ACCEPT",
+          "reason": "High vector embedding similarity confidence",
+          "final_selection": "STM-LOG"
+        }
+      ],
+      "reason_for_escalation": "TF-IDF confidence or margin below threshold",
+      "reason_final_became_incorrect": "TF-IDF escalated to Embedding due to conservative threshold; Embedding misclassified."
+    },
+    {
+      "id": "CHALLENGE-9096",
+      "complaint_text": "Sewage line backup flooding pedestrian walkway in Kothrud with unbearable stench.",
+      "ground_truth": "SEW-BLOCK",
+      "tfidf_prediction": "SEW-BLOCK",
+      "tfidf_confidence": 0.7251,
+      "tfidf_margin": 0.7912,
+      "embedding_prediction": "STM-LOG",
+      "embedding_confidence": 0.7032,
+      "final_agent_prediction": "STM-LOG",
+      "agent_method": "LLM_FALLBACK",
+      "tool_trace": [
+        {
+          "tool": "TFIDF",
+          "raw_score": 0.8956,
+          "confidence": 0.7251,
+          "margin": 0.7912,
+          "threshold": 0.8,
+          "decision": "ESCALATE",
+          "reason": "Confidence (0.73) < 0.8 or margin (0.79) < 0.15",
+          "final_selection": null
+        },
+        {
+          "tool": "EMBEDDING",
+          "raw_score": 0.6924,
+          "confidence": 0.6971,
+          "margin": 0.0069,
+          "threshold": 0.7,
+          "decision": "ESCALATE",
+          "reason": "Embedding confidence (0.70) < 0.7",
+          "final_selection": null
+        },
+        {
+          "tool": "LLM_FALLBACK",
+          "raw_score": 0.75,
+          "confidence": 0.75,
+          "margin": 0.0,
+          "threshold": 0.5,
+          "decision": "ACCEPT",
+          "reason": "Taxonomy-constrained LLM candidate consensus resolution (offline mode)",
+          "final_selection": "STM-LOG"
+        }
+      ],
+      "reason_for_escalation": "TF-IDF confidence or margin below threshold",
+      "reason_final_became_incorrect": "TF-IDF escalated past Embedding to LLM Fallback; LLM misclassified."
+    },
+    {
+      "id": "CHALLENGE-9314",
+      "complaint_text": "Ghar patti bill madhe chuk aali aahe Aundh assessment account madhe.",
+      "ground_truth": "TAX-ERR",
+      "tfidf_prediction": "TAX-ERR",
+      "tfidf_confidence": 0.6732,
+      "tfidf_margin": 0.5956,
+      "embedding_prediction": "SAN-GARB",
+      "embedding_confidence": 0.5229,
+      "final_agent_prediction": "SAN-GARB",
+      "agent_method": "LLM_FALLBACK",
+      "tool_trace": [
+        {
+          "tool": "TFIDF",
+          "raw_score": 0.7978,
+          "confidence": 0.6732,
+          "margin": 0.5956,
+          "threshold": 0.8,
+          "decision": "ESCALATE",
+          "reason": "Confidence (0.67) < 0.8 or margin (0.60) < 0.15",
+          "final_selection": null
+        },
+        {
+          "tool": "EMBEDDING",
+          "raw_score": 0.5012,
+          "confidence": 0.5204,
+          "margin": 0.0382,
+          "threshold": 0.7,
+          "decision": "ESCALATE",
+          "reason": "Embedding confidence (0.52) < 0.7",
+          "final_selection": null
+        },
+        {
+          "tool": "LLM_FALLBACK",
+          "raw_score": 0.75,
+          "confidence": 0.75,
+          "margin": 0.0,
+          "threshold": 0.5,
+          "decision": "ACCEPT",
+          "reason": "Taxonomy-constrained LLM candidate consensus resolution (offline mode)",
+          "final_selection": "SAN-GARB"
+        }
+      ],
+      "reason_for_escalation": "TF-IDF confidence or margin below threshold",
+      "reason_final_became_incorrect": "TF-IDF escalated past Embedding to LLM Fallback; LLM misclassified."
+    },
+    {
+      "id": "CHALLENGE-9316",
+      "complaint_text": "Ghar patti bill madhe chuk aali aahe Kothrud assessment account madhe.",
+      "ground_truth": "TAX-ERR",
+      "tfidf_prediction": "TAX-ERR",
+      "tfidf_confidence": 0.6736,
+      "tfidf_margin": 0.588,
+      "embedding_prediction": "SAN-GARB",
+      "embedding_confidence": 0.5398,
+      "final_agent_prediction": "SAN-GARB",
+      "agent_method": "LLM_FALLBACK",
+      "tool_trace": [
+        {
+          "tool": "TFIDF",
+          "raw_score": 0.794,
+          "confidence": 0.6736,
+          "margin": 0.588,
+          "threshold": 0.8,
+          "decision": "ESCALATE",
+          "reason": "Confidence (0.67) < 0.8 or margin (0.59) < 0.15",
+          "final_selection": null
+        },
+        {
+          "tool": "EMBEDDING",
+          "raw_score": 0.5195,
+          "confidence": 0.5353,
+          "margin": 0.0305,
+          "threshold": 0.7,
+          "decision": "ESCALATE",
+          "reason": "Embedding confidence (0.54) < 0.7",
+          "final_selection": null
+        },
+        {
+          "tool": "LLM_FALLBACK",
+          "raw_score": 0.75,
+          "confidence": 0.75,
+          "margin": 0.0,
+          "threshold": 0.5,
+          "decision": "ACCEPT",
+          "reason": "Taxonomy-constrained LLM candidate consensus resolution (offline mode)",
+          "final_selection": "SAN-GARB"
+        }
+      ],
+      "reason_for_escalation": "TF-IDF confidence or margin below threshold",
+      "reason_final_became_incorrect": "TF-IDF escalated past Embedding to LLM Fallback; LLM misclassified."
+    },
+    {
+      "id": "CHALLENGE-9318",
+      "complaint_text": "Ghar patti bill madhe chuk aali aahe Swargate assessment account madhe.",
+      "ground_truth": "TAX-ERR",
+      "tfidf_prediction": "TAX-ERR",
+      "tfidf_confidence": 0.6677,
+      "tfidf_margin": 0.5906,
+      "embedding_prediction": "SAN-GARB",
+      "embedding_confidence": 0.446,
+      "final_agent_prediction": "SAN-GARB",
+      "agent_method": "LLM_FALLBACK",
+      "tool_trace": [
+        {
+          "tool": "TFIDF",
+          "raw_score": 0.7953,
+          "confidence": 0.6677,
+          "margin": 0.5906,
+          "threshold": 0.8,
+          "decision": "ESCALATE",
+          "reason": "Confidence (0.67) < 0.8 or margin (0.59) < 0.15",
+          "final_selection": null
+        },
+        {
+          "tool": "EMBEDDING",
+          "raw_score": 0.4719,
+          "confidence": 0.4884,
+          "margin": 0.035,
+          "threshold": 0.7,
+          "decision": "ESCALATE",
+          "reason": "Embedding confidence (0.49) < 0.7",
+          "final_selection": null
+        },
+        {
+          "tool": "LLM_FALLBACK",
+          "raw_score": 0.75,
+          "confidence": 0.75,
+          "margin": 0.0,
+          "threshold": 0.5,
+          "decision": "ACCEPT",
+          "reason": "Taxonomy-constrained LLM candidate consensus resolution (offline mode)",
+          "final_selection": "SAN-GARB"
+        }
+      ],
+      "reason_for_escalation": "TF-IDF confidence or margin below threshold",
+      "reason_final_became_incorrect": "TF-IDF escalated past Embedding to LLM Fallback; LLM misclassified."
+    },
+    {
+      "id": "CHALLENGE-9321",
+      "complaint_text": "Ghar patti bill madhe chuk aali aahe Swargate assessment account madhe.",
+      "ground_truth": "TAX-ERR",
+      "tfidf_prediction": "TAX-ERR",
+      "tfidf_confidence": 0.6677,
+      "tfidf_margin": 0.5906,
+      "embedding_prediction": "SAN-GARB",
+      "embedding_confidence": 0.446,
+      "final_agent_prediction": "SAN-GARB",
+      "agent_method": "LLM_FALLBACK",
+      "tool_trace": [
+        {
+          "tool": "TFIDF",
+          "raw_score": 0.7953,
+          "confidence": 0.6677,
+          "margin": 0.5906,
+          "threshold": 0.8,
+          "decision": "ESCALATE",
+          "reason": "Confidence (0.67) < 0.8 or margin (0.59) < 0.15",
+          "final_selection": null
+        },
+        {
+          "tool": "EMBEDDING",
+          "raw_score": 0.4719,
+          "confidence": 0.4884,
+          "margin": 0.035,
+          "threshold": 0.7,
+          "decision": "ESCALATE",
+          "reason": "Embedding confidence (0.49) < 0.7",
+          "final_selection": null
+        },
+        {
+          "tool": "LLM_FALLBACK",
+          "raw_score": 0.75,
+          "confidence": 0.75,
+          "margin": 0.0,
+          "threshold": 0.5,
+          "decision": "ACCEPT",
+          "reason": "Taxonomy-constrained LLM candidate consensus resolution (offline mode)",
+          "final_selection": "SAN-GARB"
+        }
+      ],
+      "reason_for_escalation": "TF-IDF confidence or margin below threshold",
+      "reason_final_became_incorrect": "TF-IDF escalated past Embedding to LLM Fallback; LLM misclassified."
+    },
+    {
+      "id": "CHALLENGE-9324",
+      "complaint_text": "Ghar patti bill madhe chuk aali aahe Viman Nagar assessment account madhe.",
+      "ground_truth": "TAX-ERR",
+      "tfidf_prediction": "TAX-ERR",
+      "tfidf_confidence": 0.6336,
+      "tfidf_margin": 0.5348,
+      "embedding_prediction": "SAN-GARB",
+      "embedding_confidence": 0.5531,
+      "final_agent_prediction": "SAN-GARB",
+      "agent_method": "LLM_FALLBACK",
+      "tool_trace": [
+        {
+          "tool": "TFIDF",
+          "raw_score": 0.7674,
+          "confidence": 0.6336,
+          "margin": 0.5348,
+          "threshold": 0.8,
+          "decision": "ESCALATE",
+          "reason": "Confidence (0.63) < 0.8 or margin (0.53) < 0.15",
+          "final_selection": null
+        },
+        {
+          "tool": "EMBEDDING",
+          "raw_score": 0.4944,
+          "confidence": 0.5166,
+          "margin": 0.0449,
+          "threshold": 0.7,
+          "decision": "ESCALATE",
+          "reason": "Embedding confidence (0.52) < 0.7",
+          "final_selection": null
+        },
+        {
+          "tool": "LLM_FALLBACK",
+          "raw_score": 0.75,
+          "confidence": 0.75,
+          "margin": 0.0,
+          "threshold": 0.5,
+          "decision": "ACCEPT",
+          "reason": "Taxonomy-constrained LLM candidate consensus resolution (offline mode)",
+          "final_selection": "SAN-GARB"
+        }
+      ],
+      "reason_for_escalation": "TF-IDF confidence or margin below threshold",
+      "reason_final_became_incorrect": "TF-IDF escalated past Embedding to LLM Fallback; LLM misclassified."
+    }
+  ]
+}

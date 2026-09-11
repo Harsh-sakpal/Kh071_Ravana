@@ -1,0 +1,16 @@
+{
+  "train_set": {
+    "samples": 4707,
+    "vocab_size": 328
+  },
+  "validation_set": {
+    "samples": 831,
+    "vocab_size": 324,
+    "vocab_overlap_with_train": 1.0
+  },
+  "challenge_set": {
+    "samples": 408,
+    "vocab_size": 623,
+    "vocab_overlap_with_train": 0.0787
+  }
+}

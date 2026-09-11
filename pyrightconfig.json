@@ -1,0 +1,6 @@
+{
+  "extraPaths": [
+    "./civicflow-ai-person2"
+  ],
+  "pythonVersion": "3.11"
+}

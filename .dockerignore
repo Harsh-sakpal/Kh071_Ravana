@@ -1,0 +1,35 @@
+# Version control & CI
+.git
+.gitignore
+.github
+
+# IDEs & OS
+.idea
+.vscode
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Python bytecode & virtual environments
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache
+.coverage
+htmlcov
+.venv
+venv
+env
+
+# Scratch scripts & logs
+scratch_*.py
+*.log
+tmp
+
+# Test outputs & build artifacts
+test-results.xml
+dist
+build
+*.egg-info
