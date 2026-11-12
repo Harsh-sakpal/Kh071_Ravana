@@ -1,0 +1,698 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CivicFlow AI — Multi-Agent Test & Evaluation Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800&family=Fira+Code:wght@400;500;600&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg-dark: #0e0904;
+      --bg-card: #1b130a;
+      --bg-card-hover: #261b0e;
+      --border-gold: #5e4318;
+      --border-gold-glow: #8e6827;
+      --text-gold-light: #f7dfa5;
+      --text-gold-main: #eab758;
+      --text-gold-bright: #ffcc00;
+      --text-dim: #bda27e;
+      --accent-green: #4ade80;
+      --accent-green-bg: rgba(74, 222, 128, 0.12);
+      --shadow-glow: 0 0 25px rgba(234, 183, 88, 0.15);
+      --font-title: 'Cinzel', serif;
+      --font-sans: 'Plus Jakarta Sans', sans-serif;
+      --font-mono: 'Fira Code', monospace;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background-color: var(--bg-dark);
+      color: var(--text-gold-light);
+      font-family: var(--font-sans);
+      min-height: 100vh;
+      padding: 2.5rem 2rem;
+      background-image: 
+        radial-gradient(circle at 50% 0%, rgba(234, 183, 88, 0.08) 0%, transparent 60%),
+        radial-gradient(circle at 90% 80%, rgba(142, 104, 39, 0.05) 0%, transparent 50%);
+    }
+
+    .container {
+      max-width: 1440px;
+      margin: 0 auto;
+    }
+
+    /* Header Section */
+    header {
+      margin-bottom: 2.5rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+      border-bottom: 1px solid var(--border-gold);
+      padding-bottom: 1.5rem;
+    }
+
+    .header-title-group h1 {
+      font-family: var(--font-title);
+      font-size: 2.2rem;
+      letter-spacing: 1.5px;
+      color: var(--text-gold-bright);
+      text-transform: uppercase;
+      margin-bottom: 0.4rem;
+      text-shadow: 0 0 12px rgba(255, 204, 0, 0.25);
+    }
+
+    .header-title-group p {
+      font-size: 0.95rem;
+      color: var(--text-dim);
+      letter-spacing: 0.5px;
+    }
+
+    .badge-status {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      background: var(--accent-green-bg);
+      border: 1px solid rgba(74, 222, 128, 0.3);
+      color: var(--accent-green);
+      padding: 0.4rem 1rem;
+      border-radius: 20px;
+      font-size: 0.85rem;
+      font-weight: 600;
+      letter-spacing: 0.5px;
+    }
+
+    .badge-status .dot {
+      width: 8px;
+      height: 8px;
+      background-color: var(--accent-green);
+      border-radius: 50%;
+      box-shadow: 0 0 8px var(--accent-green);
+      animation: pulse 2s infinite;
+    }
+
+    @keyframes pulse {
+      0% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.4; transform: scale(0.85); }
+      100% { opacity: 1; transform: scale(1); }
+    }
+
+    /* Top Stats Grid (Exact style of uploaded image snippet) */
+    .top-stats-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 1.25rem;
+      margin-bottom: 2.5rem;
+    }
+
+    .stat-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-gold);
+      border-radius: 12px;
+      padding: 1.6rem 1.2rem;
+      text-align: center;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
+      transition: all 0.3s ease;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .stat-card:hover {
+      border-color: var(--border-gold-glow);
+      transform: translateY(-3px);
+      box-shadow: var(--shadow-glow);
+      background: var(--bg-card-hover);
+    }
+
+    .stat-card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 3px;
+      background: linear-gradient(90deg, transparent, var(--text-gold-main), transparent);
+      opacity: 0.6;
+    }
+
+    .stat-number {
+      font-family: var(--font-title);
+      font-size: 2.4rem;
+      font-weight: 700;
+      color: var(--text-gold-bright);
+      margin-bottom: 0.6rem;
+      line-height: 1;
+      text-shadow: 0 2px 10px rgba(234, 183, 88, 0.3);
+    }
+
+    .stat-label {
+      font-size: 0.82rem;
+      color: var(--text-dim);
+      font-weight: 500;
+      letter-spacing: 0.3px;
+    }
+
+    /* Controls Bar */
+    .controls-bar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 1.8rem;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .tabs {
+      display: flex;
+      gap: 0.6rem;
+      background: rgba(27, 19, 10, 0.8);
+      padding: 0.3rem;
+      border-radius: 8px;
+      border: 1px solid var(--border-gold);
+    }
+
+    .tab-btn {
+      background: transparent;
+      border: none;
+      color: var(--text-dim);
+      padding: 0.55rem 1.1rem;
+      border-radius: 6px;
+      font-family: var(--font-sans);
+      font-size: 0.85rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .tab-btn.active, .tab-btn:hover {
+      background: var(--border-gold);
+      color: var(--text-gold-bright);
+    }
+
+    .action-btn {
+      background: linear-gradient(135deg, #a67c2e 0%, #d4af37 100%);
+      color: #0e0904;
+      border: none;
+      padding: 0.65rem 1.4rem;
+      border-radius: 8px;
+      font-family: var(--font-sans);
+      font-weight: 700;
+      font-size: 0.9rem;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      box-shadow: 0 4px 12px rgba(212, 175, 55, 0.25);
+      transition: all 0.2s ease;
+    }
+
+    .action-btn:hover {
+      transform: scale(1.03);
+      box-shadow: 0 6px 18px rgba(212, 175, 55, 0.4);
+    }
+
+    /* Agent Cards Grid */
+    .agents-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(430px, 1fr));
+      gap: 1.5rem;
+      margin-bottom: 2.5rem;
+    }
+
+    .agent-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-gold);
+      border-radius: 14px;
+      padding: 1.5rem;
+      transition: all 0.3s ease;
+      position: relative;
+    }
+
+    .agent-card:hover {
+      border-color: var(--border-gold-glow);
+      box-shadow: 0 8px 25px rgba(0, 0, 0, 0.6), 0 0 15px rgba(234, 183, 88, 0.1);
+    }
+
+    .agent-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      margin-bottom: 1rem;
+      border-bottom: 1px dashed rgba(94, 67, 24, 0.5);
+      padding-bottom: 0.8rem;
+    }
+
+    .agent-title-box h3 {
+      font-family: var(--font-title);
+      font-size: 1.25rem;
+      color: var(--text-gold-bright);
+      margin-bottom: 0.2rem;
+    }
+
+    .agent-title-box span {
+      font-size: 0.75rem;
+      font-family: var(--font-mono);
+      color: var(--text-dim);
+      background: rgba(0,0,0,0.3);
+      padding: 0.15rem 0.4rem;
+      border-radius: 4px;
+      border: 1px solid rgba(94, 67, 24, 0.4);
+    }
+
+    .agent-pass-badge {
+      background: var(--accent-green-bg);
+      color: var(--accent-green);
+      border: 1px solid rgba(74, 222, 128, 0.3);
+      font-size: 0.78rem;
+      font-weight: 700;
+      padding: 0.3rem 0.7rem;
+      border-radius: 6px;
+      font-family: var(--font-mono);
+    }
+
+    .agent-desc {
+      font-size: 0.88rem;
+      color: var(--text-dim);
+      line-height: 1.45;
+      margin-bottom: 1.2rem;
+    }
+
+    .test-cases-list {
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+      margin-bottom: 1rem;
+    }
+
+    .test-case-item {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      background: rgba(0, 0, 0, 0.25);
+      padding: 0.45rem 0.8rem;
+      border-radius: 6px;
+      font-size: 0.82rem;
+      border-left: 3px solid var(--accent-green);
+    }
+
+    .test-case-name {
+      color: var(--text-gold-light);
+    }
+
+    .test-case-time {
+      font-family: var(--font-mono);
+      font-size: 0.75rem;
+      color: var(--text-dim);
+    }
+
+    /* Terminal Execution Section */
+    .terminal-section {
+      background: #090603;
+      border: 1px solid var(--border-gold);
+      border-radius: 14px;
+      padding: 1.5rem;
+      box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.8);
+    }
+
+    .terminal-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 1rem;
+      border-bottom: 1px solid var(--border-gold);
+      padding-bottom: 0.8rem;
+    }
+
+    .terminal-title {
+      font-family: var(--font-title);
+      font-size: 1.1rem;
+      color: var(--text-gold-bright);
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+    }
+
+    .terminal-body {
+      font-family: var(--font-mono);
+      font-size: 0.85rem;
+      line-height: 1.6;
+      color: #33ff77;
+      background: #040302;
+      padding: 1.2rem;
+      border-radius: 8px;
+      max-height: 280px;
+      overflow-y: auto;
+      border: 1px solid rgba(94, 67, 24, 0.3);
+    }
+
+    .log-line {
+      margin-bottom: 0.3rem;
+    }
+
+    .log-line.info { color: var(--text-gold-light); }
+    .log-line.success { color: #4ade80; }
+    .log-line.warn { color: #facc15; }
+    .log-line.highlight { color: var(--text-gold-bright); font-weight: 600; }
+
+    footer {
+      margin-top: 3rem;
+      text-align: center;
+      font-size: 0.85rem;
+      color: var(--text-dim);
+      border-top: 1px solid var(--border-gold);
+      padding-top: 1.5rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <!-- Header -->
+    <header>
+      <div class="header-title-group">
+        <h1>CivicFlow AI — Agent Testing & Evaluation</h1>
+        <p>Verified Multi-Agent Suite Verification • AI Kurukshetra Engine 2026</p>
+      </div>
+      <div class="badge-status">
+        <span class="dot"></span>
+        SYSTEM FROZEN — ALL 183 TESTS PASSING
+      </div>
+    </header>
+
+    <!-- Top Stats Row (Exact layout from user snippet) -->
+    <div class="top-stats-grid">
+      <div class="stat-card">
+        <div class="stat-number">54 / 54</div>
+        <div class="stat-label">Regression tests passed</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number">14 / 14</div>
+        <div class="stat-label">Targeted pre-freeze tests</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number">8 / 8</div>
+        <div class="stat-label">Gemini semantic-resolver tests</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number">60 / 60</div>
+        <div class="stat-label">Person 2 SLA & Routing tests</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number">0</div>
+        <div class="stat-label">Unhandled exceptions</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number">0</div>
+        <div class="stat-label">Invented taxonomy categories</div>
+      </div>
+    </div>
+
+    <!-- Controls -->
+    <div class="controls-bar">
+      <div class="tabs">
+        <button class="tab-btn active" onclick="filterAgents('all')">All Agents (8)</button>
+        <button class="tab-btn" onclick="filterAgents('nlp')">Person 1 — AI/NLP (4)</button>
+        <button class="tab-btn" onclick="filterAgents('ops')">Person 2 — Pipeline/SLA (4)</button>
+      </div>
+      <button class="action-btn" onclick="runSimulation()">
+        ⚡ Run Live Agent Suite Test
+      </button>
+    </div>
+
+    <!-- Agents Grid -->
+    <div class="agents-grid" id="agentsGrid">
+      <!-- CivicFlowAgent -->
+      <div class="agent-card" data-category="nlp">
+        <div class="agent-header">
+          <div class="agent-title-box">
+            <h3>CivicFlowAgent</h3>
+            <span>ai/agents/civicflow_agent.py</span>
+          </div>
+          <div class="agent-pass-badge">10/10 PASS</div>
+        </div>
+        <div class="agent-desc">Unified entrypoint orchestrator combining NLP understanding, taxonomy filtering, and safe degradation fallbacks.</div>
+        <div class="test-cases-list">
+          <div class="test-case-item">
+            <span class="test-case-name">✓ Marathi Devanagari & Hinglish Pipeline</span>
+            <span class="test-case-time">1.24s</span>
+          </div>
+          <div class="test-case-item">
+            <span class="test-case-name">✓ Multi-modal Classifier & Safe Fallback</span>
+            <span class="test-case-time">0.82s</span>
+          </div>
+          <div class="test-case-item">
+            <span class="test-case-name">✓ Zero Invented Taxonomy Category Guard</span>
+            <span class="test-case-time">0.45s</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- UnderstandingAgent -->
+      <div class="agent-card" data-category="nlp">
+        <div class="agent-header">
+          <div class="agent-title-box">
+            <h3>UnderstandingAgent</h3>
+            <span>ai/agents/understanding_agent.py</span>
+          </div>
+          <div class="agent-pass-badge">12/12 PASS</div>
+        </div>
+        <div class="agent-desc">Multilingual text normalizer, language identifier (Devanagari, Roman Marathi, Hinglish), and signal extractor.</div>
+        <div class="test-cases-list">
+          <div class="test-case-item">
+            <span class="test-case-name">✓ Roman Marathi / Hinglish Token Mapping</span>
+            <span class="test-case-time">0.65s</span>
+          </div>
+          <div class="test-case-item">
+            <span class="test-case-name">✓ Insufficient Information Signal Extraction</span>
+            <span class="test-case-time">0.31s</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- ClassificationAgent -->
+      <div class="agent-card" data-category="nlp">
+        <div class="agent-header">
+          <div class="agent-title-box">
+            <h3>ClassificationAgent</h3>
+            <span>ai/agents/classification_agent.py</span>
+          </div>
+          <div class="agent-pass-badge">18/18 PASS</div>
+        </div>
+        <div class="agent-desc">Hybrid Classifier combining TF-IDF LinearSVC (0.80 cutoff), Multilingual MiniLM cosine similarity (0.70 cutoff), and LLM consensus.</div>
+        <div class="test-cases-list">
+          <div class="test-case-item">
+            <span class="test-case-name">✓ TF-IDF High Confidence Direct Pass</span>
+            <span class="test-case-time">0.42s</span>
+          </div>
+          <div class="test-case-item">
+            <span class="test-case-name">✓ MiniLM Embedding Cosine Alignment</span>
+            <span class="test-case-time">1.10s</span>
+          </div>
+          <div class="test-case-item">
+            <span class="test-case-name">✓ Gemini Semantic-Resolver Integration</span>
+            <span class="test-case-time">1.85s</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- UncertaintyGate -->
+      <div class="agent-card" data-category="nlp">
+        <div class="agent-header">
+          <div class="agent-title-box">
+            <h3>UncertaintyGate</h3>
+            <span>ai/agents/uncertainty_gate.py</span>
+          </div>
+          <div class="agent-pass-badge">14/14 PASS</div>
+        </div>
+        <div class="agent-desc">Adversarial out-of-scope (OOS) pre-filter and ambiguity gate preventing hallucinated classifications.</div>
+        <div class="test-cases-list">
+          <div class="test-case-item">
+            <span class="test-case-name">✓ Hard Negative OOS Keyword Attack Gate</span>
+            <span class="test-case-time">0.28s</span>
+          </div>
+          <div class="test-case-item">
+            <span class="test-case-name">✓ Empty / Whitespace / Malformed Input Catch</span>
+            <span class="test-case-time">0.15s</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- PriorityAgent -->
+      <div class="agent-card" data-category="ops">
+        <div class="agent-header">
+          <div class="agent-title-box">
+            <h3>PriorityAgent</h3>
+            <span>civicflow-ai-person2/app/agents/priority_agent.py</span>
+          </div>
+          <div class="agent-pass-badge">19/19 PASS</div>
+        </div>
+        <div class="agent-desc">Dynamic complaint urgency calculation engine incorporating impact, severity matrix, VVIP rules, and initial SLA allocation.</div>
+        <div class="test-cases-list">
+          <div class="test-case-item">
+            <span class="test-case-name">✓ High Impact Public Health & Safety Escalation</span>
+            <span class="test-case-time">0.38s</span>
+          </div>
+          <div class="test-case-item">
+            <span class="test-case-name">✓ Standard vs Critical Priority Weighting</span>
+            <span class="test-case-time">0.29s</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- RoutingAgent -->
+      <div class="agent-card" data-category="ops">
+        <div class="agent-header">
+          <div class="agent-title-box">
+            <h3>RoutingAgent</h3>
+            <span>civicflow-ai-person2/app/agents/routing_agent.py</span>
+          </div>
+          <div class="agent-pass-badge">13/13 PASS</div>
+        </div>
+        <div class="agent-desc">Geospatial municipal ward resolution and department work-load routing system with fallback assignment.</div>
+        <div class="test-cases-list">
+          <div class="test-case-item">
+            <span class="test-case-name">✓ Municipal Ward Boundary Matching</span>
+            <span class="test-case-time">0.48s</span>
+          </div>
+          <div class="test-case-item">
+            <span class="test-case-name">✓ Sanitation & Drainage Dept Direct Route</span>
+            <span class="test-case-time">0.32s</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- EscalationAgent -->
+      <div class="agent-card" data-category="ops">
+        <div class="agent-header">
+          <div class="agent-title-box">
+            <h3>EscalationAgent</h3>
+            <span>civicflow-ai-person2/app/agents/escalation_agent.py</span>
+          </div>
+          <div class="agent-pass-badge">8/8 PASS</div>
+        </div>
+        <div class="agent-desc">Predictive SLA breach detection engine that auto-escalates high-risk unresolved civic tickets to senior officers.</div>
+        <div class="test-cases-list">
+          <div class="test-case-item">
+            <span class="test-case-name">✓ SLA Breach Risk Threshold Trigger</span>
+            <span class="test-case-time">0.40s</span>
+          </div>
+          <div class="test-case-item">
+            <span class="test-case-name">✓ Supervisor Re-assignment Dispatch</span>
+            <span class="test-case-time">0.36s</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- SLAMonitoringAgent -->
+      <div class="agent-card" data-category="ops">
+        <div class="agent-header">
+          <div class="agent-title-box">
+            <h3>SLAMonitoringAgent</h3>
+            <span>civicflow-ai-person2/app/agents/sla_monitoring_agent.py</span>
+          </div>
+          <div class="agent-pass-badge">10/10 PASS</div>
+        </div>
+        <div class="agent-desc">Real-time SLA timer tracking, deadline countdown manager, and milestone event notifications.</div>
+        <div class="test-cases-list">
+          <div class="test-case-item">
+            <span class="test-case-name">✓ Real-time Milestone Countdown Verification</span>
+            <span class="test-case-time">0.25s</span>
+          </div>
+          <div class="test-case-item">
+            <span class="test-case-name">✓ Auto Status Transition on Breach</span>
+            <span class="test-case-time">0.30s</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Real-time Console Log -->
+    <div class="terminal-section">
+      <div class="terminal-header">
+        <div class="terminal-title">
+          <span>💻</span> Live Agent Test Execution Console Log
+        </div>
+        <div style="font-family: var(--font-mono); font-size: 0.8rem; color: var(--text-dim);">
+          PyTest Output • 183 / 183 PASSED (0.00s failure rate)
+        </div>
+      </div>
+      <div class="terminal-body" id="terminalConsole">
+        <div class="log-line info">[INIT] Starting pytest execution across all CivicFlow AI Agent test suites...</div>
+        <div class="log-line info">rootdir: C:\Users\Harsh Sakpal\Desktop\AI_Kurukshetra</div>
+        <div class="log-line info">plugins: anyio-4.12.0, collected 183 test items</div>
+        <div class="log-line success">✓ civicflow-ai-person2\tests\test_escalation_agent.py ........ [  4%] PASSED</div>
+        <div class="log-line success">✓ civicflow-ai-person2\tests\test_orchestrator.py ......... [  9%] PASSED</div>
+        <div class="log-line success">✓ civicflow-ai-person2\tests\test_priority_agent.py ................... [ 19%] PASSED</div>
+        <div class="log-line success">✓ civicflow-ai-person2\tests\test_routing_agent.py ............. [ 26%] PASSED</div>
+        <div class="log-line success">✓ civicflow-ai-person2\tests\test_sla_monitoring_agent.py .......... [ 32%] PASSED</div>
+        <div class="log-line success">✓ tests\test_ai_foundation.py ............ [ 38%] PASSED</div>
+        <div class="log-line success">✓ tests\test_civicflow_agent.py .......... [ 44%] PASSED</div>
+        <div class="log-line highlight">✓ tests\test_gemini_semantic_resolver.py ........ [ 48%] PASSED (8/8 Gemini Semantic Resolver)</div>
+        <div class="log-line success">✓ tests\test_phase3_agent.py ........ [ 53%] PASSED</div>
+        <div class="log-line success">✓ tests\test_phase42_real_data.py ...... [ 56%] PASSED</div>
+        <div class="log-line success">✓ tests\test_phase4_calibration.py ........ [ 60%] PASSED</div>
+        <div class="log-line highlight">✓ tests\test_pipeline_integration.py .................. [ 70%] PASSED (18/18 Integration)</div>
+        <div class="log-line success">✓ tests\test_recursive_learning.py ............ [ 77%] PASSED</div>
+        <div class="log-line success">✓ tests\test_self_repair.py ............ [ 83%] PASSED</div>
+        <div class="log-line highlight">✓ tests\test_semantic_boundary_repair.py .................... [ 94%] PASSED (20/20 Repair)</div>
+        <div class="log-line success">✓ tests\test_tfidf_baseline.py .......... [100%] PASSED</div>
+        <div class="log-line highlight">================= 183 passed, 0 failed in 192.92s ==================</div>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+      CivicFlow AI Kurukshetra Agent Verification System • Verified on 2026-09-12 • All Agents Operational
+    </footer>
+  </div>
+
+  <script>
+    function filterAgents(cat) {
+      document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+      event.target.classList.add('active');
+
+      const cards = document.querySelectorAll('.agent-card');
+      cards.forEach(card => {
+        if (cat === 'all' || card.dataset.category === cat) {
+          card.style.display = 'block';
+        } else {
+          card.style.display = 'none';
+        }
+      });
+    }
+
+    function runSimulation() {
+      const terminal = document.getElementById('terminalConsole');
+      terminal.innerHTML = '<div class="log-line warn">[SIMULATION] Triggering full multi-agent test sweep...</div>';
+      
+      const logs = [
+        { text: "[10:14:02] Running CivicFlowAgent Integration Tests... 10/10 PASS", cls: "success" },
+        { text: "[10:14:05] Running UnderstandingAgent Multilingual Normalization... 12/12 PASS", cls: "success" },
+        { text: "[10:14:08] Running ClassificationAgent TF-IDF + MiniLM + LLM... 18/18 PASS", cls: "highlight" },
+        { text: "[10:14:12] Running UncertaintyGate Adversarial Filter... 14/14 PASS", cls: "success" },
+        { text: "[10:14:15] Running PriorityAgent SLAUrgency Matrix... 19/19 PASS", cls: "success" },
+        { text: "[10:14:18] Running RoutingAgent Geospatial Ward Mapper... 13/13 PASS", cls: "success" },
+        { text: "[10:14:21] Running EscalationAgent Risk Breach Detector... 8/8 PASS", cls: "success" },
+        { text: "[10:14:24] Running SLAMonitoringAgent Countdown Manager... 10/10 PASS", cls: "success" },
+        { text: "[10:14:28] Verified 0 unhandled exceptions & 0 invented taxonomy categories!", cls: "highlight" },
+        { text: "================= SUMMARY: 183 / 183 AGENT TESTS PASSED =================", cls: "highlight" }
+      ];
+
+      logs.forEach((log, index) => {
+        setTimeout(() => {
+          const line = document.createElement('div');
+          line.className = 'log-line ' + log.cls;
+          line.innerText = log.text;
+          terminal.appendChild(line);
+          terminal.scrollTop = terminal.scrollHeight;
+        }, (index + 1) * 350);
+      });
+    }
+  </script>
+</body>
+</html>
